@@ -1,11 +1,13 @@
 # Base de conocimiento
 
 ## Herramientas para la producción ideológica
-En general utilizamos Windows como sistema operativo de las notebooks o computadoras de escritorio. De manera nativa a este sistema aprendimos a trabajar las producciones escritas con las herramientas de Office: Word, Excel, PowerPoint. 
+En general utilizamos Windows como sistema operativo de las notebooks o computadoras de escritorio. De manera nativa a este sistema aprendimos a trabajar las producciones escritas con las herramientas de **Paquete Office**: **Word, Excel, PowerPoint**. Actualmente aproximadamente el **65-75%** de los usuarios de PC utilizan estas herramientas para la escritura. Al ponerle una licencia paga, a varios los están obligando de a poco a pagar, utilizar versiones piratas o migran a **Google Docs** (versión de Google del paquete Office) que es gratuito y ofrece la facilidad de disponibilidad los documentos en la nube para abrirlos desde cualquier lado, en cualquier dispositivo y trabajar de manera colaborativa.
 
-Seguramente trabajamos en la computadora y trabajamos directamente desde Word de Google y lo dejamos ahí o guardamos en el Google Drive porque podemos después verlo desde el celular. 
 ## Donde lo guardamos?
-La producción de informes, editoriales, folletería, líneas de tiempo, las guardamos en general en la nube de Telegram y de Google que es lo más común que utilizamos por comodidad de disponibilidad en cualquier lugar. 
+Por esas razones, nuestros documentos empiezan a ser cada vez mas linkeados a la #nube de **Google**. Si no es así, solemos tener herramientas como **OneDrive** o **DropBox**, un sistema de almacenamiento y versionado para guardar en la nube de Microsoft, algo que esta de manera nativa en Windows 11 y que se sincroniza automaticamente si no lo sacamos.
+De una u otra manera, lo que escribimos se guarda en la nube si no hacemos algo para evitarlo.
+
+Luego conscientemente o no la producción de informes, editoriales, folletería, líneas de tiempo, también quedan en la nube de **Telegram** porque es la herramienta de mensajería que usamos para enviárnoslas. A través de esta herramienta, los rusos, le disputan la información en las nubes de "occidente". 
 
 ### Problemas
 * No tener instalado el Word termina por uso y costumbre, utilizar el “Word” de Google, que es bastante parecido y no tiene que estar instalado.
