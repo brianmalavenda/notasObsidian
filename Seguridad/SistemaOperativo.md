@@ -1,0 +1,4 @@
+Más de un 70% son usuarios de Windows y las herramientas cotidianas instaladas en ese S.O. Dentro de una de las características principales que hacen al rastreo del comportamiento del usuario se encuentra el constante registro de actividad, o [Telemetria](Telemetria), que se envía a Microsoft. Con estos datos de comportamiento se utilizan para armar un perfil digital destinado desde el control político hasta la publicidad dirigida.
+##### Que hacer?
+Instalar versiones de Windows LTSC o versiones de Linux para principiantes, con un parecido muy similar a Windows: LinuxMint, PopoEs o escalar en aprendizaje y en seguridad instalando distribuciones como Kali, Tails, [Whonix](Whonix).
+Si continuamos con Windows por un tiempo para ir educando otros hábitos podemos eliminar la telemetría desinstalando programas pre-instalados en el sistema operativo y utilizando reglas que restrinjan la comunicación con servidores de Windows a través del Firewall. 

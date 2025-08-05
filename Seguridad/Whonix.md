@@ -1,0 +1,3 @@
+Links: [Configuracion](https://www.youtube.com/watch?v=BOkERgthqDw&t=2s)
+
+Como requisito hay que tener instalado algún virtualizador de máquinas como virtualbox. Luego, descargando el "iso" que es un .ova de la página de https://www.whonix.org/. Desde la virtualbox vamos a importar el .ova descargado y allí creará dos máquinas virtuales. Una máquina virtual funciona como gateway, puerta de enlace a la conexión de internet de mi router. Y otra maquina virtual funciona como workstation o estación de trabajo donde con un solo adaptador de red se conecta a la maquina #seguridad/web/gateway y luego a internet. Es decir, mi workstation esta aislado de la conexión de internet. 

@@ -1,39 +1,31 @@
 Tags: #seguridad/ordenador
-Links: [Telemetria](Telemetria.md)
+Links: [Telemetria](Telemetria.md), [Whonix](Whonix), [Databroker](Databroker)
 
 Conceptos: #bridge, #proxy
 1.  Configurar OneDrive para desvincularlo de los equipos y borrar los archivos que quedaron en la nube asegurando de descargarlos primero en el PC local
 2. Revisar la carpeta de Google Drive los archivos que tenemos con documentación "sensible" y borrarlos de la nube. 
-3. Google Docs lo utilizamos para el EJES. Para poder cambiar eso tenemos que escribir en nuestras pc desde un word sin estar conectado con el Office 365, es decir, vinculado el Windows con un usuario. 
+3. Google Docs lo utilizamos para el EJES. Para poder cambiar eso tenemos que escribir en nuestras pc desde un Word sin estar conectado con el Office 365, es decir, vinculado el Windows con un usuario. 
 
 ## Hardware
-Chips en Intel y AMD
-IME y PSP
-## Sistema operativo
-Instalar versiones de Windows LTSC o versiones de Linux para principiantes, con un parecido muy similar a Windows: LinuxMInt, PopoEs o escalar en aprendizaje y en seguridad instalando distribuciones como Tails, [Whonix](https://www.youtube.com/watch?v=BOkERgthqDw&t=2s).
-Si continuamos con Windows por un tiempo para ir educando otros hábitos podemos eliminar la telemetría con ShupUp 10. Lo único que no se puede desactivar es las actualizaciones de Windows.
-##### Opciones
-1. **Whonix**
-	Como requisito hay que tener instalado algún virtualizador de máquinas como virtualbox. Luego, descargando el "iso" que es un .ova de la página de https://www.whonix.org/. Desde la virtualbox vamos a importar el .ova descargado y allí creará dos máquinas virtuales. Una máquina virtual funciona como gateway, puerta de enlace a la conexión de internet de mi router. Y otra maquina virtual funciona como workstation o estación de trabajo donde con un solo adaptador de red se conecta a la maquina #seguridad/web/gateway y luego a internet. Es decir, mi workstation esta aislado de la conexión de internet. 
+Esto queda mas para investigación: Chips en Intel y AMD. IME y PSP
+## [Sistema operativo](SistemaOperativo.md)
+Más de un 70% son usuarios de Windows y las herramientas cotidianas instaladas en ese S.O. Dentro de una de las características principales que hacen al rastreo del comportamiento del usuario se encuentra el constante registro de actividad, o [Telemetria](Telemetria), que se envía a Microsoft. Con estos datos de comportamiento se utilizan para armar un perfil digital destinado desde el control político hasta la publicidad dirigida.
+##### Que hacer?
+Instalar versiones de Windows LTSC o versiones de Linux para principiantes, con un parecido muy similar a Windows: LinuxMint, PopoEs o escalar en aprendizaje y en seguridad instalando distribuciones como Kali, Tails, [Whonix](Whonix).
+Si continuamos con Windows por un tiempo para ir educando otros hábitos podemos eliminar la telemetría desinstalando programas pre-instalados en el sistema operativo y utilizando reglas que restrinjan la comunicación con servidores de Windows a través del Firewall. 
 
-## Aplicaciones de rastreo
+## [Antivirus](Antivirus)
+Los antivirus, para detectar un programa malicioso tiene que estar constantemente registrando los "movimientos" del usuario y los programas que se ejecutan en la PC. Por lo tanto ==NO INSTALAR ANTIVIRUS== por fuera del Windows Defender que ya viene en el sistema operativo. 
 
-### Nube
-1. **OneDrive**
-	La nube de Windows que viene instalado de manera predeterminada en el S.O va a hacer una copia de seguridad de tus datos y sincronizar información que no queremos que sea pública sino que nunca salga de nuestro pc. Por lo tanto, al iniciar en windows, hacer solo una cuenta local y no una cuenta vinculada a un mail de Microsoft. Si no vinculamos una cuenta, OneDrive no tiene donde subir la data y asociarla al usuario. Despues lo desinstalamos.
-2. **Antivirus**
-	No instalar antivirus por fuera del Windows Defender que ya viene en el sistema operativo. Los antivirus, para detectar un programa malicioso tiene que estar constantemente registrando los "movimientos" del usuario y los programas que se ejecutan en la PC. A través del registro de "escaner de firma" detectan un archivo malicioso, pero también, al momento previo de instalarse en la maquina, el comportamiento de dichos programas son estandarizados y usados como la forma de detectar un posible virus. Son reglas del tipo, "si modifica tal fichero, de tal unidad de almacenamiento y despues modifica tal otro registro", entonces esto puede ser un virus, por el comportamiento puede inferir el tipo: **Troyano, Spyware, Malvare, Ramsware, etc**. Como tienen que hacer constantemente este registro de actividad, es similar a la telemetría que hace windows y en general hubo varios casos donde las empresas relacionadas a los antivirus fueron denunciadas por vender informacion de los usuarios a [Databrokers](./Databroker) que funcionan de intermediarios para vender informacion de comportamiento de usuarios para mercados específicos de publicidad dirigida. 
-	***No es necesario que otro programa revise los datos de tu comportamiento si tu conducta de navegación es consciente de los problemas con los que nos podemos topar. Tiene más que ver con educación de navegación web.***
+### Que hacer?
+Si aún tenemos dudas de nuestra practica cotidiana para poder estar atentos e identificar posibles amenazas, o sin formatear el sistema queremos ver el estado actual. Podemos usar siempre Windows Defender, que ya viene instalado o recurrir a software de código abierto como [ClamWin](ClamWin).
 
+Lo otro que podemos hacer, para evitar sobre todo que Spyware o Malware nos infecte y se haga del contenido de nuestros archivos es **Encriptar los archivos de la PC**. Programas como VeraCrypt o ProtonCrypt podemos encriptar todos los datos desde el programa. 
 
+## Aplicaciones
 
-### Opciones
-1.  **ClamWin**
-	Un antivirus Open source que se ejecuta de manera manual. Podemos ver de programar un escaneo cada tanto tiempo sobre la carpeta del usuario. 
-2. **Encriptar contenido del PC**
-	Con programas como VeraCrypt podemos encriptar todos los datos desde el programa. Encriptadores de conocimiento cero (Proton)
-
-
+### [Nube](Nube)
+Las nubes son en definitiva equipos físicos que proveen de espacio de almacenamiento, una parte gratuitos porque ganan con los datos que se almacenan ahí para acceder a información de los usuarios y otras veces para ampliar el tamaño de almacenamiento se cobran, una "cuota de alquiler". 
 ### Login en aplicaciones web a través de email alias
 adding o simplelogin
 
