@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f4e6967e91ca3f",
+        "id": "b257a95c79c4114a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b3159b9fc4b3903",
+            "id": "78dcca86dc3d01a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Blog desarrolladores/Configurar Cloudflare (CDN).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Configurar Cloudflare (CDN)"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blog desarrolladores/Configurar Cloudflare (CDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Configurar Cloudflare (CDN)"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blog desarrolladores/Configurar Cloudflare (CDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Configurar Cloudflare (CDN)"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Blog desarrolladores/Configurar Cloudflare (CDN).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Configurar Cloudflare (CDN)"
             }
           }
         ]
@@ -162,23 +169,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b3159b9fc4b3903",
+  "active": "78dcca86dc3d01a1",
   "lastOpenFiles": [
-    "Anonimato hosting.md",
+    "Seguridad/Anonimato.md",
+    "Imagenes/anonimo_hosting.png",
+    "Web/Diseño web.md",
+    "Imagenes/Pasted image 20250724122111.png",
+    "Imagenes/Pasted image 20250630143247.png",
+    "Blog desarrolladores/PageSpeed.md",
+    "Imagenes/page_speed_1.png",
+    "Imagenes/Sin título.canvas",
+    "Imagenes/page_speed_2.png",
     "nbkSanMartin01",
     "Web/Temas Wordpress.md",
-    "Web/Servidores Autorotativos.md",
     "Web/Seguridad sitio Wordpress.md",
+    "Web/Servidores Autorotativos.md",
     "Web/Referencias de páginas.md",
-    "Web/Portfolio.md",
     "Web/Pruebas performance.md",
+    "Web/Portfolio.md",
     "Web/Plugins.md",
     "Web/Performance (buenas prácticas).md",
-    "Web/Imagenes PNG.md",
     "Web/Herramientas Performance Web.md",
+    "Web/Imagenes PNG.md",
     "Web/Herramientas Desarrolllo Web.md",
     "Web/GoogleDrive.md",
-    "Web/Diseño web.md",
     "Web/Correo corporativo.md",
     "Web/Cloudflare.md",
     "Web/Agencias paginas web.md",
@@ -186,12 +200,10 @@
     "Seguridad/Whonix.md",
     "Seguridad/Web-Redes.md",
     "Seguridad/VPN.md",
-    "Seguridad/Telemetria.md",
     "Seguridad/SistemaOperativo.md",
+    "Seguridad/Telemetria.md",
     "Seguridad/ProtonVPN.md",
     "Seguridad/Ordenador.md",
-    "Seguridad/OneDrive.md",
-    "Seguridad/Nube.md",
     "Seguridad",
     "Proyecto",
     "Imagenes/updraftplus_inicio_1.png",
@@ -199,12 +211,6 @@
     "Imagenes/updraftplus_backup_listado.png",
     "Imagenes/updraftplus.png",
     "Imagenes/sitio_stagging_iniciar_1.png",
-    "Imagenes/Sin título.canvas",
-    "Imagenes/registro_dominio_confirmar_1.png",
-    "Imagenes/registrar_dominio_precios_2.png",
-    "Imagenes/registrar_dominio_pagar_2.png",
-    "Imagenes/registrar_dominio_pagar_1.png",
-    "Imagenes/registrar_dominio_ingresar_1.png",
     "Imagenes",
     "Editorial",
     "Desarrollo Front",
