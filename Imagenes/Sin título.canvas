@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"68b7c8613ee55753","x":-1400,"y":-2460,"width":400,"height":131,"type":"file","file":"Imagenes/page_speed_2.png"},
-		{"id":"85a592dfc0c652a7","x":-1800,"y":-2280,"width":400,"height":269,"type":"file","file":"Imagenes/page_speed_1.png"}
+		{"id":"21ecd3250c73c473","x":-3500,"y":-3580,"width":400,"height":145,"type":"file","file":"Imagenes/cambiar_dns_05.png"}
 	],
 	"edges":[]
 }
