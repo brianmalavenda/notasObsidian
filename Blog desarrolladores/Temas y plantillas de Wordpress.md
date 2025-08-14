@@ -18,3 +18,10 @@ Una vez instalado el tema y activado aparecerá en el menú de la izquierda. All
 Así se ve la página para elegir las plantillas que están agrupadas por tipo de web que queremos diseñar.
 
 ![[Pasted image 20250804182316.png]]
+
+Links:
+Tags: 
+Links externos: 
+* [Envato](https://elements.envato.com/es/wordpress/themes)
+* [Bluuweb-Crear tema 2017](https://www.youtube.com/watch?v=P1vMMAAfTRM&list=PLPl81lqbj-4KuiW_p8OejglqTEHmfeEto&index=1)
+* [Bluuweb-Crear tema 2019](https://www.youtube.com/watch?v=yxszEbzl4gY&list=PLPl81lqbj-4KuiW_p8OejglqTEHmfeEto&index=20)
