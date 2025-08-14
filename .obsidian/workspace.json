@@ -4,68 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "abae96114373875c",
+        "id": "9a6ee24e198faf99",
         "type": "tabs",
         "children": [
           {
-            "id": "435f4d9344e7cc75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manual de marca/Manual de marca del sitio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manual de marca del sitio"
-            }
-          },
-          {
-            "id": "8de051647352f2b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error Pyhton instalar bibliotecas de terceros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Error Pyhton instalar bibliotecas de terceros"
-            }
-          },
-          {
-            "id": "148fad5993bcc5c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Error Pyhton instalar bibliotecas de terceros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Error Pyhton instalar bibliotecas de terceros"
-            }
-          },
-          {
-            "id": "a28aeac680f8dd2b",
+            "id": "78e0f30519d1fc89",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
                 "aFile": ".obsidian/workspace.json",
                 "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aRef": ""
               },
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,12 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a28aeac680f8dd2b",
+  "active": "78e0f30519d1fc89",
   "lastOpenFiles": [
+    "Error Pyhton instalar bibliotecas de terceros.md",
     "Imagenes/page_speed_1.png",
     "Imagenes/anonimo_hosting.png",
     "conflict-files-obsidian-git.md",
-    "Error Pyhton instalar bibliotecas de terceros.md",
     "Seguridad/Anonimato.md",
     "Imagenes/page_speed_2.png",
     "Blog desarrolladores/PageSpeed.md",
