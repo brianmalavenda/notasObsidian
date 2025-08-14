@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"3124f2c3aafa51a3","type":"file","file":"Imagenes/updraftplus_backup_listado.png","x":-1620,"y":-1900,"width":941,"height":130},
-		{"id":"7fa38c6c7565cf35","type":"file","file":"Imagenes/manual_marca_logo.png","x":-1620,"y":-2540,"width":400,"height":276},
-		{"id":"1581b7b37a27b37b","x":-1149,"y":-2155,"width":400,"height":121,"type":"file","file":"Imagenes/manual_marca_contraste_color.png"}
+		{"id":"68b7c8613ee55753","x":-1400,"y":-2460,"width":400,"height":131,"type":"file","file":"Imagenes/page_speed_2.png"},
+		{"id":"85a592dfc0c652a7","x":-1800,"y":-2280,"width":400,"height":269,"type":"file","file":"Imagenes/page_speed_1.png"}
 	],
 	"edges":[]
 }

@@ -48,9 +48,24 @@
               "icon": "lucide-file",
               "title": "Error Pyhton instalar bibliotecas de terceros"
             }
+          },
+          {
+            "id": "a28aeac680f8dd2b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,8 +223,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "148fad5993bcc5c5",
+  "active": "a28aeac680f8dd2b",
   "lastOpenFiles": [
+    "Imagenes/page_speed_1.png",
+    "Imagenes/anonimo_hosting.png",
+    "conflict-files-obsidian-git.md",
+    "Error Pyhton instalar bibliotecas de terceros.md",
+    "Seguridad/Anonimato.md",
+    "Imagenes/page_speed_2.png",
+    "Blog desarrolladores/PageSpeed.md",
     "Python.md",
     "Docker.md",
     "Boludeces.md",
@@ -220,7 +242,6 @@
     "ElasticSearch (ES).md",
     "Sin título.md",
     "Manual de marca",
-    "Error Pyhton instalar bibliotecas de terceros.md",
     "Imagenes/Pasted image 20250808130253.png",
     "Seguridad/Antivirus.md",
     "Seguridad/Celular.md",
@@ -236,10 +257,6 @@
     "Seguridad/ProtonVPN.md",
     "Seguridad/SistemaOperativo.md",
     "Seguridad/Telemetria.md",
-    "Seguridad/VPN.md",
-    "Seguridad/Web-Redes.md",
-    "Seguridad/Whonix.md",
-    "Geolocalizacion-Mapas/Territorios e identificación.md",
     "Imagenes/Pasted image 20250808114648.png",
     "Imagenes/Pasted image 20250808114631.png",
     "Geolocalizacion-Mapas",
@@ -247,9 +264,6 @@
     "Imagenes/manual_marca_contraste_color.png",
     "Imagenes/Sin título.canvas",
     "Imagenes/manual_marca_logo.png",
-    "Imagenes/Pasted image 20250804183748.png",
-    "Imagenes/Pasted image 20250804183632.png",
-    "Imagenes/Pasted image 20250804182316.png",
     "Blog clientes",
     "Imagenes/Sin título 1.canvas",
     "Imagenes/registrar_dominio_buscar_2.canvas",

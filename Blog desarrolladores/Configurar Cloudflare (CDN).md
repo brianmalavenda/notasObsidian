@@ -1,3 +1,4 @@
+
 Cuando conectas un dominio que no es de testing, por lo menos con el hosting **bluehost** autoconecta al CDN de Cloudflare. Pero inicie una cuenta en cloudflare para poder administrar desde Cloudflare el trafico de la web. Desde ahi tenemos acceso a estadísticas basicas del sitios, Google Analitics y además podemos establecer algunas reglas de seguridad.
 
 Una vez creado un usuario en Cloudflare, registrar su dominio con la opción "Busqueda rápida de registros DNS". Seleccionar el plan FREE y luego hay que agregar los registros DNS
@@ -19,6 +20,29 @@ Los registros DNS (Domain Name System) son instrucciones almacenadas en el archi
 Comprobar propiedad del dominio y DNS
 ![[cloudflare_icann_lookup.png]]
 Para eso se accede a https://lookup.icann.org/en/lookup y se busca el dominio el cual estamos dando de alta en Cloudflare. Si se encuentra al dominio y sus registros, proseguimos en cambiar los DNS por los de cloudflare
+#### Registration data lookup tool
+
+- Name: famosos50.com.ar
+- Registry Domain ID: famosos50.com.ar
+- Domain Status:
+    
+    active
+    
+- Nameservers:
+    
+    ns1.bluehost.com
+    
+    ns2.bluehost.com
+    
+
+Dates
+
+- Registry Expiration: 2026-07-10 09:00:00 UTC
+- Updated: 2025-07-15 13:11:51 UTC
+- Created: 2025-07-10 07:34:01 UTC
+- 
+https://rdap.nic.ar/domain/famosos50.com.ar
+
 
 ![[cloudflare_DNS_reemplazar.png]]
 
@@ -47,3 +71,11 @@ Despues de configurar la regla para solo aceptar solicitudes de Argentina, nos c
 
 1. Configurar cache, reglas para imagenes
 2. Configurar reglas contra bots y crawlers
+
+
+Links:
+Tags:
+Links externos:
+[Contenido de como configurar cloudflare](https://www.youtube.com/watch?v=I2mv4456l74)
+[Reglas de cloudflare](https://github.com/search?q=cloudflare%20rules&type=repositories)
+
