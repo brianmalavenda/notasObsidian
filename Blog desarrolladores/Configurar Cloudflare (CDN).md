@@ -78,4 +78,4 @@ Tags:
 Links externos:
 [Contenido de como configurar cloudflare](https://www.youtube.com/watch?v=I2mv4456l74)
 [Reglas de cloudflare](https://github.com/search?q=cloudflare%20rules&type=repositories)
-
+[Cloudflare](https://www.youtube.com/watch?v=G0P-fL39N-0)

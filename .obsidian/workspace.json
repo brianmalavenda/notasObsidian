@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6ee24e198faf99",
+        "id": "e167947990a64e64",
         "type": "tabs",
         "children": [
           {
-            "id": "78e0f30519d1fc89",
+            "id": "15d7584acfe22df1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Boludeces.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Boludeces"
             }
           }
         ]
@@ -179,8 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78e0f30519d1fc89",
+  "active": "15d7584acfe22df1",
   "lastOpenFiles": [
+    "ISP Internet/Fibra FTTH.md",
+    "Boludeces.md",
+    "ISP Internet",
+    "Blog desarrolladores/Configurar Cloudflare (CDN).md",
+    "Python.md",
+    "Blog seguridad/Cambiar DNS de la PC.md",
+    "Docker.md",
+    "Coyuntura.md",
+    "ElasticSearch (ES).md",
+    "Sin título.md",
     "Error Pyhton instalar bibliotecas de terceros.md",
     "Imagenes/page_speed_1.png",
     "Imagenes/anonimo_hosting.png",
@@ -188,15 +198,9 @@
     "Seguridad/Anonimato.md",
     "Imagenes/page_speed_2.png",
     "Blog desarrolladores/PageSpeed.md",
-    "Python.md",
-    "Docker.md",
-    "Boludeces.md",
-    "Coyuntura.md",
     "Manual de marca/Manual de marca del sitio.md",
     "Imagenes/Pasted image 20250811134105.png",
     "Imagenes/Pasted image 20250811134046.png",
-    "ElasticSearch (ES).md",
-    "Sin título.md",
     "Manual de marca",
     "Imagenes/Pasted image 20250808130253.png",
     "Seguridad/Antivirus.md",
@@ -211,8 +215,6 @@
     "Seguridad/OneDrive.md",
     "Seguridad/Ordenador.md",
     "Seguridad/ProtonVPN.md",
-    "Seguridad/SistemaOperativo.md",
-    "Seguridad/Telemetria.md",
     "Imagenes/Pasted image 20250808114648.png",
     "Imagenes/Pasted image 20250808114631.png",
     "Geolocalizacion-Mapas",
@@ -227,7 +229,6 @@
     "Web",
     "Editorial",
     "Coyuntura",
-    "nbkSanMartin01",
-    "Seguridad"
+    "nbkSanMartin01"
   ]
 }

@@ -1,5 +1,4 @@
 
-
 ---
 ### Reconstruir la imagen Docker
 

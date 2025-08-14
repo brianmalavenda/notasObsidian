@@ -5,8 +5,6 @@ Para evitar eso, vamos a configurar otro. Como mencionamos en el documento de es
 
 Cada vez que vamos a entrar a una página, tenemos que ir primero a un servidor de nombres. Depende cual acceda, la latencia (tiempo entre que envío un paquete de información y lo recibo) varía. Por ejemplo, los servidores DNS más comunes son Cloudflare, Google, después tenemos otros servicios públicos como Quad9 en Suiza. Esos son los primeros 3. Cuando vemos los de china los tiempos de latencia cambian muchísimo, pero el de Alibaba DNS no es tan malo. Por lo tanto vamos a poner ese a prueba.
 
-![](file:///C:/Users/vanes/AppData/Local/Temp/lu15128zp2iel.tmp/lu15128zp2ieo_tmp_c56e9357.png)
-
 
 Con Windows 10, para acceder a cambiar la configuración de Red hay que ir al buscador en la barra de tareas y escribir “Estado de Red”. Una vez allí, en la ventana que nos abre vamos a ir a Cambiar opciones de adaptador. 
 
@@ -30,7 +28,35 @@ En ambos casos, Windows 10 o 11, la ventana de configuración del adaptador de r
 Va a abrir una venta y aparecerá un ícono que haga referencia a una señal de Wifi si están coenctados por Wifi o (como en mi caso) un ícono con un cable Ethernet. Hacemos click derecho sobre el ícono y seleccionamos “Propiedades”. Abre una ventana en donde buscaremos entre las opciones tildadas “Protocolo de Internet versión 4 (TCP/IPv4)”. Seleccionamos esa opcion (hacemos clcik una vez) y se habilita abajo el botón “Propiedades”. Tocamos ahí, abre una nueva ventana donde tildaremos la opción “Usar las siguientes direcciones de servidor DNS”, lo que nos permitirá poner la IP del servidor DNS que querremos. Vamos a poner com esta en la foto que son los servidores de Alibaba.
 
   
-  
+### Servidor DNS para ocultar tráfico por la web. Reemplazar el servicio DNS de mi proveedor ISP
+
+Si querés que **tu ISP no sepa qué sitios visitás**, deberías:
+
+1. **Cambiar tu DNS a uno que soporte DoH/DoT (Cloudflare, Quad9, AdGuard)**
+    
+2. **Activar el cifrado DNS en tu sistema o navegador**
+    
+3. **Usar una VPN para ocultar todo tu tráfico, incluida la IP de destino**
+    
+4. **Usar herramientas que bloqueen rastreadores (navegador, plugins, etc.)**
+
+## IPv4
+
+- 9.9.9.9
+- 149.112.112.112
+
+## IPv6
+
+- 2620:fe::fe
+- 2620:fe::9
+
+## HTTPS
+
+- https://dns.quad9.net/dns-query
+
+## TLS
+
+- tls://dns.quad9.net  
 
   
   
