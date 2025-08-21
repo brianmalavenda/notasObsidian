@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Seguridad sitio Wordpress.md",
+                "file": "Portal ejes/tareas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seguridad sitio Wordpress"
+              "title": "tareas"
             }
           }
         ]
@@ -179,9 +179,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8946bb766837fd31",
+  "active": "78dcca86dc3d01a1",
   "lastOpenFiles": [
+    "Portal ejes/notas_proyecto_paso1.md",
+    "Portal ejes/herramientas desarrollo.md",
+    "Portal ejes/entidad-relacion.md",
+    "Portal ejes/arquitectura.md",
+    "Portal ejes/tareas.md",
+    "Editorial/250702 mundo.md",
+    "Untitled.md",
+    "Portal ejes",
+    "Blog seguridad/Crear cuenta proton.md",
     "Blog seguridad/Cambiar DNS de la PC.md",
+    "Blog desarrolladores/Temas y plantillas de Wordpress.md",
+    "Blog desarrolladores/Registrar dominio.md",
+    "Blog desarrolladores/PageSpeed.md",
+    "Blog desarrolladores/Manual de marca del sitio.md",
+    "Blog desarrolladores/Integración Mercado Pago.md",
+    "Blog desarrolladores/Delegar dominio.md",
+    "Blog desarrolladores/Crear una plantilla de Wordpress.md",
+    "Blog desarrolladores/Crear un sitio staging (pruebas).md",
+    "Blog desarrolladores/Crear backups del sitio.md",
+    "Blog desarrolladores/Configurar Cloudflare (CDN).md",
+    "Web/Seguridad sitio Wordpress.md",
     "Imagenes/cambiar_dns_05.png",
     "Imagenes/Sin título.canvas",
     "Imagenes/cambiar_dns_04.png",
@@ -189,43 +209,24 @@
     "Imagenes/registro_dominio_confirmar_1.png",
     "Imagenes/cambiar_dns_02.png",
     "Imagenes/cambiar_dns_01.png",
-    "Blog seguridad/Crear cuenta proton.md",
     "Imagenes/Pasted image 20250806100430.png",
     "Imagenes/Pasted image 20250806095439.png",
     "Imagenes/cuenta_proton_7.png",
     "Imagenes/Pasted image 20250806095348.png",
-    "Blog desarrolladores/Temas y plantillas de Wordpress.md",
     "Blog seguridad",
     "Blog desarrolladores/Crear un tema Wordpress.md",
-    "Blog desarrolladores/Crear una plantilla de Wordpress.md",
-    "Blog desarrolladores/Configurar Cloudflare (CDN).md",
     "Seguridad/Anonimato.md",
     "Web/Diseño web.md",
-    "Blog desarrolladores/PageSpeed.md",
     "nbkSanMartin01",
     "Web/Temas Wordpress.md",
-    "Web/Seguridad sitio Wordpress.md",
     "Web/Servidores Autorotativos.md",
     "Web/Referencias de páginas.md",
-    "Web/Pruebas performance.md",
-    "Web/Portfolio.md",
-    "Web/Plugins.md",
-    "Web/Performance (buenas prácticas).md",
-    "Web/Herramientas Performance Web.md",
-    "Web/Imagenes PNG.md",
-    "Web/Herramientas Desarrolllo Web.md",
-    "Web/GoogleDrive.md",
-    "Web/Correo corporativo.md",
-    "Web/Cloudflare.md",
-    "Web/Agencias paginas web.md",
     "Web",
-    "Seguridad/Whonix.md",
     "Seguridad",
     "Proyecto",
     "Imagenes",
     "Editorial",
     "Desarrollo Front",
-    "CuentasApps",
-    "Blog desarrolladores"
+    "CuentasApps"
   ]
 }
