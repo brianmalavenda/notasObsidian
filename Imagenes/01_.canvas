@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"99d7849de43a4303","type":"file","file":"Imagenes/menu_pagina_personalizacion.png","x":-620,"y":-680,"width":400,"height":279},
+		{"id":"a115eb993398e9bc","x":-760,"y":-940,"width":400,"height":304,"type":"file","file":"Imagenes/menu_categorias.png"}
+	],
+	"edges":[]
+}

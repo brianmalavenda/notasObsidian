@@ -1,0 +1,18 @@
+1- PASO 1 - BUSQUEDA DE NOTAS EN PORTALES (acceso a todos)
+Comenzara con una seccion donde cada usuario logeado busque en una pagina baseURL/portales/ las notas de distintos portales que usaremos como cableras para identificar los hechos mas relevantes del día. Contará con un filtro para poder filtrar los portales que se refieren a noticias de argentina, a las que son solo del mundo o las que refieren a latinoamerica. Además contara con un filtro de "ultimas 24 hs" y un pequeño motor de busqueda sobre estas notas donde podremos definir palabras importantes a buscar, por ejemplo si el hecho del día son las elecciones en determinado lugar buscar "elecciones, resultados, candidato X"
+Cada noticia identificada de los portales utilizando alguna herramienta como un feed RSS debe tener en nuestro portal la posibilidad de copiarla para tomar el contenido de la pagina y copiarlo a nuestro portal como si fuera un crawling page o un scraping page. Esta nota la utilizaremos para extraer los datos objetivos de ciertos hechos y toda la edicion la borraremos para dar paso a los escritores de nuestra empresa.
+Tambien dispondremos de una opcion en esta pagina del portal para copiar el contenido de una nota desde un link externo por si quizas no se levanto la nota por el feed o simplemente porque es un portal que no solemos utilizar como cablera pero hay un hecho determinado que amerite usar otro.
+
+2- PASO 2 - SELECCION DE NOTAS DE INSUMO (acceso a todos)
+Cada nota "copiada" se guardara en una primer seleccion de notas bases, visibles en la pagina baseURL/notas/seleccion/mundo donde por cada seccion de nuestro diario tendremos una pagina para visualizar los hehcos mas relevantes seleccionados. Porder verlos en cajas arrastrables para reordenar cual va primera, cual segunda, de ser necesario y tambien para poder eliminar o editar segun corresponda. Una vez que nos pongamos de acuerdo con el orden y notas que entran en la edicion del diario de hoy vamos a dar click en un boton que se encontrara al final de la pagina donde diga "mandar a edicion"
+
+3- PASO 3 - EDICION DE NOTAS (usuarios con rol "escritores/editores/editores_generales", no podran acceder a editar los que sean "seleccionadores")
+Aqui tomaremos las notas usadas como base, las visualizaremos con un layout parecido a la anterior pagina baseURL/notas/seleccion/mundo, esta pagina sera baseURL/notas/edicion/mundo. En cada nota ademas de tener la opcion de arrastrar por si tenemos que reordenar que lugar, que pagina, estara en mi diario, podremos editarla y/o eliminarla si no estemos conformes con el hecho. Ademas, se agregan en esta pagina la posibilidad de marcar un estado para cada nota. Si el escritor del cuerpo de la nota ya termino de escribirla habra un checkbox o algo similar que indicara que la nota esta "escrita". Si el editor ya le puso título, copete y volanta, la nota estara "editada" y si el supervisor la aprueba sera "aprobada". Cuando se terminen todas las notas y el supervisor de la region las haya aprobado a todas el usuario con rol "editores_generales" tendra visible el boton para "terminar edicion".
+
+4- PASO 4 - EDICION DIARIO ENTERO
+En esta pagina baseURL/diario/portal veremos las tres secciones del diario (argentina, mundo, nuestra america) donde veremos por cada region cantidad de notas con la que va a trabajar, la cantidad de notas en estado "escritas", la cantidad de notas "editadas" y "aprobadas". Cuando en la seccion anterior finalicen la edicion, cambiara el estado de la region a finalizado sino estará "editando".
+Cuando todas las regiones hayan "finalizado" edicion. Tenemos la opcion a través de distintos botones para:
+1- enviar a portal
+2- enviar a imprimir
+3- grabar audio
+
