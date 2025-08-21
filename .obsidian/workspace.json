@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "tareas"
             }
+          },
+          {
+            "id": "3e360473cb480941",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78dcca86dc3d01a1",
+  "active": "3e360473cb480941",
   "lastOpenFiles": [
     "Portal ejes/notas_proyecto_paso1.md",
     "Portal ejes/herramientas desarrollo.md",
