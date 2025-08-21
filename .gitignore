@@ -1,1 +1,13 @@
+# Archivos específicos de dispositivo
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/core-plugins.json
+
+# Cache y temporales
+.obsidian/trash/
+.obsidian/cache/
+
+# Plugins (opcional, depende de si quieres sincronizar plugins)
+# .obsidian/plugins/
