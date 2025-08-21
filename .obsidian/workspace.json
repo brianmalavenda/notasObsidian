@@ -13,15 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boludeces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boludeces"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,65 +169,5 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
-    }
-  },
-  "active": "15d7584acfe22df1",
-  "lastOpenFiles": [
-    "ISP Internet/Fibra FTTH.md",
-    "Boludeces.md",
-    "ISP Internet",
-    "Blog desarrolladores/Configurar Cloudflare (CDN).md",
-    "Python.md",
-    "Blog seguridad/Cambiar DNS de la PC.md",
-    "Docker.md",
-    "Coyuntura.md",
-    "ElasticSearch (ES).md",
-    "Sin título.md",
-    "Error Pyhton instalar bibliotecas de terceros.md",
-    "Imagenes/page_speed_1.png",
-    "Imagenes/anonimo_hosting.png",
-    "conflict-files-obsidian-git.md",
-    "Seguridad/Anonimato.md",
-    "Imagenes/page_speed_2.png",
-    "Blog desarrolladores/PageSpeed.md",
-    "Manual de marca/Manual de marca del sitio.md",
-    "Imagenes/Pasted image 20250811134105.png",
-    "Imagenes/Pasted image 20250811134046.png",
-    "Manual de marca",
-    "Imagenes/Pasted image 20250808130253.png",
-    "Seguridad/Antivirus.md",
-    "Seguridad/Celular.md",
-    "Seguridad/Clamwin.md",
-    "Seguridad/Comportamiento.md",
-    "Seguridad/Conexiones DHCP.md",
-    "Seguridad/Databroker.md",
-    "Seguridad/El gran dragón.md",
-    "Seguridad/Notas respecto de seguridad.md",
-    "Seguridad/Nube.md",
-    "Seguridad/OneDrive.md",
-    "Seguridad/Ordenador.md",
-    "Seguridad/ProtonVPN.md",
-    "Imagenes/Pasted image 20250808114648.png",
-    "Imagenes/Pasted image 20250808114631.png",
-    "Geolocalizacion-Mapas",
-    "Desarrollo",
-    "Imagenes/manual_marca_contraste_color.png",
-    "Imagenes/Sin título.canvas",
-    "Imagenes/manual_marca_logo.png",
-    "Blog clientes",
-    "Imagenes/Sin título 1.canvas",
-    "Imagenes/registrar_dominio_buscar_2.canvas",
-    "Blog desarrolladores",
-    "Web",
-    "Editorial",
-    "Coyuntura",
-    "nbkSanMartin01"
   ]
 }
