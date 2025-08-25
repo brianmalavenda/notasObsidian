@@ -5,7 +5,7 @@ Los temas por nosotros más usados son Astra y Blocksy.
 
 Para elegir un tema y luego una plantilla vamos al menú de la izquierda y entraremos en la opción del menú "Appareance" o "Apariencia" en español. Allí entraremos a los "Temas de Wordpress" haciendo click en el botón.
 
-![[Pasted image 20250804175311.png]]
+![[temas_wordpress_01.png]]
 
 En el buscador que hay hacia la derecha buscaremos "Astra" o "Blocksy" para instalar el Tema.
 
@@ -13,11 +13,11 @@ En el buscador que hay hacia la derecha buscaremos "Astra" o "Blocksy" para inst
 
 Una vez instalado el tema y activado aparecerá en el menú de la izquierda. Allí ir a "Starter Templates" para elegir la plantilla de inicio del sitio. Estas plantillas son las provistas por Astra. 
 
-![[Pasted image 20250804181737.png]]
+![[temas_astra_02.png]]
 
 Así se ve la página para elegir las plantillas que están agrupadas por tipo de web que queremos diseñar.
 
-![[Pasted image 20250804182316.png]]
+![[temas_astra_01.png]]
 
 Links:
 Tags: 

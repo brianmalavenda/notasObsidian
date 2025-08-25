@@ -28,9 +28,9 @@ A flat design logo showcasing the brand "Sanmartin Dev" with a modern and minima
 
 Entrar a [IDEOGRAM](https://ideogram.ai/), logearse y poner el prompt, generar de la version mas acorde a la idea o la que mejor te alla gustado un "remix", es decir, un reversionado partiendo de la idea anterior.
 
-![[Pasted image 20250811134046.png]]
+![[generar_imagenes_ia_02.png]]
 
-![[Pasted image 20250811134105.png]]
+![[generar_imagenes_ia_01.png]]
 
 #### 3. Retocar el logo
 

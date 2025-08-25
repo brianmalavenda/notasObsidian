@@ -1,4 +1,7 @@
 
+Tags: #wordpress #plugins #wpforms 
+Links: 
+
 Utilizaremos el plugin WPForms que es muy sencillo de utilizar. Para eso hay que acceder desde el menú a la opción "Plugins".
 
 ![[plugin_wordpress_menu_1.png]]

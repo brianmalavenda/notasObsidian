@@ -1,3 +1,7 @@
+
+Tags: #wordpress #staging #pruebas 
+Links:
+
 Dentro del sitio Wordpress acceder como administradores desde el hosting o desde el login de la aplicación.
 
 ![[sitio_stagging_iniciar_1.png]]

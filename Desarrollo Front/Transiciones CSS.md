@@ -1,6 +1,6 @@
 
+Tags: #css #desarrollo_front
 Link: [Brutales transiciones entre páginas con CSS (0 JavaScript)](https://www.youtube.com/watch?v=5L4M4-WOGwo)
-Tags: #css 
 
 Conseguir transiciones sin javascript para la #css/navegacion entre página. Transiciones fade-in, fade-out desde una imagen o desde el contenido completo
 

@@ -1,4 +1,7 @@
 
+Tags: #backups #wordpress #plugins #updraftplus 
+Links: 
+
 Acceder desde el menú a la opción "Plugins" para descargar uno llamado UpdraftPlus.
 
 ![[plugin_wordpress_menu_1.png]]
@@ -38,7 +41,22 @@ Con los datos del servidor, usuario y contraseña, (sin necesidad de poner el pu
 
 A la derecha aparece la carpeta del servidor y a la izquierda las carpetas de nuestra computadora. Es tan simple como arrastrar aquellos archivos zip de los backups que queremos almacenar en nuestra PC.
 
+Desde el servidor vamos al sitios que queremos hacer la copia de seguridad y aregamos una cuenta FTP.
+
+![[backup_updraftplus_03.png]]
+En este caso es la cuenta [mail@[dominio]] . Despues vamos al sitios y a la configuracion del plugin. Allí configuramos el plugin para que el backup se hace en una carpeta conectada a FTP y abajo configuramos la conexión con ese usuario del servidor donde se aloja el sitio en este caso.
 
 #### Configurar desde un servidor de FTP instalado en la computadora personal
 
 Lo dejamos por aca https://www.inmotionhosting.com/support/edu/wordpress/plugins/ftp-backup/
+
+
+## Backup del sitio sin instalar aplicaciones
+
+Sin ninguna configuración, así como esta configurado el plugin
+![[backup_updraftplus_02.png]]
+
+El backup se almacena directamente en la carpeta public_html del sitio.
+
+![[backup_updraftplus_01.png]]
+

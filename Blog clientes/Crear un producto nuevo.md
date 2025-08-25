@@ -48,4 +48,6 @@ Manejo de impuestos: Sujeto a impuestos o envío solamente
 
 ![](file:///C:/Users/brian/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg)Con los datos de esta pestaña se calcula luego el costo de envío si se agrega a la página el envío por Correo Argentino, OCA, etc.
 
-## MUESTRA DE CÓMO SE VE EN LA PÁGINA![](file:///C:/Users/brian/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)![](file:///C:/Users/brian/AppData/Local/Temp/msohtmlclip1/01/clip_image017.png)
+## MUESTRA DE CÓMO SE VE EN LA PÁGINA
+
+![](file:///C:/Users/brian/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)![](file:///C:/Users/brian/AppData/Local/Temp/msohtmlclip1/01/clip_image017.png)

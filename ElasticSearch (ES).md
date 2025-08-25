@@ -184,7 +184,7 @@ Acá se ve como cerrando la ejecución anterior y volviendo a correr el script p
 
 Learn more at https://github.com/elastic/start-local
 
-![[Pasted image 20250808130253.png]]
+![[elastich_search_docker_01.png]]
 
 
 #### Request exitoso

@@ -1,4 +1,7 @@
 
+Tags: #dominio #delegar_dominio #dns 
+Links:  [nic.ar](https://nic.ar)
+
 | ¿Qué necesitás para hacer trámites de dominios?                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | - N° de CUIT/CUIL y Clave Fiscal Nivel 2 o superior<br>- Si sos No Residente, Usuario/ID y Contraseña<br><br>Si no estás validado como usuario No Residente, hacelo desde [Validación de Usuarios No Residentes](https://nic.ar/ayuda/atencion_a_usuarios/no-residentes) |

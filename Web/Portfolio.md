@@ -10,37 +10,37 @@ https://www.youtube.com/watch?v=1gyM-0FDvLo&ab_channel=ALEXUI-UX
 
 https://www.youtube.com/watch?v=a_REpWkPt1s&ab_channel=VectorM%3A
 ### Call to action
-![[Pasted image 20250724114725.png]]
+![[agencia_ejemplo_01.png]]
 
 ### Método 
-![[Pasted image 20250724114817.png]]
+![[agencia_ejemplo_02.png]]
 
 Siempre tiene los "Call to action" acompañandote en la página
 
 ### Agendar reunion con calendy
-![[Pasted image 20250724114924.png]]
+![[agencia_ejemplo_03.png]]
 
 Esta bueno que te deje agender una reunion directamente desde la página. Es otro "call to action" muy directo.
 
 ### Aumento de visibilidad de marca
 
-![[Pasted image 20250724122111.png]]
+![[agencia_ejemplo_05.png]]
 
 ### Redes sociales
-![[Pasted image 20250724122031.png]]
+![[agencia_ejemplo_04.png]]
 un buen slider con el layout de las redes sociales e imagenes del sitio
-![[Pasted image 20250724122458.png]]
+![[agencia_ejemplo_07.png]]
 Grilla de marcas conocidas de integracion de la web
 
 #### Seccion donde sugeris interaccion frecuente con usuarios
-![[Pasted image 20250724122203.png]]
+![[agencia_ejemplo_06.png]]
 
 ### Precios standar publicados
-![[Pasted image 20250724124928.png]]
+![[astra_opcion_menu.png]]
 
 ### Servicios
 
-![[Pasted image 20250724125037.png]]
+![[agencia_ejemplo_08.png]]
 Ir viendo de detallar
 - **Diseño personalizado** a tu marca
 - 1 año de dominio.com.ar **GRATIS**
@@ -56,7 +56,7 @@ Ir viendo de detallar
 - Instalación de Antivirus
 - Integración con ReCaptcha para SPAM
 ### Que tipo de página queres?
-![[Pasted image 20250724125433.png]]
+![[agencia_ejemplo_09.png]]
 Es buena idea que podamos tener para cada "nicho" una presentacion de plantilla de base. Los nichos mencionados por esta página son:
 * Prepagas
 * Inmobiliarias
@@ -69,7 +69,7 @@ Es buena idea que podamos tener para cada "nicho" una presentacion de plantilla 
 
 ### Diseños para profesionales (cuentapropistas)
 
-![[Pasted image 20250724125712.png]]
+![[agencia_ejemplo_10.png]]
 
 
 
@@ -94,7 +94,7 @@ Es buena idea que podamos tener para cada "nicho" una presentacion de plantilla 
 ![[Pasted image 20250725074651.png]]
 
 7) Disposicion de informacion
-![[Pasted image 20250725075910.png]]
+![[layer_news.png]]
 
 8) Diseño de precios
 ![[Pasted image 20250725080338.png]]

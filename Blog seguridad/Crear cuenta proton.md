@@ -1,7 +1,8 @@
-
+Tags: #proton #seguridad/ordenador #seguridad/web #seguridad/email 
+Links: [proton](https://account.proton.me/start)
 ## Proton Email
 
-Primero acceder a la página https://account.proton.me/start. Una vez allí, crear una cuenta. Poner el Username, dar click en "Create free account now" y luego pedirá la contraseña o Password. 
+Una vez allí, crear una cuenta. Poner el Username, dar click en "Create free account now" y luego pedirá la contraseña o Password. 
 
 ![[cuenta_proton_1.png]]
 
@@ -43,4 +44,4 @@ Luego, abrir la aplicación. Aparecerá para logearse. Nos logeamos y en la pág
 
 Si el servidor que nos toca no nos gusta por algún motivo, nos aparecerá la opción "Cambiar servidor". Esto se define automaticamente en que servidor caigo, el plan gratuito no tiene la posibilidad de seleccionar manualmente desde que servidor quiero salir. Abajo a la derecha de la barra de tareas (la barra de abajo de la pantalla), aparecerá el ícono de proton.pass con un candado en verde, demostrado que estamos conectados. Aparecerá rojo cuando estemos desconectados. Haciendo click y apretando en "Desconectar" se puede facilmente cambiar de un estado a otro.
 
-![[Pasted image 20250806100430.png]]
+![[proton_barra_tareas_01.png]]
