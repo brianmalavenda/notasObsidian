@@ -1,6 +1,6 @@
 
 Tags: #backups #wordpress #plugins #updraftplus #blog_desarrolladores
-Links: 
+Links: [[03_Plugins]]
 
 Acceder desde el menú a la opción "Plugins" para descargar uno llamado UpdraftPlus.
 

@@ -1,5 +1,6 @@
 Tags: #blog_desarrolladores #dominio/registrar 
-Links: [nic.ar/](https://nic.ar/)
+Links: [[Delegar dominio]]
+Links Externos: [nic.ar/](https://nic.ar/)
 
 ## Precios
 

@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Fibra FTTH"
             }
-          },
-          {
-            "id": "33ff676bb8d1987e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "plugin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,36 +180,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33ff676bb8d1987e",
+  "active": "fc36bf210c75b22a",
   "lastOpenFiles": [
+    "Blog desarrolladores/Wordpress/03_Plugins.md",
+    "Blog desarrolladores/Wordpress/Botón de link a WhatsApp.md",
+    "Blog desarrolladores/Configurar Cloudflare (CDN).md",
+    "Blog desarrolladores/Wordpress/Temas y plantillas de Wordpress.md",
+    "Blog desarrolladores/Wordpress/Personalizar menú sitio Wordpress.md",
+    "Blog desarrolladores/Wordpress/Notificaciones de compra.md",
+    "Blog desarrolladores/Wordpress/Newsletter Wordpress.md",
+    "Blog desarrolladores/Wordpress/Integración Mercado Pago.md",
+    "Blog desarrolladores/Wordpress/Crear una plantilla de Wordpress.md",
+    "Blog desarrolladores/Wordpress/Crear un sitio staging (pruebas).md",
+    "Blog desarrolladores/Wordpress/Crear un tema Wordpress.md",
+    "Blog desarrolladores/Wordpress/Crear formularios de contacto.md",
+    "Blog desarrolladores/Wordpress/Crear entrada desde mail.md",
+    "Blog desarrolladores/Wordpress/Crear backups del sitio.md",
+    "Blog desarrolladores/Wordpress/02_Configuracion.md",
+    "Web/Listado de Plugins.md",
+    "Blog desarrolladores/Wordpress/01_Wordpress.md",
+    "Blog desarrolladores/Hostings.md",
     "Blog desarrolladores/Correo corporativo.md",
+    "Blog desarrolladores/Registrar dominio.md",
+    "Blog desarrolladores/Delegar dominio.md",
+    "Blog desarrolladores/PageSpeed.md",
+    "Blog clientes/Crear un producto nuevo.md",
     "Blog desarrolladores/Apps",
     "Blog desarrolladores/Wordpress",
     "Blog seguridad/Notas respecto de seguridad.md",
     "Blog seguridad/El gran dragón.md",
     "Blog seguridad/Databroker.md",
-    "Blog seguridad/Crear cuenta proton.md",
-    "Blog seguridad/Clamwin.md",
-    "Blog seguridad/Celular.md",
-    "Blog seguridad/Cambiar DNS de la PC.md",
-    "Blog seguridad/Antivirus.md",
-    "Blog seguridad/Anonimato.md",
-    "Blog clientes/Crear un producto nuevo.md",
-    "Blog desarrolladores/Crear un sitio staging (pruebas).md",
-    "Blog desarrolladores/Crear un tema Wordpress.md",
-    "Blog desarrolladores/Crear una plantilla de Wordpress.md",
-    "Blog desarrolladores/Delegar dominio.md",
-    "Blog desarrolladores/Hostings.md",
-    "Blog desarrolladores/Integración Mercado Pago.md",
-    "Blog desarrolladores/Newsletter Wordpress.md",
-    "Blog desarrolladores/Notificaciones de compra.md",
-    "Blog desarrolladores/PageSpeed.md",
-    "Blog desarrolladores/Personalizar menú sitio Wordpress.md",
-    "Blog desarrolladores/Registrar dominio.md",
-    "Blog desarrolladores/Temas y plantillas de Wordpress.md",
-    "Blog desarrolladores/Crear formularios de contacto.md",
-    "Blog desarrolladores/Crear entrada desde mail.md",
-    "Blog desarrolladores/Crear backups del sitio.md",
     "Sin título 3.base",
     "Sin título 2.base",
     "Sin título 1.base",

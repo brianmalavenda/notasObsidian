@@ -1,5 +1,5 @@
 Tags: #blog_desarrolladores #wordpress/temas
-Links:
+Links: [[02_Configuracion]]
 
 Los temas y plantillas dependen del proyecto de sitio web que se busca encarar. No es lo mismo un sitio E-commerce que una landing page o un sitio de cursos online. 
 
