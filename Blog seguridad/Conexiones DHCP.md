@@ -1,3 +1,6 @@
+Tags:
+Links:
+
 El servidor DHCP es el ISP proveedor del servicio de internet por el cual me comunico a través del router. La definición de la asignación de IP fija o dinámica se hace en el router entonces? .. ver
 
 Por qué una IP estática?  **cuando prima la seguridad del sistema**. En esas situaciones, que se suelen dar en redes en las que hay información confidencial, lo ideal nuevamente es optar por asignar direcciones estáticas. Con esto se consigue que no puedan darse acceso no autorizados de terceros al obtener una IP válida.

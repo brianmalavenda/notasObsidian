@@ -1,3 +1,5 @@
+Tags:  #imagenes
+Links: [www.cleanpng.com](http://www.cleanpng.com/), [www.freepngimg.com](http://www.freepngimg.com/), [www.pngmart.com](http://www.pngmart.com/), [www.stickpng.com](http://www.stickpng.com/), [www.pngkey.com](http://www.pngkey.com/)
 
 En este tutorial de syspa social veremos los 5 mejores sitios para descargar imágenes png, con fondo transparente, para tu pagina web wordpress o cualquier otro proyecto de diseño.
 
@@ -9,28 +11,5 @@ Claramente estas imágenes no solo pueden ser utilizadas en tu pagina web wordpr
 
 No te podes perder este impresionante tutorial de syspa social que te enseñara los 5 mejores sitios para descargar imágenes png, con fondo transparente, para tu pagina web wordpress.
 
-## Principales puntos de este tutorial – descargar imágenes png para wordpress.
-
-- Explicamos que son las imagenes PNG.
-- Analizamos el primer sitio web.
-- Probamos las imágenes descargadas en nuestra pagina.
-- Ingresamos al segundo sitio web de descarga de imágenes png.
-- Insertamos las imágenes descargadas en nuestra pagina.
-- Vemos el tercer sitio web.
-- Usamos las imágenes descargadas en nuestra pagina.
-- Ingresamos al cuarto sitio web.
-- Vemos las imágenes descargadas en nuestra pagina.
-- Finalmente, ingresamos al quinto sitio web.
-- Usamos las imágenes descargadas en nuestra pagina.
-
 ## Accesos a los sitios para descargar imágenes png
 
-[www.cleanpng.com](http://www.cleanpng.com/)
-
-[www.freepngimg.com](http://www.freepngimg.com/)
-
-[www.pngmart.com](http://www.pngmart.com/)
-
-[www.stickpng.com](http://www.stickpng.com/)
-
-[www.pngkey.com](http://www.pngkey.com/)

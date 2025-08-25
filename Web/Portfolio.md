@@ -1,6 +1,3 @@
-
-
-
 # Tendencias Diseño Web
 
 https://www.youtube.com/watch?v=NH838UbWERk&ab_channel=WordPress

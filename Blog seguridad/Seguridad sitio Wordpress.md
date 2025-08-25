@@ -1,8 +1,6 @@
 Tags: #wordpress #seguridad
-
 Link: [Yotube - 1er momento de inspeccion vulnerabilidades](https://www.youtube.com/watch?v=LrTt2RKLT1E)
 Herramientas: Kali Linux, WPScan
-
 Link: [Yotube - Cómo PROTEGER mi Página Web de Hackers](https://www.youtube.com/watch?v=xUc2DVnrfio)
 Herramientas: Kali Linux, WPScan
 
