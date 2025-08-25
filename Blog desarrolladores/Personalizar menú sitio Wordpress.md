@@ -1,3 +1,5 @@
+Tags: #blog_desarrolladores #wordpress/menu
+Links:
 
 Una vez que seleccionamos nuestro tema para el sitio. Vamos al menú de la izquierda en nuestra página de administración de Wordpress. Allí seleccionamos la opción "Appereance" y la subopción "Menus"
 

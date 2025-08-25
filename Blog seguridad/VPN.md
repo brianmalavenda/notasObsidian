@@ -1,4 +1,5 @@
-
+Tags: #vpn #seguridad/web/vpn 
+Links: 
 ### **1. Fundamentos teóricos y modelos de seguridad**
 
 - **Zero Trust Architecture (ZTA):**

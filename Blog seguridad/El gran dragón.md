@@ -1,3 +1,5 @@
+Tags: #blog_seguridad
+
 
 1) El DNS poisoning es clave - cuando un usuario chino busca google.com, los servidores DNS estatales devuelven IP falsas. Es la primera barrera.
 

@@ -1,5 +1,5 @@
 
-Tags:
+Tags: #blog_desarrolladores #wordpress/mercadopago
 
 En la pestaña de “Pedidos” dentro de la opción de menú “WooCommerce” va a aparecer un nuevo pedido con el estado de “Procesado” que indica que el pago se realizó correctamente.
 

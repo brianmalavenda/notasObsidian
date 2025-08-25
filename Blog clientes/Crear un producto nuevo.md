@@ -1,3 +1,5 @@
+Tags: #blog_clientes #wordpress/ecommerce/producto/nuevo
+Links:
 
 **1-      General**
        ![](file:///C:/Users/brian/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)

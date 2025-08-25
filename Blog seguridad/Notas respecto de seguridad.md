@@ -1,3 +1,4 @@
+Tags: #blog_seguridad
 
 Seguridad de APIs
 https://www.cloudflare.com/es-es/press-releases/2024/new-cloudflare-report-shows-organizations-struggle-to-identify-and-manage/

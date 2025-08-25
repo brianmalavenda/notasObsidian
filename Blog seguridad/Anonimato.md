@@ -1,4 +1,4 @@
-Tags: #seguridad/web/anonimato #ip
+Tags: #seguridad/web/anonimato #ip #blog_seguridad
 Links: [whois](https://www.whois.com)
 
 El hosting tiene que reservar la privacidad del cliente

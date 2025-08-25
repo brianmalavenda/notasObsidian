@@ -1,4 +1,4 @@
-Tags: #proton #seguridad/ordenador #seguridad/web #seguridad/email 
+Tags: #vpn/proton #seguridad/ordenador #seguridad/web #seguridad/email/proton #blog_seguridad
 Links: [proton](https://account.proton.me/start)
 ## Proton Email
 

@@ -1,5 +1,5 @@
 
-Tags: #yaycommerce #notificaciones_wp #wordpress #compra_wp #plugins  #woocommerce
+Tags: #yaycommerce #wordpress/notificaciones #compra_wp #plugins  #woocommerce #blog_desarrolladores
 Links: [yaymail](https://docs.yaycommerce.com/yaymail/getting-started/introduction)
 
 ### Yaycommerce

@@ -1,5 +1,5 @@
-
-Entrar a [https://nic.ar/](https://nic.ar/)
+Tags: #blog_desarrolladores #dominio/registrar 
+Links: [nic.ar/](https://nic.ar/)
 
 ## Precios
 

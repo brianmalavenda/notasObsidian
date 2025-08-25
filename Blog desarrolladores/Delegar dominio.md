@@ -1,5 +1,5 @@
 
-Tags: #dominio #delegar_dominio #dns 
+Tags: #dominio/delegar_dominio #dns #blog_desarrolladores
 Links:  [nic.ar](https://nic.ar)
 
 | ¿Qué necesitás para hacer trámites de dominios?                                                                                                                                                                                                                          |

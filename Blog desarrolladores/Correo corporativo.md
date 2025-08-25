@@ -1,3 +1,5 @@
+Tags: #blog_desarrolladores 
+Links: 
 
 Dos acciones son claves para la administracion de correos corporativos. La acción de recibir correos en algun cliente de correos que nosotros utilicemos como Gmail, Outlook o Thunderbird y también ser emisarios de correos a traves del correo corporativo desde mi cuenta personal en algunas de esas plataformas.
 

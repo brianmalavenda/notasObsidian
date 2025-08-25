@@ -1,5 +1,5 @@
 
-Tags: #newsletter #wordpress #plugin 
+Tags: #wordpress/newsletter  #plugin 
 Links: 
 
 

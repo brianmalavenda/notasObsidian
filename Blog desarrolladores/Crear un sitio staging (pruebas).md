@@ -1,5 +1,5 @@
 
-Tags: #wordpress #staging #pruebas 
+Tags: #wordpress/staging #staging #pruebas #blog_desarrolladores
 Links:
 
 Dentro del sitio Wordpress acceder como administradores desde el hosting o desde el login de la aplicación.

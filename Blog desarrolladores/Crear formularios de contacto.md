@@ -1,5 +1,5 @@
 
-Tags: #wordpress #plugins #wpforms 
+Tags: #wordpress #plugins #wpforms #blog_desarrolladores
 Links: 
 
 Utilizaremos el plugin WPForms que es muy sencillo de utilizar. Para eso hay que acceder desde el menú a la opción "Plugins".
