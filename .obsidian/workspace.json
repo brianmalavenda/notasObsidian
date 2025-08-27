@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "e0c26e8b1c0aa0a8",
+    "id": "8371207fc97a35dd",
     "type": "split",
     "children": [
       {
-        "id": "a5301acac06ef3f8",
+        "id": "b257a95c79c4114a",
         "type": "tabs",
         "children": [
           {
-            "id": "0c51d575b720fc20",
+            "id": "78dcca86dc3d01a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ejesDelMundo/Stack.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Stack"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "307ea60480a351bc",
+    "id": "4116fc163b8024b6",
     "type": "split",
     "children": [
       {
-        "id": "a485ca9e84127bd4",
+        "id": "2b39e5f494192359",
         "type": "tabs",
         "children": [
           {
-            "id": "3ee6e429ad7a2ce6",
+            "id": "8946bb766837fd31",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "581c2d9968ea6c12",
+            "id": "4a3043121dceeece",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "12d17395f095fb56",
+            "id": "b35dbff87c23007b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b534313314c51bed",
+    "id": "f0d4362a31e8cd3e",
     "type": "split",
     "children": [
       {
-        "id": "e46ad63dcd025039",
+        "id": "f26b1ff8b7d4c2e1",
         "type": "tabs",
         "children": [
           {
-            "id": "ebefcbb6c6a8e5cb",
+            "id": "a6b226574ce9c08c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CuentasApps/Aplicaciones.md",
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Aplicaciones"
+              "title": "Backlinks for Cambiar DNS de la PC"
             }
           },
           {
-            "id": "ff5544ee536d25e3",
+            "id": "74e6c227afa12fd5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CuentasApps/Aplicaciones.md",
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Aplicaciones"
+              "title": "Outgoing links from Cambiar DNS de la PC"
             }
           },
           {
-            "id": "b8d35a7dcfcb1db4",
+            "id": "5d0c727f6637f587",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,26 +133,26 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "66b75e180a44884c",
+            "id": "4b5399c844449f81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CuentasApps/Aplicaciones.md",
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Aplicaciones"
+              "title": "Outline of Cambiar DNS de la PC"
             }
           },
           {
-            "id": "e5a4e3c445a66756",
+            "id": "3eca9848a5293fad",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -170,65 +170,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c51d575b720fc20",
+  "active": "78dcca86dc3d01a1",
   "lastOpenFiles": [
-    "ejesDelMundo/Descripción de proyecto.md",
+    "Portal ejes/tareas.md",
+    "Blog seguridad/Ataques a web.md",
+    "Imagenes/Pasted image 20250827071423.png",
+    "Imagenes/Pasted image 20250827071350.png",
     "ejesDelMundo/Stack.md",
     "ejesDelMundo/Estructura de directorios.md",
-    "Repos.md",
+    "ejesDelMundo/Descripción de proyecto.md",
     "ejesDelMundo",
-    "Web/Diseño web.md",
-    "Blog desarrolladores/Personalizar menú sitio Wordpress.md",
-    "Blog desarrolladores/Crear una plantilla de Wordpress.md",
-    "Imagenes/menu_categorias.png",
-    "Imagenes/01_.canvas",
-    "Blog desarrolladores/Crear un tema Wordpress.md",
+    "Repos.md",
+    "Imagenes/wpforms_plantillas.png",
+    "Imagenes/wpforms_personalizar.png",
+    "Imagenes/wpforms_list.png",
+    "Imagenes/wpforms-plugin.png",
     "Imagenes/menu_pagina_personalizacion.png",
-    "Boludeces.md",
-    "Blog desarrolladores/Crear backups del sitio.md",
-    "Blog desarrolladores/Crear formularios de contacto.md",
+    "Imagenes/menu_categorias.png",
     "Imagenes/menu_appearance.png",
     "Imagenes/Pasted image 20250815142410.png",
-    "Imagenes/wpforms_personalizar.png",
-    "Imagenes/Pasted image 20250815140809.png",
-    "Imagenes/wpforms_plantillas.png",
-    "Blog desarrolladores/Crear un sitio staging (pruebas).md",
-    "Imagenes/wpforms_list.png",
-    "Imagenes/Pasted image 20250815140426.png",
-    "Imagenes/wpforms-plugin.png",
-    "ISP Internet/Fibra FTTH.md",
-    "ISP Internet",
-    "Blog desarrolladores/Configurar Cloudflare (CDN).md",
+    "Imagenes/01_.canvas",
+    "Blog desarrolladores/Personalizar menú sitio Wordpress.md",
+    "Blog desarrolladores/Crear formularios de contacto.md",
     "Python.md",
-    "Blog seguridad/Cambiar DNS de la PC.md",
-    "Docker.md",
-    "Coyuntura.md",
-    "ElasticSearch (ES).md",
-    "Error Pyhton instalar bibliotecas de terceros.md",
-    "conflict-files-obsidian-git.md",
-    "Seguridad/Anonimato.md",
-    "Blog desarrolladores/PageSpeed.md",
     "Manual de marca/Manual de marca del sitio.md",
     "Manual de marca",
-    "Seguridad/Antivirus.md",
-    "Seguridad/Celular.md",
+    "ISP Internet/Fibra FTTH.md",
+    "ISP Internet",
+    "Geolocalizacion-Mapas/Territorios e identificación.md",
     "Geolocalizacion-Mapas",
-    "Desarrollo",
-    "Blog clientes",
-    "Imagenes/Sin título 1.canvas",
-    "Imagenes/registrar_dominio_buscar_2.canvas",
-    "Blog desarrolladores",
+    "Error Pyhton instalar bibliotecas de terceros.md",
+    "ElasticSearch (ES).md",
+    "Docker.md",
+    "Portal ejes/notas_proyecto_paso1.md",
+    "Portal ejes/herramientas desarrollo.md",
+    "Portal ejes/entidad-relacion.md",
+    "Portal ejes/arquitectura.md",
+    "Editorial/250702 mundo.md",
+    "Untitled.md",
+    "Portal ejes",
+    "Blog seguridad/Crear cuenta proton.md",
+    "Blog seguridad/Cambiar DNS de la PC.md",
+    "Blog desarrolladores/Temas y plantillas de Wordpress.md",
+    "Blog desarrolladores/Registrar dominio.md",
+    "Imagenes/Sin título.canvas",
+    "Blog seguridad",
+    "nbkSanMartin01",
     "Web",
-    "Editorial",
-    "Coyuntura"
+    "Seguridad",
+    "Proyecto"
   ]
 }
