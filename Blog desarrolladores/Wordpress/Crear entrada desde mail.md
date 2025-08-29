@@ -1,5 +1,5 @@
 Tags: #entrada_mail #wordpress #blog_desarrolladores
-Links: 
+Links: [[02_Configuracion]] 
 
 Wordpress tiene por defecto la opción de generar una entrada a partir de un mail a la casilla de correo que se configure. La entrada puede tener un adjunto además del contenido de texto
 

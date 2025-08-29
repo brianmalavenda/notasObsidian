@@ -1,7 +1,7 @@
 Tags: #blog_desarrolladores 
-Links: 
+Links: [[02_Configuracion]] 
 
-Dos acciones son claves para la administracion de correos corporativos. La acción de recibir correos en algun cliente de correos que nosotros utilicemos como Gmail, Outlook o Thunderbird y también ser emisarios de correos a traves del correo corporativo desde mi cuenta personal en algunas de esas plataformas.
+Dos acciones son claves para la administración de correos corporativos. La acción de recibir correos en algún cliente de correos que nosotros utilicemos como Gmail, Outlook o Thunderbird y también ser emisarios de correos a través del correo corporativo desde mi cuenta personal en algunas de esas plataformas.
 
 Para recibir los correos usamos un protocolo POP3 a través del puerto 995 con cifrado SSL y para el envío de correos usamos el protocolo SMTP a través del puerto 465 con cifrado SSL.
 

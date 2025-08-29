@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "excalidraw-open-md": "checkbox",
+    "Creado": "date"
+  }
+}
