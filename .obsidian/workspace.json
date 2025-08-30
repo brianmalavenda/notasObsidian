@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "46b6be87c82caaa8",
+        "id": "2b7bdcc228281544",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb79296ce11227e",
+            "id": "98e4a0d477812aba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantillas/Nota formato base esquema visual.md",
+                "file": "01_Web/Analisis de mercado web - Editoriales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota formato base esquema visual"
+              "title": "Analisis de mercado web - Editoriales"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "a485ca9e84127bd4",
         "type": "tabs",
+        "dimension": 68.43687374749499,
         "children": [
           {
             "id": "3ee6e429ad7a2ce6",
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plugin",
+                "query": "mercado",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,6 +76,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "7a2382655e114211",
+        "type": "tabs",
+        "dimension": 31.563126252505008,
+        "children": [
+          {
+            "id": "b8d35a7dcfcb1db4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": "portales"
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,6 +110,7 @@
       {
         "id": "e46ad63dcd025039",
         "type": "tabs",
+        "dimension": 65.48076923076923,
         "children": [
           {
             "id": "ebefcbb6c6a8e5cb",
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CuentasApps/Aplicaciones.md",
+                "file": "01_Web/Analisis de mercado web - Editoriales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Aplicaciones"
+              "title": "Enlaces entrantes de Analisis de mercado web - Editoriales"
             }
           },
           {
@@ -113,27 +137,49 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CuentasApps/Aplicaciones.md",
+                "file": "01_Web/Analisis de mercado web - Editoriales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Aplicaciones"
+              "title": "Enlaces salientes de Analisis de mercado web - Editoriales"
             }
           },
           {
-            "id": "b8d35a7dcfcb1db4",
+            "id": "fd24dbc68910c73e",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "localgraph",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "01_Web/Analisis de mercado web - Editoriales.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3242333202184635,
+                  "close": true
+                }
               },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de Analisis de mercado web - Editoriales"
             }
           },
           {
@@ -142,15 +188,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CuentasApps/Aplicaciones.md",
+                "file": "01_Web/Analisis de mercado web - Editoriales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Aplicaciones"
+              "title": "Esquema de Analisis de mercado web - Editoriales"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "87129195f30f80ad",
+        "type": "tabs",
+        "dimension": 34.51923076923077,
+        "children": [
           {
             "id": "e5a4e3c445a66756",
             "type": "leaf",
@@ -161,12 +215,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,37 +234,44 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "8bb79296ce11227e",
+  "active": "3ee6e429ad7a2ce6",
   "lastOpenFiles": [
-    "Concepto 2.md",
+    "Imagenes/AnalisisMercadoEditoriales.xlsx",
+    "01_Web/Primer Web CMS.md",
+    "Imagenes/dataset-libros-los50famosos.csv",
+    "01_Web/Analisis de mercado web - Editoriales.md",
+    "01_Web/Proyectos/MVP - Minimo Producto Viable.md",
+    "Error Pyhton instalar bibliotecas de terceros.md",
+    "Web/Sin nombre",
+    "Sin título.base",
+    "Repos.md",
+    "Seguridad Web.md",
+    "06_1 Prod Ideológica/Producción ideológica.md",
+    "01_Web/Desarrollo/Back",
+    "00_MPG/Portales y RSS a revisar.md",
+    "01_Web/Proyectos",
+    "03_Seguridad",
+    "00_MPG/Portales tecnología - propuesta completa.md",
+    "01_Web/Proyectos/EjesDelMundo/Feed RSS portales.md",
+    "01_Web/Proyectos/EjesDelMundo/0.1_Descripción de proyecto.md",
+    "03_Seguridad/Blog seguridad/01_Capas de seguridad.md",
+    "05_IA/Deepseek.md",
+    "04_DataWerehouse/Wikigrpher.md",
+    "05_IA",
+    "03_Seguridad/Blog seguridad/Autenticacion y autorizacion en una web de agentes IA.md",
     "Plantillas/Nota formato base esquema visual.md",
-    "Concepto 3.md",
-    "Concepto 1b.md",
-    "Proyecto/Producción ideológica.md",
-    "{{title}}.md",
-    "Concepto 1.md",
+    "01_Web/Blog desarrolladores/Apps/Maquina de estado.md",
+    "01_Web/Proyectos/EjesDelMundo/0.4_Estructura de directorios.md",
+    "01_Web/Desarrollo/Front/Funciones modernas de CSS.md",
+    "03_Seguridad/Blog seguridad/Phishing.md",
+    "03_Seguridad/Blog seguridad/Exec= en archivos PDF.md",
+    "Imagenes/Pasted image 20250829133412.png",
+    "03_Seguridad/Blog seguridad/Comandos entre sitios (XSS).md",
+    "03_Seguridad/Blog seguridad/Clickhacking.md",
+    "03_Seguridad/Blog seguridad/Envenenamiento de caché.md",
+    "Boludeces.md",
     "Plantillas/Sin título.base",
-    "Blog clientes/Crear un producto nuevo.md",
-    "Sin nombre",
-    "Blog desarrolladores/Registrar dominio.md",
-    "Blog desarrolladores/Wordpress/03_Plugins.md",
-    "Blog desarrolladores/Wordpress/02_Configuracion.md",
-    "Blog desarrolladores/Delegar dominio.md",
-    "Blog desarrolladores/Correo corporativo.md",
-    "Blog desarrolladores/Wordpress/Botón de link a WhatsApp.md",
-    "DataWerehouse/Base de conocimiento.md",
-    "Blog desarrolladores/Configurar Cloudflare (CDN).md",
-    "Blog desarrolladores/Wordpress/Conexión con hosting a través de SSH.md",
-    "Blog desarrolladores/Wordpress/Crear backups del sitio.md",
-    "Blog desarrolladores/Wordpress/Crear entrada desde mail.md",
-    "Blog desarrolladores/Wordpress/Crear formularios de contacto.md",
-    "Blog desarrolladores/Wordpress/Crear un sitio staging (pruebas).md",
-    "Blog desarrolladores/Wordpress/Crear un tema Wordpress.md",
-    "Blog desarrolladores/Wordpress/Crear una plantilla de Wordpress.md",
-    "Blog desarrolladores/Wordpress/Integración Mercado Pago.md",
-    "Blog desarrolladores/Wordpress/Newsletter Wordpress.md",
-    "Blog desarrolladores/Wordpress/Notificaciones de compra.md",
-    "DataWerehouse",
+    "04_DataWerehouse",
     "Imagenes/home_famosos50.png",
     "Imagenes/Pasted image 20250828165106.png",
     "Imagenes/editoriales_analisis_mercado.png",
@@ -222,13 +282,6 @@
     "Imagenes/Pasted image 20250828161040.png",
     "Imagenes/Pasted image 20250828161028.png",
     "Imagenes/Pasted image 20250828161022.png",
-    "Imagenes/Pasted image 20250828161006.png",
-    "Blog desarrolladores/Apps",
-    "Blog desarrolladores/Wordpress",
-    "Sin título 3.base",
-    "Sin título 2.base",
-    "Sin título 1.base",
-    "Sin título.base",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",

@@ -10,6 +10,7 @@ Links:
 >[!quote]+ Esquema 
 >![[{{title}}]]
 
+Cuerpo de la nota
 
 ---
 ### Referencias
