@@ -31,8 +31,8 @@ Nota: https://rss.feedspot.com // tiene una gran base de datos de feed RSS de di
 
 - [x] BleepingComputer  
 Bueno, tiene noticias sobre ciberseguridad muy buenas que ayudan a graficar tipos de ataques en casos reales.  
-
-
+- [x] Securelist - Lista negra
+Noticias enfocadas en ciberseguridad, reportes, informes. Suben una nota cada 2 días en promedio.
 ## Desarrollo
 
 - [ ] Smashing Magazine
@@ -47,6 +47,18 @@ Tiene noticias interesantes, no esta avocado solo a desarrollo. Tiene algo inter
 https://www.splashtop.com/es/blog
 https://github.com/foorilla/allinfosecnews_sources
 
+### General
+
+- [ ] Ars Technica
+Hasta ahora es un portal de info general, enfocada en empresas Microsoft, Intel, Space-X. Los temas mas comunes son IA, industria aeroespacial, juegos. 01/09
+- [ ] Genbeta
+Muy general la información, toca temas variados. Hasta ahora no aporto mucho 01/09 
+- [ ] Hipertextual
+Muy general la información, mucha informacion de películas que no son tema importante a relevar. Si se destaca mas enfoque que anteriores en **tecnología de celulares**
+- [x] Pandalay
+En particular noticias sobre la industria tecnológica china y series y películas. Esta bien, suben una nota por día.
+- [x] El Borde
+Me parece bien por ahora, general pero hay notas particulares buenas.
 
 ---
 #### Referencias

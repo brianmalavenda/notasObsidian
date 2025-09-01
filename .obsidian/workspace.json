@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7bdcc228281544",
+        "id": "61d3984df1245542",
         "type": "tabs",
         "children": [
           {
-            "id": "98e4a0d477812aba",
+            "id": "9e72219a0265b496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Web/Analisis de mercado web - Editoriales.md",
+                "file": "01_Web/Proyectos/Primer Web con CMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Analisis de mercado web - Editoriales"
+              "title": "Primer Web con CMS"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mercado",
+                "query": "primer web con cms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Web/Analisis de mercado web - Editoriales.md",
+                "file": "01_Web/Proyectos/Primer Web con CMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Analisis de mercado web - Editoriales"
+              "title": "Enlaces entrantes de Primer Web con CMS"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Web/Analisis de mercado web - Editoriales.md",
+                "file": "01_Web/Proyectos/Primer Web con CMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Analisis de mercado web - Editoriales"
+              "title": "Enlaces salientes de Primer Web con CMS"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01_Web/Analisis de mercado web - Editoriales.md",
+                "file": "01_Web/Proyectos/Primer Web con CMS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Analisis de mercado web - Editoriales"
+              "title": "Gráfico de Primer Web con CMS"
             }
           },
           {
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Web/Analisis de mercado web - Editoriales.md",
+                "file": "01_Web/Proyectos/Primer Web con CMS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Analisis de mercado web - Editoriales"
+              "title": "Esquema de Primer Web con CMS"
             }
           }
         ],
@@ -234,54 +234,54 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "3ee6e429ad7a2ce6",
+  "active": "9e72219a0265b496",
   "lastOpenFiles": [
-    "Imagenes/AnalisisMercadoEditoriales.xlsx",
-    "01_Web/Primer Web CMS.md",
-    "Imagenes/dataset-libros-los50famosos.csv",
-    "01_Web/Analisis de mercado web - Editoriales.md",
-    "01_Web/Proyectos/MVP - Minimo Producto Viable.md",
-    "Error Pyhton instalar bibliotecas de terceros.md",
-    "Web/Sin nombre",
+    "01_Web/Proyectos/Web CMS - Presupuesto.md",
+    "01_Web/Proyectos/Primer Web con CMS.md",
+    "01_Web/Proyectos/Primer Web con CMS - Costo, precio, ganancia.md",
+    "Análisis de competencia de mercado web WP.md",
+    "01_Web/Proyectos/Agencias paginas web.md",
+    "01_Web/Datos técnicos.md",
+    "01_Web/Proyectos/Análisis de mercado web - Editoriales.md",
+    "01_Web/Diseño web.md",
+    "01_Web/Herramientas Desarrolllo Web.md",
+    "01_Web/Herramientas Performance Web.md",
+    "01_Web/Imagenes PNG.md",
+    "01_Web/Proyectos/Modelo contrato base cliente.md",
+    "01_Web/Referencias de páginas.md",
+    "01_Web/Portfolio.md",
+    "Portal de compras (Los famosos 50).md",
+    "01_Web/Proyectos/Hoja de ruta de proyectos.md",
+    "Portal de biblioteca virtual (universidad).md",
+    "Viajes y costos colectivos.md",
+    "App pedidos de abastecimiento.md",
+    "App para registrar balance de las paradas de diarios.md",
+    "Buscador con IA de producciones propias.md",
+    "Guardar producción ideológica y herramientas.md",
+    "Registro de lectura diaria.md",
+    "Plataforma de trabajo EJES del mundo en la patria.md",
+    "Aplicación de mensajería.md",
+    "Portal de encargos (Gráfica).md",
+    "Imagenes/Pasted image 20250901154209.png",
+    "Imagenes/Pasted image 20250901154138.png",
+    "Imagenes/costos y proyeccion ganancia web CMS.png",
+    "Imagenes/Pasted image 20250901140524.png",
+    "Imagenes/Pasted image 20250901135908.png",
     "Sin título.base",
-    "Repos.md",
-    "Seguridad Web.md",
-    "06_1 Prod Ideológica/Producción ideológica.md",
+    "Imagenes/manual de marca del sitio Famosos50.png",
+    "Imagenes/login_en_wordpress.png",
+    "03_Seguridad/Blog seguridad/Noticias",
+    "00_MPG/Implementaciones de avances",
+    "07_Servidor local",
+    "Imagenes/AnalisisMercadoEditoriales.xlsx",
+    "Imagenes/dataset-libros-los50famosos.csv",
+    "Web/Sin nombre",
     "01_Web/Desarrollo/Back",
-    "00_MPG/Portales y RSS a revisar.md",
     "01_Web/Proyectos",
     "03_Seguridad",
-    "00_MPG/Portales tecnología - propuesta completa.md",
-    "01_Web/Proyectos/EjesDelMundo/Feed RSS portales.md",
-    "01_Web/Proyectos/EjesDelMundo/0.1_Descripción de proyecto.md",
-    "03_Seguridad/Blog seguridad/01_Capas de seguridad.md",
-    "05_IA/Deepseek.md",
-    "04_DataWerehouse/Wikigrpher.md",
-    "05_IA",
-    "03_Seguridad/Blog seguridad/Autenticacion y autorizacion en una web de agentes IA.md",
-    "Plantillas/Nota formato base esquema visual.md",
-    "01_Web/Blog desarrolladores/Apps/Maquina de estado.md",
-    "01_Web/Proyectos/EjesDelMundo/0.4_Estructura de directorios.md",
-    "01_Web/Desarrollo/Front/Funciones modernas de CSS.md",
-    "03_Seguridad/Blog seguridad/Phishing.md",
-    "03_Seguridad/Blog seguridad/Exec= en archivos PDF.md",
     "Imagenes/Pasted image 20250829133412.png",
-    "03_Seguridad/Blog seguridad/Comandos entre sitios (XSS).md",
-    "03_Seguridad/Blog seguridad/Clickhacking.md",
-    "03_Seguridad/Blog seguridad/Envenenamiento de caché.md",
-    "Boludeces.md",
-    "Plantillas/Sin título.base",
-    "04_DataWerehouse",
     "Imagenes/home_famosos50.png",
-    "Imagenes/Pasted image 20250828165106.png",
     "Imagenes/editoriales_analisis_mercado.png",
-    "Imagenes/Pasted image 20250828164134.png",
-    "ISP Internet/Sin nombre",
-    "Imagenes/Pasted image 20250828161118.png",
-    "Imagenes/Pasted image 20250828161048.png",
-    "Imagenes/Pasted image 20250828161040.png",
-    "Imagenes/Pasted image 20250828161028.png",
-    "Imagenes/Pasted image 20250828161022.png",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",

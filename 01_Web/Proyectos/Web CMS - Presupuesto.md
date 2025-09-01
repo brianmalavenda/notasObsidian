@@ -6,7 +6,11 @@ Links Externos:
 Partimos de que una página de CMS de una persona con experiencia puede hacerla en 40 horas, es decir en 5 días a jornada completa o 10 días (dos semanas) a media jornada. Esto es un sitio base de 3 páginas con seguridad de un WAFF Cloudflare, Backups, Registro y delegación de dominio, Diseño gráfico/visual de la web, pruebas de rendimiento y web vitals para buena calificación de SEO Google.
 
 
-![[Pasted image 20250828165106.png]]
+![[costos y proyeccion ganancia web CMS.png]]
+
+En la primer columna de izquieda a derecha titulada "CANT APP" son la cantidad de webs que producimos. El PRECIO es el precio de mercado, el "COSTO" son la suma de "AMORTIZACION PC", "HOSTING", "INTERNET" y "SALARIO" y "GANANCIA" es la la resta de PRECIO-COSTO.
+
+Producir una web nos genera un costo de 
 
 
 ## Hosting
