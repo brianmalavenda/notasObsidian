@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "61d3984df1245542",
+        "id": "a1484942276764cc",
         "type": "tabs",
         "children": [
           {
-            "id": "9e72219a0265b496",
+            "id": "d9daa1ca6f498888",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "92b0309879c5d994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prueba cambio nombre bóveda.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "prueba cambio nombre bóveda"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "prueba cambio nombre bóveda.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,7 +172,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de prueba cambio nombre bóveda"
+              "title": "Vista gráfica"
             }
           },
           {
@@ -242,10 +226,24 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "92b0309879c5d994",
+  "active": "3ee6e429ad7a2ce6",
   "lastOpenFiles": [
+    "01_Web/Proyectos/Aplicación de mensajería.md",
+    "01_Web/Proyectos/Convertir audio-video a texto y texto a audio.md",
+    "00_MPG/Ranking de millonarios de la industria tecnológica.md",
+    "Repos.md",
+    "Boludeces.md",
+    "01_Web/Proyectos/Costo equipamiento.md",
+    "01_Web/Proyectos/Registro de lectura diaria.md",
     "prueba cambio nombre bóveda.md",
+    "03_Seguridad/Seguridad Web.md",
+    "01_Web/Proyectos/Guardar producción ideológica y herramientas.md",
+    "01_Web/Proyectos/Reuniones virtuales - Herramienta para hacer llamada por audio y video.md",
+    "01_Web/Proyectos/Viajes y costos colectivos.md",
+    "01_Web/Proyectos/Buscador con IA de producciones propias.md",
+    "Imagenes/Pasted image 20250901205451.png",
     "08_Informes cuatrimestrales/Informe 01.md",
+    "Imagenes/Pasted image 20250901185941.png",
     "02_ISP Internet/Fabricantes de fibra óptica.md",
     "02_ISP Internet/Red de Fibra FTTH (Presupuesto).md",
     "02_ISP Internet/Troncales submarinos de internet.md",
@@ -259,20 +257,8 @@
     "02_ISP Internet/OLT (Optical Line Terminal).md",
     "02_ISP Internet/Inscripción en LACNIC con ASN propio.md",
     "02_ISP Internet/Inscripción a ENACOM.md",
-    "02_ISP Internet/Topologías de Red.md",
-    "02_ISP Internet/Peering.md",
-    "02_ISP Internet/Servicios de CND.md",
-    "01_Web/Proyectos/Famosos50/Primer Web con CMS.md",
     "08_Informes cuatrimestrales",
-    "01_Web/Proyectos/EjesDelMundo/0.1_Descripción de proyecto.md",
     "01_Web/Proyectos/Famosos50",
-    "01_Web/Proyectos/EjesDelMundo/0.0_Tareas de funcionamiento.md",
-    "01_Web/Proyectos/Web CMS - Presupuesto.md",
-    "01_Web/Proyectos/Primer Web con CMS - Costo, precio, ganancia.md",
-    "Análisis de competencia de mercado web WP.md",
-    "01_Web/Proyectos/Agencias paginas web.md",
-    "01_Web/Datos técnicos.md",
-    "01_Web/Proyectos/Análisis de mercado web - Editoriales.md",
     "Imagenes/Pasted image 20250901154209.png",
     "Imagenes/Pasted image 20250901154138.png",
     "Imagenes/costos y proyeccion ganancia web CMS.png",
@@ -288,8 +274,6 @@
     "Imagenes/dataset-libros-los50famosos.csv",
     "Web/Sin nombre",
     "Imagenes/Pasted image 20250829133412.png",
-    "Imagenes/home_famosos50.png",
-    "Imagenes/editoriales_analisis_mercado.png",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",

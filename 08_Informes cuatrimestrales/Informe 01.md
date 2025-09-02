@@ -52,6 +52,8 @@ asdfsadfasdf
 
 asfasdfsaf
 
+![[Pasted image 20250901185941.png]]
+
 ---
 #### Referencias
 
