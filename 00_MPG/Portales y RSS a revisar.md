@@ -59,6 +59,8 @@ Muy general la información, mucha informacion de películas que no son tema imp
 En particular noticias sobre la industria tecnológica china y series y películas. Esta bien, suben una nota por día.
 - [x] El Borde
 Me parece bien por ahora, general pero hay notas particulares buenas.
+- [ ] South China Morning Post
+
 
 ---
 #### Referencias

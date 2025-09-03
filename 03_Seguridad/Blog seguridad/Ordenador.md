@@ -8,7 +8,7 @@ Conceptos: #bridge, #proxy
 
 ## Hardware
 Esto queda mas para investigación: Chips en Intel y AMD. IME y PSP
-## [Sistema operativo](SistemaOperativo.md)
+## [Sistema operativo](Sistema%20Operativo.md)
 Más de un 70% son usuarios de Windows y las herramientas cotidianas instaladas en ese S.O. Dentro de una de las características principales que hacen al rastreo del comportamiento del usuario se encuentra el constante registro de actividad, o [Telemetria](Telemetria.md), que se envía a Microsoft. Con estos datos de comportamiento se utilizan para armar un perfil digital destinado desde el control político hasta la publicidad dirigida.
 ##### Que hacer?
 Instalar versiones de Windows LTSC o versiones de Linux para principiantes, con un parecido muy similar a Windows: LinuxMint, PopoEs o escalar en aprendizaje y en seguridad instalando distribuciones como Kali, Tails, [Whonix](Whonix.md).

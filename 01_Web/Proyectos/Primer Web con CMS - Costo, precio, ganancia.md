@@ -27,6 +27,7 @@ Con esta idea hicimos nuestro presupuesto de costo y de proyección de ganancias
 ![[Pasted image 20250901140524.png]]
 
 Con esta tabla proyectamos el trabajo de una sola persona con distinta carga horaria mensual dedicada a la producción de sitios webs CMS. Acá presuponemos el acuerdo comercial con X clientes como un factor seguro (no es así en la realidad)
+
 Un ejemplo, el costo de una persona con una PC y servicio de internet a cargo de la agencia de páginas web junto al alquiler del hosting donde se alojaran las páginas que se produzcan y obviamente, el salario de esa personas que esta trabajando el costo total de producir una página al mes es de $ 600.620, esto sería rentable porque hay un retorno de la inversión de un 33%, es decir, la ganancia es de $199.380. 
 
 [[Costo equipamiento]]

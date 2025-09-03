@@ -9,8 +9,8 @@ Acá presupuestaremos la infraestructura, mano de obra y gastos legales aproxima
 
 ### Diagrama conceptual básico
 
-Unidad de conexión por CUADBoc tiene 40 usuarios
-En un N tenemos 2 de esta y en los C tenemos 40 en cada uno y podemos llegar a 3, es decir quedaría en N=80 usuarios y en 3C=120 usuarios > TOTAL 200 usuarios
+Unidad de conexión por CUADBoc tiene 40 usuarios, En un N tenemos 2 de esta y en los C tenemos 40 en cada uno y podemos llegar a 3, es decir quedaría en N=80 usuarios y en 3C=120 usuarios > TOTAL 200 usuarios. ^proyecto-inicial
+
 hay que tener en cuenta la [[Tasa de transmisión]] para medir cuanta potencia de fibra llega a cada uno.
 
 ![[unidad_minima_conexion_odn.png]]
@@ -138,14 +138,13 @@ o    Costo Estimado: Muy variable.
 **TOTAL EQUIPOS: $60,000 USD**
 **TOTAL HERRAMIENTAS Y MANO DE OBRA: $30,000 USD**
 
-**TOTAL PROYECTO DE GASTO TOTAL CON TODO INSTALADO PARA 200 USUARIOS = 90,000 USD** a precio de dólar actual son 120,5 millones. Con 200 usuarios sería un costo por usuario de 602.500 pesos.
+**TOTAL PROYECTO DE GASTO TOTAL CON TODO INSTALADO PARA 200 USUARIOS = 90,000 USD** a precio de dólar actual son 120,5 millones. Con 200 usuarios sería un costo por usuario de 602.500 pesos. ^ftth-inversion-costo
 
-El precio de internet por cada usuario es de 40 lucas masomenos. Podemos estimarlo a 30.000 es decir con 200 usuarios activos son 6 millones de pesos mensualmente. Es decir en 20 meses se recupera la inversión inicial con 200 activos. Eso es 1 año y medio casi.
+El precio de internet por cada usuario es de 40 lucas masomenos. Podemos estimarlo a 30.000 es decir con 200 usuarios activos son 6 millones de pesos mensualmente. Es decir en 20 meses se recupera la inversión inicial con 200 activos. Eso es 1 año y medio casi. ^ftth-retornoinversion
 
-Si podemos ampliar esto a la capacidad de 400 porque disponemos de un total de 512 pero dejamos una tasa de recuperacion de un 21% por posibles fallos futuros. Esto duplicaría el tiempo de retorno de la inversión inicial. 
-**CON 400 USUARIOS EN 8 MESES SE RECUPERARÍA LA INVERSION INICIAL**
+Si podemos ampliar esto a la capacidad de 400 porque disponemos de un total de 512 pero dejamos una tasa de recuperacion de un 21% por posibles fallos futuros. Esto duplicaría el tiempo de retorno de la inversión inicial. **CON 400 USUARIOS EN 8 MESES SE RECUPERARÍA LA INVERSION INICIAL** ^ftth-inversionampliada
 
-A una tasa de recuperacion del 10%, la cual seguiría siendo una red de alta resiliencia, sería unos 450 usuarios. Es decir, por mes tendríamos un flujo de capital desde los usuarios de 13,5 millones de dólares. Es decir, el costo por usuario se iría a 270.000 pesos. Es casi un tercio del costo por usuario con 200 usuarios.
+A una tasa de recuperacion del 10%, la cual seguiría siendo una red de alta resiliencia, sería unos 450 usuarios. Es decir, por mes tendríamos un flujo de capital desde los usuarios de 13,5 millones de dólares. Es decir, el costo por usuario se iría a 270.000 pesos. Es casi un tercio del costo por usuario con 200 usuarios. ^ftth-ganancia
 
 
 #### Notas

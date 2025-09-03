@@ -11,13 +11,32 @@
             "id": "d9daa1ca6f498888",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "08_Informes cuatrimestrales/Informe 01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Informe 01"
+            }
+          },
+          {
+            "id": "0d770ec4a78d37ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Web/Proyectos/App registro de lectura/App Registro de lectura - EJES.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "App Registro de lectura - EJES"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "primer web con cms",
+                "query": "registro lectura",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +90,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7a2382655e114211",
@@ -145,6 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01_Web/Proyectos/App registro de lectura/App Registro de lectura - EJES.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +193,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Gráfico de App Registro de lectura - EJES"
             }
           },
           {
@@ -226,37 +247,39 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "3ee6e429ad7a2ce6",
+  "active": "0d770ec4a78d37ea",
   "lastOpenFiles": [
-    "01_Web/Proyectos/Aplicación de mensajería.md",
-    "01_Web/Proyectos/Convertir audio-video a texto y texto a audio.md",
-    "00_MPG/Ranking de millonarios de la industria tecnológica.md",
-    "Repos.md",
-    "Boludeces.md",
-    "01_Web/Proyectos/Costo equipamiento.md",
-    "01_Web/Proyectos/Registro de lectura diaria.md",
-    "prueba cambio nombre bóveda.md",
-    "03_Seguridad/Seguridad Web.md",
-    "01_Web/Proyectos/Guardar producción ideológica y herramientas.md",
-    "01_Web/Proyectos/Reuniones virtuales - Herramienta para hacer llamada por audio y video.md",
-    "01_Web/Proyectos/Viajes y costos colectivos.md",
-    "01_Web/Proyectos/Buscador con IA de producciones propias.md",
-    "Imagenes/Pasted image 20250901205451.png",
+    "Imagenes/Pasted image 20250902150753.png",
     "08_Informes cuatrimestrales/Informe 01.md",
-    "Imagenes/Pasted image 20250901185941.png",
-    "02_ISP Internet/Fabricantes de fibra óptica.md",
+    "01_Web/Proyectos/App registro de lectura/App Registro de lectura - EJES.md",
+    "01_Web/Proyectos/Primer Web con CMS - Costo, precio, ganancia.md",
+    "01_Web/Proyectos/App registro de lectura/Registro de lectura diaria.md",
     "02_ISP Internet/Red de Fibra FTTH (Presupuesto).md",
-    "02_ISP Internet/Troncales submarinos de internet.md",
-    "02_ISP Internet/ISP - Proveedores de internet en Argentina.md",
-    "06_Infraestructura de CHIPS y Servidores/Microchips.md",
+    "01_Web/Proyectos/App para registrar balance de las paradas de diarios.md",
+    "03_Seguridad/Blog seguridad/01_Capas de seguridad.md",
+    "01_Web/Proyectos/App registro de lectura",
+    "01_Web/Proyectos/App registro de lectura.md",
+    "Imagenes/Pasted image 20250902134240.png",
+    "03_Seguridad/Blog seguridad/Cambiar DNS de la PC.md",
+    "03_Seguridad/Blog seguridad/Antivirus.md",
+    "03_Seguridad/Blog seguridad/Autenticacion y autorizacion en una web de agentes IA.md",
+    "03_Seguridad/Blog seguridad/Anonimato.md",
+    "03_Seguridad/Blog seguridad/Whonix.md",
+    "03_Seguridad/Blog seguridad/Web-Redes.md",
+    "03_Seguridad/Blog seguridad/VPN PROTON.md",
+    "03_Seguridad/Blog seguridad/VPN.md",
+    "03_Seguridad/Blog seguridad/Utilizacion de JWT o Atuh0.md",
+    "03_Seguridad/Blog seguridad/Telemetria.md",
+    "03_Seguridad/Blog seguridad/Sistema Operativo.md",
+    "03_Seguridad/Blog seguridad/Seguridad sitio Wordpress.md",
+    "03_Seguridad/Blog seguridad/Seguridad red.md",
+    "03_Seguridad/Blog seguridad/Phishing.md",
+    "03_Seguridad/Blog seguridad/Ordenador.md",
+    "03_Seguridad/Blog seguridad/OneDrive.md",
+    "03_Seguridad/Blog seguridad/Nube.md",
+    "Imagenes/Pasted image 20250901205451.png",
+    "Imagenes/Pasted image 20250901185941.png",
     "06_Infraestructura de CHIPS y Servidores",
-    "02_ISP Internet/Fundamentos de internet.md",
-    "02_ISP Internet/Cajas de Empalme y Distribución (NAP-FDT).md",
-    "02_ISP Internet/Cable de acometida (Drop).md",
-    "02_ISP Internet/Puntos de intercambio de tráfico IXPs.md",
-    "02_ISP Internet/OLT (Optical Line Terminal).md",
-    "02_ISP Internet/Inscripción en LACNIC con ASN propio.md",
-    "02_ISP Internet/Inscripción a ENACOM.md",
     "08_Informes cuatrimestrales",
     "01_Web/Proyectos/Famosos50",
     "Imagenes/Pasted image 20250901154209.png",
@@ -272,8 +295,6 @@
     "07_Servidor local",
     "Imagenes/AnalisisMercadoEditoriales.xlsx",
     "Imagenes/dataset-libros-los50famosos.csv",
-    "Web/Sin nombre",
-    "Imagenes/Pasted image 20250829133412.png",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",

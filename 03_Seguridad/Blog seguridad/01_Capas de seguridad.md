@@ -8,7 +8,7 @@ En este documento vamos a definir una serie de pasos de manera de poder ir avanz
 
 Requiere pocos conocimientos técnicos y los pasos por cada computadora se realizan una única vez.
 
-# Capa 2: reestructuracion de herramientas
+# Capa 2: reestructuración de herramientas
 
 Requiere conocimientos técnicos y los pasos que se describen tienen que tener un seguimiento
 
