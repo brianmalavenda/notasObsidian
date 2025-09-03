@@ -9,6 +9,14 @@ links_externos::
 1. Investigación permanente: temas de actualidad o sobre la industria que haya que seguir
 2. Observatorio: portales de noticias de la coyuntura sobre la industria del conocimiento informático [línea de occidente y línea de oriente]
 
+### Observatorio
+
+Relevamos en un primer momento un total de 22 portales de tecnología, de esos portales seleccionamos 14, es  decir 8 o tenían informacion muy vieja o los temas del portal no eran demasiados necesarios ya que no aportan hasta el momento informacion relevante al seguimiento de la rama. De estos portales quedaron seleccionados:
+1. Ciberseguridad: 2 rusos, 1 de occidente
+2. Desarrollo: 3 de occidente
+3. IA: 2 chinos
+4. Tecnología gral: 5 de 11. 2 de occidente y 4 de china
+
 ## Investigación de temas particulares
 
 Informe de la infraestructura de telecomunicaciones del país teniendo en cuenta la interconectividad de cables submarinos del mundo y cuales son los puntos de acceso del país. De donde vienen esos cables, donde están ubicados en la geografía del país. Que empresas son las dueñas de esos cables, cuales son las empresas que proveen el servicio de conectividad de internet en el país. 
@@ -24,6 +32,10 @@ Un portal de cliente de feed RSS donde revisamos las noticias de la industria de
 2. Desarrollo web
 3. Ciberseguridad
 4. IA
+5. Tecnología Aeroespacial
+6. Tecnología en general
+
+De estos temas leímos 30 portales
 
 ## 1- Web
 
@@ -110,7 +122,7 @@ La producción de información durante el recorrido de estos 4 meses en cuanto a
 Esto estuvo bien pero igualmente la vinculación entre las notas queda en una base de datos que necesariamente debe estar expuesta en internet. Como una estructuración que quizas no es la más comoda para no repetir informacion y no solo vincular una nota con otra sinó hacer referencia a citas, parráfos entre notas, embeber el contenido de una a otra. Este nivel de relacion de informacion lo pudimos implementar con Obsidian. Con esta herramienta, el entrelazamiento de datos y la estructuracion de los mismo es más facil y configurable. Esto lo tomamos como un primer momento de armar un DataLake (lago de datos) que iremos viendo de estructurar cada vez más para que se transforme en un DataWhereHouse que por tamaño aun no llega a tener dimensiones para llamarlo así y tampoco la metadata es tan estructurada para el fin previsto porque lo estamos elaborando en la marcha.
 
 
-![[Pasted image 20250901185941.png]]
+![[Pasted image 20250903083223.png]]
 ***Esta imagen es una representación gráfica donde cada punto es una nota, cada punto de color son notas de un tipo determinado y cada línea y red neuronal que se arma es la interrelación de unas con otras.***
 
 

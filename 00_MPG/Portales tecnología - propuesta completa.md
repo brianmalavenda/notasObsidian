@@ -1,5 +1,4 @@
 
-
 # 📡 Internet de las Cosas (IoT)
 
 - **Telnyx – The Future of IoT Technology**: Informe con 7 tendencias clave de IoT para 2025 (5G IoT, edge computing, AIoT, digital twins, seguridad, NTN satelital, sostenibilidad). | Artículo Telnyx _(RSS no visible)_
