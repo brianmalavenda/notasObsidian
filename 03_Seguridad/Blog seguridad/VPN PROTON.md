@@ -1,5 +1,5 @@
-Tags: #vpn/proton #seguridad/web/vpn 
-Links: 
+tags: #vpn/proton #seguridad/web/vpn 
+links: [[VPN]] 
 
 Solución ProtonVPN no disponible en China
 

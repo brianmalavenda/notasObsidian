@@ -1,0 +1,19 @@
+
+Tags: #tsmc #eeuu #china #chip #taiwan
+Links: [xataka](https://www.xataka.com/empresas-y-economia/tsmc-ha-encontrado-forma-protegerse-ira-eeuu-sacando-maquinas-chinas-sus-fabricas)
+Resumen: ***La relación entre TSMC, el mayor fabricante de chips del mundo con sede en Taiwán, y el gobierno de Estados Unidos ha sido históricamente compleja, marcada por la dependencia tecnológica de empresas estadounidenses como Apple, NVIDIA y AMD de los avanzados nodos de producción taiwaneses. Recientemente, TSMC ha decidido dejar de utilizar equipos chinos en sus procesos de fabricación más avanzados, como los de AMEC y Mattson Technology, para evitar posibles sanciones o restricciones impuestas por Washington. Esta medida anticipa una propuesta legislativa estadounidense, liderada por el senador Mark Kelly, que prohibiría a empresas con apoyo federal adquirir tecnología de "entidades extranjeras preocupantes". La jugada de TSMC refleja la presión geopolítica y la voluntad de proteger su acceso al mercado crítico de EE.UU., incluso a costa de reconfigurar su cadena de suministro.***
+   
+TSMC y el Gobierno de EEUU sostienen una relación tormentosa desde hace muchos años. Probablemente desde que este fabricante de chips taiwanés, el mayor del planeta, arrebató el liderazgo de la industria de la producción de semiconductores a Intel. "Nuestro objetivo es ser el número 1. Sin excepción. Y para serlo tienes que gastar tres veces más que tu siguiente competidor". Morris Chang, el fundador de TSMC, pronunció estas palabras en 1997. Intel dominaba la industria de los chips.
+
+Actualmente la cuota de mercado de esta empresa asiática roza el 60% y en su cartera de clientes se cobijan NVIDIA, Apple, AMD, Broadcom o Qualcomm, entre otras compañías estadounidenses. Este es el motivo por el que el mercado de EEUU es muy importante para TSMC. No obstante, hoy este país no puede prescindir de esta compañía. Intel tiene nodos de litografía avanzados, pero la competitividad de su rival taiwanés es difícil de igualar. Aun así, la Administración Trump está ejerciendo una presión sobre TSMC difícil de soportar.
+
+TSMC ha decidido dejar de usar máquinas chinas en sus nodos de vanguardia
+
+Acaba de confirmarlo Nikkei Asia. Según este medio de comunicación japonés, la junta directiva de TSMC ha decidido dejar de utilizar equipos de procesamiento de obleas de origen chino en sus nodos de litografía más avanzados. Sus plantas de fabricación de circuitos integrados están repletas de máquinas de la compañía neerlandesa ASML, la japonesa Tokyo Electron y la estadounidense Applied Materials, pero TSMC también utiliza equipos chinos.
+
+Pulin Technology, Naura Technology, AMEC (Advanced Micro-Fabrication Equipment Inc. China), Mattson Technology o Piotech Inc. son algunos de los fabricantes chinos de equipos de litografía y máquinas de procesamiento de obleas más importantes. TSMC es cliente al menos de AMEC y Mattson Technology, pero parece que no va a serlo durante mucho tiempo más. La decisión de prescindir de sus máquinas persigue evitar posibles restricciones de EEUU que con toda probabilidad podrían interrumpir la producción de semiconductores.
+
+Hasta ahora el Gobierno de EEUU está haciendo todo lo que está en su mano para evitar que los equipos de fabricación de chips más avanzados lleguen a China, pero, según Nikkei Asia, está a punto de dar un paso más. Y es que varios legisladores estadounidenses liderados por el senador Mark Kelly han propuesto poner a punto una ley que prohibirá a las empresas que reciben apoyo federal y créditos fiscales comprar equipos de "entidades extranjeras preocupantes". No cabe duda de que van muy en serio. De lo contrario TSMC, que ha recibido subvenciones de la Administración estadounidense, no habría tomado esta decisión incluso antes de que la ley del senador Kelly prospere.
+
+En Xataka | Intel estuvo a punto de arrebatar a Apple como cliente a TSMC. De haberlo conseguido su historia sería otra
+ 

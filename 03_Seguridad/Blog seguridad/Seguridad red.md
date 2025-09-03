@@ -1,5 +1,6 @@
 Tags: #internet #red/servidor_dhcp #ip/estática #red/chaddr #red/dhcpoffer #red/servidor_wins #red/mascara_de_subred #red/gateway #red/lease_time
-Links:
+links: [[VPN]] [[Navegacion Web]] [[Cambiar DNS de la PC]] 
+links_externos: 
 
 ## Servidor DHCP
 
