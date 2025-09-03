@@ -1,0 +1,29 @@
+
+Tags: #intel #semiconductores #eeuu #chip 
+Links: [xataka](https://www.xataka.com/empresas-y-economia/eeuu-ha-comprado-10-intel-para-salvarla-quema-eso-planea-problema-enorme-uno-llamado-favoritismo)
+Resumen: ***El Gobierno de Estados Unidos ha acordado invertir 8.900 millones de dólares en Intel a cambio de una participación del 10% en la empresa, sumándose a los 2.200 millones previamente otorgados mediante el CHIPS and Science Act. Este rescate financiero —el primero desde el rescate automovilístico de 2008— refleja la profunda crisis de Intel, que ha perdido liderazgo tecnológico y competitividad frente a rivals como TSMC, Samsung y NVIDIA. Aunque el acuerdo no incluye representación gubernamental en el consejo de administración, supone una pérdida de autonomía para Intel, cuya estrategia estará ahora sujeta a mayor escrutinio político y objetivos geopolíticos de EE.UU., como reducir la dependencia de Taiwán y China en semiconductores. El movimiento también podría distorsionar la competencia, favoreciendo a Intel sobre rivals nacionales (AMD, NVIDIA, Qualcomm) y extranjeros, mientras plantea dudas sobre la sostenibilidad del modelo intervencionista en la industria tecnológica.***
+
+    Intel ha acordado venderle al Gobierno de Estados Unidos el 10% de su empresa por un valor de 8.900 millones de dólares. Se confirma así una medida intervencionista que tiene enormes implicaciones no solo para Intel, sino para toda la industria de semiconductores. Sobre todo, la estadounidense.
+
+Crisis histórica. La crisis histórica que atraviesa Intel sigue sin resolverse. y su nuevo CEO, Lip-Bu Tan, ya reconocía hace unas semanas cómo "Hace veinte o treinta años éramos líderes. Ahora el mundo ha cambiado. No estamos entre las diez principales empresas de semiconductores". Los despidos masivos y la decisión de apostarlo todo a la litografía 18A —nada de nodo 20A— planteaban un futuro complicado para la empresa, que necesita margen de maniobra. Acaba de obtenerlo, pero no sabemos a qué precio. O quizás sí.
+
+
+El acuerdo. Según indican en Intel, Estados Unidos invertirá 8.900 millones de dólares en acciones de la empresa, y eso se suma a los 2.200 millones de dólares que el Gobierno de EEUU pagó a la empresa como parte del CHIPS and Science Act, un programa federal que se aprobó en 2022 y que está destinado a invertir miles de millones de dólares para revivir la industria de semiconductores del país.
+
+Intel era demasiado grande para caer. El momento de debilidad sigue siendo preocupante, pero ha habido dos "rescates" recientes. El primero, por la inversión de 2.000 millones de dólares de SoftBank en la compañía. El segundo, mucho más importante, el que acaba de firmar el Gobierno de EEUU con la compra del 10% de Intel por 8.900 millones de dólares. Esta medida es especialmente llamativa por varios motivos. Para empezar, es la primera vez que el Gobierno de EEUU interviene una empresa desde que se produjo el rescate de la industria automovilística durante la crisis de 2008. Pero es que hay más implicaciones.
+
+Potencial pérdida de autonomía. El acuerdo es solo económico y no habrá representación oficial del Gobierno de EEUU en el consejo de administración de Intel. Sin embargo, la presión política ahora se verá sin duda alguna incrementada, y cada tran decisión empresarial de Lip-Bu Tan y su equipo se verá a través de un prisma diferente: hay dinero público en juego.
+
+¿Tiempos desesperados, medidas desesperadas? Otra de las perspectivas desde las que se puede contemplar este acuerdo es el de la desesperación. Aceptar este "rescate" gubernamental puede ser visto como un indicio claro de que Intel estaba contra las cuerdas y no había escapatoria sin algún movimiento de este tipo. Para Lip-Bu Tan esto puede representar un problema de cara a la confianza en su liderazgo ahora que acaba de tomar el mando, y de hecho el senador estadounidense Tom Cotton lo acusó de invertir en 600 empresas chinas. El presidente Trump llegó a pedir su dimisión en Truth Social para luego acabar reuniéndose con él y felicitándole por su gestión.
+
+Un acuerdo lógico para la hoja de ruta de Trump. El presidente de EEUU inició su mandato con la intención clara de centralizar al máximo la producción de semiconductores y productos de electrónica. Ese proteccionismo va muy ligado a esta decisión, y permite proteger a Intel además de mitigar la dependencia de Taiwán y de la importación de chips y tecnología desde China. El Secretario de Comercio, Howard Lutnick, indicó que el acuerdo es especialmente beneficioso para el gobierno estadounidense, señalando que Biden básicamente estaba regalando el dinero a las empresas mediante subsidios, pero aquí lo que EEUU logra es plantear ese subsidio como una inversión. No es dinero "a fondo perdido". No está claro que dado que el dinero proviene de la CHIPS Act se permita que el Gobierno de EEUU acabe obteniendo beneficios de dicha "inversión". 
+
+Favoritismo. Esta politización del negocio de los semiconductores podría acabar provocando incómodas alianzas y distorsionando la competencia. Puede que ahora todo tipo de agencias gubernamentales tengan mucha más inclinación a comprar chips de Intel en el futuro, mientras competidores directos como Apple, AMD, NVIDIA o Qualcomm salen perjudicados ante un panorama de favoritismo gubernamental. Intel, insistimos, quizás era demasiado grande e icónica para dejarla caer, pero este intervencionismo plantea un cambio en las reglas de juego que afecta tanto a Intel como a sus competidores nacionales y, por supuesto, extranjeros.
+
+Imagen | Intel | Gage Skidmore
+
+En Xataka | El plan de Intel frente a una TSMC inalcanzable: batir a Samsung y consolidarse como el segundo mayor fabricante de chips
+
+        Javier Pastor
+       
+      . 

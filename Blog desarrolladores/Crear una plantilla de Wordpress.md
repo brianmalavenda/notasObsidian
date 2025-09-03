@@ -1,2 +1,0 @@
-
-Como crear una plantilla?

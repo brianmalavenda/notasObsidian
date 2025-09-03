@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"99d7849de43a4303","type":"file","file":"Imagenes/menu_pagina_personalizacion.png","x":-620,"y":-680,"width":400,"height":279},
-		{"id":"a115eb993398e9bc","x":-760,"y":-940,"width":400,"height":304,"type":"file","file":"Imagenes/menu_categorias.png"}
+		{"id":"5fb072dd8d04ec5e","type":"file","file":"Imagenes/registro_compra_mp.png","x":-260,"y":-200,"width":305,"height":400},
+		{"id":"97bdb3e133529d93","type":"file","file":"Imagenes/registro_compra_mp_01.png","x":-420,"y":260,"width":400,"height":64}
 	],
 	"edges":[]
 }
