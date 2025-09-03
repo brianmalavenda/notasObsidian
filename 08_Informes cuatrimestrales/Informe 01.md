@@ -1,7 +1,7 @@
-tipo::
-tags::
-fecha:: 2025-09-01
-links::
+tipo:: [[Informes cuatrimestrales]] 
+tags:: #ia #seguridad #desarrollo_front #desarrollo_back #data #mpg 
+fecha:: 2025-09-03
+links:: 
 links_externos::
 
 ## 0-MPG
@@ -39,9 +39,14 @@ De estos temas leímos 30 portales
 
 ## 1- Web
 
+Ruta de aprendizaje
+
 **1er AÑO - 2026**
 
-1. Ruta de aprendizaje e incorporación
+1. Ruta de aprendizaje e incorporación:
+	1. Web orientada a uso de usuarios - lenguaje de alto nivel casi sin código
+	2. Web orientado a uso interno empresa - lenguaje de bajo nivel, todo código
+	3. Web que combine ambas cosas - esto integra otros servicios y conocimientos de arquitectura 
 2. Relevamiento de labor cotidiano
 3. Hoja de ruta de proyectos
 ### Sitio web orientado a uso de usuarios - CMS
@@ -58,7 +63,7 @@ Comprobamos en la práctica que esta web en el mercado a $ 870.000 podemos hacer
 Estas páginas no son estándar ni hay herramientas de creación de web de alto nivel donde no requiera codificar. Estas webs personalizadas se alojan en hosting donde se paga por uso y no un alquiler de recursos fijo como webs basadas en tecnología CMS, por lo tanto tuvimos que crear una app de prueba para estimar costos de estos tipos de servidores. Esta app fue una de las de hoja de ruta de proyectos que se armó según el funcionamiento cotidiano de la labor política.
 En este caso fue la App de Registro de Lectura.
 
-
+![[App Registro de lectura - EJES#^app-code-presupuesto]]
 
 ## 4- Seguridad
 
@@ -129,7 +134,4 @@ Esto estuvo bien pero igualmente la vinculación entre las notas queda en una ba
 Poniendo en práctica esto es el insumo de nuestra información de la que se puede alimentar un modelo de IA para comenzar con la experiencia de desarrollar una IA adaptada a nuestra experiencia y desarrollo.
 
 El desarrollo de esto es replicar esto mismo con las producciones ideológicas. Calculamos una producción de más 300 hojas semanales entre el EJES del mundo, informes, diarios pintados de los portales. Toda esta información tiene que estructurarse en nuestra base de conocimiento que vaya relacionando producciones escritas con películas, series o música que ayuden a desarrollar determinados conceptos, procesos históricos etc, etc.
-
----
-#### Referencias
 
