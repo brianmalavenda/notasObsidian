@@ -46,7 +46,7 @@ Ruta de aprendizaje
 1. Ruta de aprendizaje e incorporación:
 	1. Web orientada a uso de usuarios - lenguaje de alto nivel casi sin código
 	2. Web orientado a uso interno empresa - lenguaje de bajo nivel, todo código
-	3. Web que combine ambas cosas - esto integra otros servicios y conocimientos de arquitectura 
+	3. Web que gestión interna y uso de usuarios - esto integra otros servicios y conocimientos de arquitectura 
 2. Relevamiento de labor cotidiano
 3. Hoja de ruta de proyectos
 ### Sitio web orientado a uso de usuarios - CMS
@@ -65,6 +65,11 @@ En este caso fue la App de Registro de Lectura.
 
 ![[App Registro de lectura - EJES#^app-code-presupuesto]]
 
+### Sitio Web que gestión interna y uso de usuarios
+
+Comenzamos con el diseño de arquitectura del portal del ejes. Acá integraremos el uso de un portal de noticias del ejes con una herramienta que nos permita conectarnos, trabajar la seleccion de notas, escritura y editorializacion así como tambien la exportacion de un archivo pdf, word y audio. Esto tendras etapas, las cuales llamaremos 'iteraciones' donde comenzaremos por la primera iteracion que será la de seleccion de notas a través de la integracion de noticias de los portales de insumo con las novedades y la posibilidad de seleccionar y copiar el contenido de manera automática. Aún estamos ajustando cosas de diseño de arquitectura para poder pasar al desarrollo de la primera iteración. Debajo pondremos hasta ahora un diagrama de diseño y funcionamiento de la plataforma EJES.
+
+![[Pasted image 20250903115054.png]]
 ## 4- Seguridad
 
 **2do AÑO - 2027**
