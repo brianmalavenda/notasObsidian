@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1484942276764cc",
+        "id": "12a1043496cdb092",
         "type": "tabs",
         "children": [
           {
-            "id": "d9daa1ca6f498888",
+            "id": "50318c8b5722f2d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Informes cuatrimestrales/Informe 01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Informe 01"
-            }
-          },
-          {
-            "id": "0d770ec4a78d37ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Web/Proyectos/App registro de lectura/App Registro de lectura - EJES.md",
+                "file": "01_Web/03_Proyectos/Registro de lectura/App Registro de lectura - EJES.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "App Registro de lectura - EJES"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "registro lectura",
+                "query": "sistema bds",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +75,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7a2382655e114211",
@@ -165,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01_Web/Proyectos/App registro de lectura/App Registro de lectura - EJES.md",
+                "file": "01_Web/03_Proyectos/Registro de lectura/App Registro de lectura - EJES.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,54 +231,54 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "0d770ec4a78d37ea",
+  "active": "50318c8b5722f2d2",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20250904235149.png",
+    "06_Infraestructura/03_Proyectos/Tecnico_01-jmd-enova.md",
+    "06_Infraestructura/03_Proyectos/Tecnico_02-ssb-exosmart-r.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/Galileo.md",
+    "06_Infraestructura/03_Proyectos",
+    "06_Infraestructura/02_Fuente de conocimiento",
+    "06_Infraestructura/01_Recursos",
+    "06_Infraestructura/Iniciar Windows 11.md",
+    "Imagenes/Pasted image 20250904190233.png",
+    "Imagenes/Pasted image 20250904190143.png",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/Hardware de geolocalizacion.md",
+    "Imagenes/Pasted image 20250904173938.png",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/BDS.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/CGNSS - Sistemas globales de navegación por satélite.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/QZSS.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/IRNSS.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/GPS.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/GLONASS.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/Sistema BDS.md",
+    "03_Seguridad/02_Fuente de conocimiento/Cifrado/Chimera.md",
+    "03_Seguridad/02_Fuente de conocimiento/Cifrado/OsnMA.md",
+    "03_Seguridad/02_Fuente de conocimiento/Cifrado",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital",
+    "03_Seguridad/02_Fuente de conocimiento/Dispositivos/Huawei Mate X6.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/China/Huawei.md",
+    "04_DataWerehouse/03_Proyectos/Base de conocimiento.md",
+    "03_Seguridad/02_Fuente de conocimiento/Dispositivos",
+    "Imagenes/Pasted image 20250904114351.png",
+    "Imagenes/Pasted image 20250904113904.png",
+    "Boludeces.md",
+    "05_IA/02_Fuente de conocimientos/Deepseek.md",
+    "00_MPG/Empresas.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/China/Tencent.md",
+    "04_DataWerehouse/02_Fuente de conocimientos/Wikigrpher.md",
+    "05_IA/03_Proyectos",
+    "05_IA/02_Fuente de conocimientos",
+    "05_IA/01_Recursos",
+    "04_DataWerehouse/02_Fuente de conocimientos/Base de conocimiento.md",
+    "03_Seguridad/03_Proyectos/Blog seguridad/Telemetria.md",
+    "04_DataWerehouse/03_Proyectos",
+    "03_Seguridad/02_Fuente de conocimiento/VPN PROTON.md",
     "Imagenes/Pasted image 20250902150753.png",
-    "08_Informes cuatrimestrales/Informe 01.md",
-    "01_Web/Proyectos/App registro de lectura/App Registro de lectura - EJES.md",
-    "01_Web/Proyectos/Primer Web con CMS - Costo, precio, ganancia.md",
-    "01_Web/Proyectos/App registro de lectura/Registro de lectura diaria.md",
-    "02_ISP Internet/Red de Fibra FTTH (Presupuesto).md",
-    "01_Web/Proyectos/App para registrar balance de las paradas de diarios.md",
-    "03_Seguridad/Blog seguridad/01_Capas de seguridad.md",
-    "01_Web/Proyectos/App registro de lectura",
-    "01_Web/Proyectos/App registro de lectura.md",
     "Imagenes/Pasted image 20250902134240.png",
-    "03_Seguridad/Blog seguridad/Cambiar DNS de la PC.md",
-    "03_Seguridad/Blog seguridad/Antivirus.md",
-    "03_Seguridad/Blog seguridad/Autenticacion y autorizacion en una web de agentes IA.md",
-    "03_Seguridad/Blog seguridad/Anonimato.md",
-    "03_Seguridad/Blog seguridad/Whonix.md",
-    "03_Seguridad/Blog seguridad/Web-Redes.md",
-    "03_Seguridad/Blog seguridad/VPN PROTON.md",
-    "03_Seguridad/Blog seguridad/VPN.md",
-    "03_Seguridad/Blog seguridad/Utilizacion de JWT o Atuh0.md",
-    "03_Seguridad/Blog seguridad/Telemetria.md",
-    "03_Seguridad/Blog seguridad/Sistema Operativo.md",
-    "03_Seguridad/Blog seguridad/Seguridad sitio Wordpress.md",
-    "03_Seguridad/Blog seguridad/Seguridad red.md",
-    "03_Seguridad/Blog seguridad/Phishing.md",
-    "03_Seguridad/Blog seguridad/Ordenador.md",
-    "03_Seguridad/Blog seguridad/OneDrive.md",
-    "03_Seguridad/Blog seguridad/Nube.md",
     "Imagenes/Pasted image 20250901205451.png",
     "Imagenes/Pasted image 20250901185941.png",
-    "06_Infraestructura de CHIPS y Servidores",
-    "08_Informes cuatrimestrales",
-    "01_Web/Proyectos/Famosos50",
     "Imagenes/Pasted image 20250901154209.png",
-    "Imagenes/Pasted image 20250901154138.png",
-    "Imagenes/costos y proyeccion ganancia web CMS.png",
-    "Imagenes/Pasted image 20250901140524.png",
-    "Imagenes/Pasted image 20250901135908.png",
-    "Sin título.base",
-    "Imagenes/manual de marca del sitio Famosos50.png",
-    "Imagenes/login_en_wordpress.png",
-    "03_Seguridad/Blog seguridad/Noticias",
-    "00_MPG/Implementaciones de avances",
-    "07_Servidor local",
-    "Imagenes/AnalisisMercadoEditoriales.xlsx",
-    "Imagenes/dataset-libros-los50famosos.csv",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",
