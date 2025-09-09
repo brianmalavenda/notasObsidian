@@ -4,11 +4,6 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "00_MPG/Empresas",
-      "tag": "#mpg/empresas",
-      "pattern": ""
-    },
-    {
       "folder": "00_MPG/Noticias",
       "tag": "#mpg/notas",
       "pattern": ""

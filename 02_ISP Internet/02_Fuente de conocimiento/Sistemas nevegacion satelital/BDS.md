@@ -1,7 +1,7 @@
 tipo::
 tags:: #sistema-global-navegacion 
 fecha:: 2025-09-04
-links:: [[CGNSS - Sistemas globales de navegación por satélite]]
+links:: [[CGNSS - Sistemas globales de navegación por satélite]], [[Autenticacion OsnMA]]
 links_externos::
 
 
@@ -19,7 +19,7 @@ El servicio de comunicación de mensajes cortos de la navegación por satélite 
 
 ## Cifrado
  
-BDS incluye un servicio de mensajería corta vía satélite (SMSS) que permite enviar textos de hasta 1.200 caracteres incluso sin cobertura móvil [](http://www.beidou.gov.cn/)[](https://www.mobilemagazinehk.com/2025/02/cmhk-bds-huawei-mate-x6-pura-70-ultra.html). En el Huawei Mate X6, esta función se implementa como **"Mensajes北斗北斗"** [](https://consumer.huawei.com/cn/phones/mate-x6/)[](https://consumer.huawei.com/cn/phones/mate-x6/specs/). Los mensajes se transmiten through canales propietarios de BDS, lo que teóricamente reduce la exposición a interceptación por partes externas (como agencias de inteligencia de terceros países). Los mecanismos de autenticación de señal de BDS (contra spoofing) y el uso de canales propietarios ofrecen una capa adicional de seguridad compared a redes terrestres convencionales. Sin embargo, **no hay evidencia pública de que estos mensajes estén cifrados end-to-end** por defecto. 
+BDS incluye un servicio de mensajería corta vía satélite (SMSS) que permite enviar textos de hasta 1.200 caracteres incluso sin cobertura móvil [beidou gob](http://www.beidou.gov.cn/)[huawei-mate-x6-pura-70-ultra](https://www.mobilemagazinehk.com/2025/02/cmhk-bds-huawei-mate-x6-pura-70-ultra.html). En el Huawei Mate X6, esta función se implementa como **"Mensajes北斗北斗"** [consumer.huawei](https://consumer.huawei.com/cn/phones/mate-x6/)[consumer.huawei](https://consumer.huawei.com/cn/phones/mate-x6/specs/). Los mensajes se transmiten through canales propietarios de BDS, lo que teóricamente reduce la exposición a interceptación por partes externas (como agencias de inteligencia de terceros países). Los mecanismos de autenticación de señal de BDS (contra spoofing) y el uso de canales propietarios ofrecen una capa adicional de seguridad compared a redes terrestres convencionales. Sin embargo, **no hay evidencia pública de que estos mensajes estén cifrados end-to-end** por defecto. 
 
 Si bien BDS tiene cobertura global, su servicio de mensajería satelital (**北斗短报文**) está diseñado principalmente para usuarios en China y regiones adyacentes. Fuera de esta zona, la funcionalidad puede estar limitada o requerir acuerdos con operadores locales [](https://consumer.huawei.com/cn/phones/mate-x6/specs/)[](https://www.mobilemagazinehk.com/2025/02/cmhk-bds-huawei-mate-x6-pura-70-ultra.html).
 Los mensajes BDS están restringidos a texto y coordenadas GPS (no soportan voz o datos de alta velocidad). Requiere visibilidad directa al cielo y condiciones atmosféricas favorables.

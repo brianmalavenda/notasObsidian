@@ -1,8 +1,6 @@
-tipo::
+tipo:: [[Inicio de Windows 11]]
 tags:: #tecnico/configuracion-inicio
 fecha:: 2025-09-04
-links:: 
-links_externos::
 
 1. [x] Configuración de sistema operativo sin vinculación con cuenta de Microsoft  
 2. [x] Desinstalar aplicaciones de Windows 11
@@ -25,18 +23,17 @@ links_externos::
 	17. [x] Xbox
 	18. [x] Xbox Live
 3. [ ] Desactivación de telemetría de Windows
-		En Windows 11 los scripts para crear reglas que bloquean la telemetría no funcionó. Parece que Windows bloqueó la posibilidad de hacerlo. Revisar.
+		Los scripts que teníamos para Windows 10 y primeras versiones de Windows 11 no funcionaron para ofuscar la observabilidad del sistema operativo. En esta última actualización de Windows 11 han bloqueó la posibilidad de crear reglas de firewall que bloqueen a los servidores de microsoft.
 4. [x] Desactivar Cortana y OneDrive de Microsoft para evitar sincronización de archivos
 5. [x] Instalación de navegadores Brave y Wolf
-	Documentos > Notas > Brave y Wolf
+	Documentos > Notas > 00_Navegadores orientados a privacidad
 6. [x] Aplicación de DNS de Alibaba y dejamos nota para cambiar la configuración en 
-	Documentos > Notas > Configuración DNS
+	Documentos > Notas > 01_Configuración DNS
 7. [x] Instalación de LibreOffice 
 	Documentos > Notas > Instalables
 8. [ ] Instalación de Proton VPN y documentación para utilizar
 		No pudimos crear una cuenta de proton porque necesitamos validar con otro mail. Tenemos que dejar creado un tutorial para que lo pueda hacer el usuario directamente. 
 		Dejamos un documento con la explicación de como crear una cuenta en Proton.
-	Documentos > Notas > Proton VPN
----
-#### Referencias
+	Documentos > Notas > 02_Proton VPN
+	Documentos > Notas > 03_Crear cuenta proton
 

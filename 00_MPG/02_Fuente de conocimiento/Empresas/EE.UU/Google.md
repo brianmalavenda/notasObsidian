@@ -2,9 +2,15 @@
 tipo::
 tags:: #mpg/empresas
 fecha:: 2025-09-01
-links::
+links:: [[Salesforce]]
 links_externos::
 
+
+### Hackeo de servidores
+
+ Google experimentó una violación de datos de Gmail en junio, pero el ataque se limitó al servidor corporativo Salesforce de la compañía. El hacker pudo acceder a información disponible públicamente, como nombres comerciales y datos de contacto, pero ninguna información privada se vio comprometida.
+ 
+ 
 ### Android
 
 https://www.genbeta.com/sistemas-operativos/google-esta-cambiando-android-a-grande-para-usuarios-desarrolladores-sistema-que-conocemos-esta-diciendo-adios-poco-a-poco
