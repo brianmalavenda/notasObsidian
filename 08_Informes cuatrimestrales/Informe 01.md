@@ -1,13 +1,21 @@
-tipo::
-tags::
-fecha:: 2025-09-01
-links::
+tipo:: [[Informes cuatrimestrales]] 
+tags:: #ia #seguridad #desarrollo_front #desarrollo_back #data #mpg 
+fecha:: 2025-09-03
+links:: 
 links_externos::
 
 ## 0-MPG
 
 1. Investigación permanente: temas de actualidad o sobre la industria que haya que seguir
 2. Observatorio: portales de noticias de la coyuntura sobre la industria del conocimiento informático [línea de occidente y línea de oriente]
+
+### Observatorio
+
+Relevamos en un primer momento un total de 22 portales de tecnología, de esos portales seleccionamos 14, es  decir 8 o tenían informacion muy vieja o los temas del portal no eran demasiados necesarios ya que no aportan hasta el momento informacion relevante al seguimiento de la rama. De estos portales quedaron seleccionados:
+1. Ciberseguridad: 2 rusos, 1 de occidente
+2. Desarrollo: 3 de occidente
+3. IA: 2 chinos
+4. Tecnología gral: 5 de 11. 2 de occidente y 4 de china
 
 ## Investigación de temas particulares
 
@@ -24,12 +32,21 @@ Un portal de cliente de feed RSS donde revisamos las noticias de la industria de
 2. Desarrollo web
 3. Ciberseguridad
 4. IA
+5. Tecnología Aeroespacial
+6. Tecnología en general
+
+De estos temas leímos 30 portales
 
 ## 1- Web
 
+Ruta de aprendizaje
+
 **1er AÑO - 2026**
 
-1. Ruta de aprendizaje e incorporación
+1. Ruta de aprendizaje e incorporación:
+	1. Web orientada a uso de usuarios - lenguaje de alto nivel casi sin código
+	2. Web orientado a uso interno empresa - lenguaje de bajo nivel, todo código
+	3. Web que gestión interna y uso de usuarios - esto integra otros servicios y conocimientos de arquitectura 
 2. Relevamiento de labor cotidiano
 3. Hoja de ruta de proyectos
 ### Sitio web orientado a uso de usuarios - CMS
@@ -46,8 +63,13 @@ Comprobamos en la práctica que esta web en el mercado a $ 870.000 podemos hacer
 Estas páginas no son estándar ni hay herramientas de creación de web de alto nivel donde no requiera codificar. Estas webs personalizadas se alojan en hosting donde se paga por uso y no un alquiler de recursos fijo como webs basadas en tecnología CMS, por lo tanto tuvimos que crear una app de prueba para estimar costos de estos tipos de servidores. Esta app fue una de las de hoja de ruta de proyectos que se armó según el funcionamiento cotidiano de la labor política.
 En este caso fue la App de Registro de Lectura.
 
+![[App Registro de lectura - EJES#^app-code-presupuesto]]
 
+### Sitio Web que gestión interna y uso de usuarios
 
+Comenzamos con el diseño de arquitectura del portal del ejes. Acá integraremos el uso de un portal de noticias del ejes con una herramienta que nos permita conectarnos, trabajar la seleccion de notas, escritura y editorializacion así como tambien la exportacion de un archivo pdf, word y audio. Esto tendras etapas, las cuales llamaremos 'iteraciones' donde comenzaremos por la primera iteracion que será la de seleccion de notas a través de la integracion de noticias de los portales de insumo con las novedades y la posibilidad de seleccionar y copiar el contenido de manera automática. Aún estamos ajustando cosas de diseño de arquitectura para poder pasar al desarrollo de la primera iteración. Debajo pondremos hasta ahora un diagrama de diseño y funcionamiento de la plataforma EJES.
+
+![[Pasted image 20250903115054.png]]
 ## 4- Seguridad
 
 **2do AÑO - 2027**
@@ -110,14 +132,11 @@ La producción de información durante el recorrido de estos 4 meses en cuanto a
 Esto estuvo bien pero igualmente la vinculación entre las notas queda en una base de datos que necesariamente debe estar expuesta en internet. Como una estructuración que quizas no es la más comoda para no repetir informacion y no solo vincular una nota con otra sinó hacer referencia a citas, parráfos entre notas, embeber el contenido de una a otra. Este nivel de relacion de informacion lo pudimos implementar con Obsidian. Con esta herramienta, el entrelazamiento de datos y la estructuracion de los mismo es más facil y configurable. Esto lo tomamos como un primer momento de armar un DataLake (lago de datos) que iremos viendo de estructurar cada vez más para que se transforme en un DataWhereHouse que por tamaño aun no llega a tener dimensiones para llamarlo así y tampoco la metadata es tan estructurada para el fin previsto porque lo estamos elaborando en la marcha.
 
 
-![[Pasted image 20250901185941.png]]
+![[Pasted image 20250903083223.png]]
 ***Esta imagen es una representación gráfica donde cada punto es una nota, cada punto de color son notas de un tipo determinado y cada línea y red neuronal que se arma es la interrelación de unas con otras.***
 
 
 Poniendo en práctica esto es el insumo de nuestra información de la que se puede alimentar un modelo de IA para comenzar con la experiencia de desarrollar una IA adaptada a nuestra experiencia y desarrollo.
 
 El desarrollo de esto es replicar esto mismo con las producciones ideológicas. Calculamos una producción de más 300 hojas semanales entre el EJES del mundo, informes, diarios pintados de los portales. Toda esta información tiene que estructurarse en nuestra base de conocimiento que vaya relacionando producciones escritas con películas, series o música que ayuden a desarrollar determinados conceptos, procesos históricos etc, etc.
-
----
-#### Referencias
 

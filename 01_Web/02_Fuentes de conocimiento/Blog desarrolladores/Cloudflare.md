@@ -1,7 +1,7 @@
 
 tags:: #cdn #cloudflare #dns #seguridad #blog_desarrolladores
-links:: [[Registrar dominio]][[Delegar dominio]] [[02_Configuracion]] 
-links_externos:: [Contenido de como configurar cloudflare](https://www.youtube.com/watch?v=I2mv4456l74) , [Reglas de cloudflare](https://github.com/search?q=cloudflare%20rules&type=repositories) , [Cloudflare](https://www.youtube.com/watch?v=G0P-fL39N-0)
+links:: [[Registrar dominio]] -[[Delegar dominio]] - [[02_Configuracion]] 
+links Externos: [Contenido de como configurar cloudflare](https://www.youtube.com/watch?v=I2mv4456l74) , [Reglas de cloudflare](https://github.com/search?q=cloudflare%20rules&type=repositories) , [Cloudflare](https://www.youtube.com/watch?v=G0P-fL39N-0)
 
 ![[cloudflare_cdn_wp_host_01.png]]
 

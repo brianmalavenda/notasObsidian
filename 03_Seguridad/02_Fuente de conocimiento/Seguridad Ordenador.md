@@ -1,5 +1,5 @@
-Tags: #seguridad/ordenador
-Links: [Telemetria](Telemetria.md), [Whonix](Whonix.md), [Databroker](Databroker.md)
+tags: #seguridad/ordenador
+links: [Telemetria](Telemetria.md), [Whonix](Whonix.md), [Databroker](Databroker.md), [[VPN]]
 
 Conceptos: #bridge, #proxy
 1.  Configurar OneDrive para desvincularlo de los equipos y borrar los archivos que quedaron en la nube asegurando de descargarlos primero en el PC local
@@ -8,6 +8,15 @@ Conceptos: #bridge, #proxy
 
 ## Hardware
 Esto queda mas para investigación: Chips en Intel y AMD. IME y PSP
+<<<<<<< HEAD:03_Seguridad/02_Fuente de conocimiento/Seguridad Ordenador.md
+=======
+## [Sistema operativo](SistemaOperativo.md)
+
+Más de un 70% son usuarios de Windows y las herramientas cotidianas instaladas en ese S.O. Dentro de una de las características principales que hacen al rastreo del comportamiento del usuario se encuentra el constante registro de actividad, o [Telemetria](Telemetria.md), que se envía a Microsoft. Con estos datos de comportamiento se utilizan para armar un perfil digital destinado desde el control político hasta la publicidad dirigida.
+##### Que hacer?
+Instalar versiones de Windows LTSC o versiones de Linux para principiantes, con un parecido muy similar a Windows: LinuxMint, PopoEs o escalar en aprendizaje y en seguridad instalando distribuciones como Kali, Tails, [Whonix](Whonix.md).
+Si continuamos con Windows por un tiempo para ir educando otros hábitos podemos eliminar la telemetría desinstalando programas pre-instalados en el sistema operativo y utilizando reglas que restrinjan la comunicación con servidores de Windows a través del Firewall. 
+>>>>>>> cbef0a2542750bf1b3db34b7f269a33abdb21384:03_Seguridad/Blog seguridad/Ordenador.md
 
 ## Sistema Operativo
 ![[Sistema Operativo]]
