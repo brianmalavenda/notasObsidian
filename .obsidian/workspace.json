@@ -11,15 +11,14 @@
             "id": "1b60d2dd4ef8ea03",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "00_Diario/250909.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-file",
+              "title": "250909"
             }
           }
         ]
@@ -150,6 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00_Diario/250909.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Gráfico de 250909"
             }
           },
           {
@@ -233,6 +233,8 @@
   },
   "active": "1b60d2dd4ef8ea03",
   "lastOpenFiles": [
+    "00_Diario/SEPTIEMBRE.md",
+    "00_Diario/250909.md",
     "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube/Google Cloud.md",
     "diferencias-master-20250903.txt",
     "Python.md",
@@ -262,7 +264,6 @@
     "Error Pyhton instalar bibliotecas de terceros.md",
     "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube",
     "03_Seguridad/02_Fuente de conocimiento/Criptografia/Nociones de la criptografia.md",
-    "09_Nube/Huawei Cloud.md",
     "09_Nube",
     "06_Infraestructura/01_Recursos/Dispositivos",
     "00_Diario",
