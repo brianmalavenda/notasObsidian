@@ -1,5 +1,5 @@
 
-tipo::
+tipo:: #mpg/empresas 
 tags:: #mpg/empresas
 fecha:: 2025-09-01
 links:: [[Salesforce]]

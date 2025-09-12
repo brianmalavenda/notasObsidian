@@ -1,4 +1,4 @@
-tipo::
+tipo:: #internet 
 tags::
 fecha:: 2025-09-11
 links:: [[Red LORA]] 

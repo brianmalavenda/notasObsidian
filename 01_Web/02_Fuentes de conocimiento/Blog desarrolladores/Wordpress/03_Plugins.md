@@ -1,6 +1,7 @@
-tags:: #wordpress/plugins 
-links:: [[01_Wordpress]]
-links_externos:
+tipo:: #web/wordpress
+Tags: #wordpress/plugins 
+Links: [[01_Wordpress]]
+Links Externos:
 
 
 ### Performance y mantenimiento
@@ -11,7 +12,7 @@ links_externos:
 * https://www.pluginsweb.es/diferente-precio-segunl-rol-woocommerce-sin-plugins/
 * Integración con WhatsApp: [[Botón de link a WhatsApp]]
 * Backups del sitio: [[Crear backups del sitio]]
-* Generar un newsletter en mi sitio wordpress: [[Newsletter]]
-* Integrar con mercado pago: [[Integración Mercado Pago]]
-* Como configurar mails personalizados para notificaciones de compra: [[Notificaciones de compra]]
+* Generar un newsletter en mi sitio wordpress: [[Newsletter Wordpress]]
+* Integrar con mercado pago: [[Integración Mercado Pago 1]]
+* Como configurar mails personalizados para notificaciones de compra: [[Notificaciones de compra 1]]
 * 

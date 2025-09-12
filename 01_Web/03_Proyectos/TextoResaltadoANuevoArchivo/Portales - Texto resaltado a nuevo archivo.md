@@ -6,6 +6,7 @@ Creado:
 Dominio:
 Links:
 ---
+tipo:: #web/proyectos 
 
 >[!quote]+ Esquema 
 >![[Portales - Texto resaltado a nuevo archivo]]

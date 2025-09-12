@@ -1,4 +1,4 @@
-
+tipo:: #web/proyectos
 Tags: #geolocalizacion #geojson 
 Links: [gobiernoabierto](https://gobiernoabierto.cordoba.gob.ar/data/datos-abiertos/categoria/geografia-y-mapas/barrios-de-la-ciudad/118) , [comunidadinteligente](https://comunidadinteligente.cordoba.gob.ar/catastro/)
 

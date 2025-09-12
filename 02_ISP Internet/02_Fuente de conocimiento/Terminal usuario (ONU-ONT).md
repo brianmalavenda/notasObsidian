@@ -1,3 +1,4 @@
+tipo:: #internet 
 Tags: 
 Links: [[Red de Fibra FTTH (Presupuesto)]]
 

@@ -1,4 +1,4 @@
-tipo::
+tipo:: #web/proyectos 
 tags::
 fecha:: 2025-08-29
 links::

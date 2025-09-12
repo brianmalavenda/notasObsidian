@@ -1,3 +1,4 @@
+tipo:: #web
 tags:: #blog_desarrolladores #rendimiento
 links:: 
 links_externos::

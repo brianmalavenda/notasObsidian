@@ -1,4 +1,4 @@
-tipo::
+tipo:: #internet
 tags:: #sistema-global-navegacion 
 fecha:: 2025-09-04
 links:: 

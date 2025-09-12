@@ -6,7 +6,78 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "#diario",
+      "color": {
+        "a": 1,
+        "rgb": 6248536
+      }
+    },
+    {
+      "query": "#mpg",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "#mpg/empresas",
+      "color": {
+        "a": 1,
+        "rgb": 10457604
+      }
+    },
+    {
+      "query": "#mpg/proyectos",
+      "color": {
+        "a": 1,
+        "rgb": 15305479
+      }
+    },
+    {
+      "query": "#web",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "#web/blog",
+      "color": {
+        "a": 1,
+        "rgb": 15730062
+      }
+    },
+    {
+      "query": "#web/proyectos",
+      "color": {
+        "a": 1,
+        "rgb": 13447730
+      }
+    },
+    {
+      "query": "#web/desarrollo",
+      "color": {
+        "a": 1,
+        "rgb": 7012352
+      }
+    },
+    {
+      "query": "#internet",
+      "color": {
+        "a": 1,
+        "rgb": 19711
+      }
+    },
+    {
+      "query": "#internet/proyectos",
+      "color": {
+        "a": 1,
+        "rgb": 5924082
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.045212981110536274,
+  "scale": 0.155271496792296,
   "close": true
 }

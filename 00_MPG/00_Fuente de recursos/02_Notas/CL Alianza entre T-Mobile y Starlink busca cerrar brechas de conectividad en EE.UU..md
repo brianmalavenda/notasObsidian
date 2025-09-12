@@ -1,5 +1,5 @@
 
-tipo:: [[Nota]]
+tipo:: #mpg
 tags:: #mpg/starlink #mpg/t-mobile #5g
 fecha:: 2025-09-04
 links:: [[Starlink]] [[T-Mobile]]

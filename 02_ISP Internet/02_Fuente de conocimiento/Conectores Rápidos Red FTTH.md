@@ -1,3 +1,9 @@
+tipo:: #internet
+tags::
+fecha:: 2025-09-12
+links::
+links_externos::
+
 Links: [[Red de Fibra FTTH (Presupuesto)]]
 
 Son los **"accesorios"** que permiten las conexiones rápidas, seguras y precisas.

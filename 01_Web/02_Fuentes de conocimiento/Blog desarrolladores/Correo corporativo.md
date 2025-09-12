@@ -1,3 +1,4 @@
+tipo:: #web
 tags:: #blog_desarrolladores 
 links: [[02_Configuracion]] 
 links_externos::

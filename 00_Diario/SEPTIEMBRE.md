@@ -1,7 +1,7 @@
-tipo::
+tipo:: #mes
 tags::
 fecha:: 2025-09-08
-links:: [[250908]]
+links:: 
 links_externos::
 
 

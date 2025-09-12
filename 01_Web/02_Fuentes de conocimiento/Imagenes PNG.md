@@ -1,3 +1,4 @@
+tipo:: #web
 Tags:  #imagenes
 Links: [www.cleanpng.com](http://www.cleanpng.com/), [www.freepngimg.com](http://www.freepngimg.com/), [www.pngmart.com](http://www.pngmart.com/), [www.stickpng.com](http://www.stickpng.com/), [www.pngkey.com](http://www.pngkey.com/)
 

@@ -1,4 +1,4 @@
-
+tipo:: #web
 tags:: #hosting #hosting_tipos #blog_desarrolladores
 links:: [[Conexión con hosting a través de SSH]] [[Delegar dominio]] [[Registrar dominio]] 
 links_externos::

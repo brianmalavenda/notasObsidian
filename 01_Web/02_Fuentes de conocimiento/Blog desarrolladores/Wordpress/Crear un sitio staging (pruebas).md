@@ -1,7 +1,12 @@
 
+tipo:: #web/wordpress
 tags:: #wordpress/staging #staging #pruebas #blog_desarrolladores
 links:: [[02_Configuracion]]
 links_externos::
+========
+Tags: #wordpress/staging #staging #pruebas #blog_desarrolladores
+Links: [[02_Configuracion]]
+>>>>>>>> 20250903:01_Web/Blog desarrolladores/Wordpress/Wordpress/Crear un sitio staging (pruebas).md
 
 Dentro del sitio Wordpress acceder como administradores desde el hosting o desde el login de la aplicación.
 

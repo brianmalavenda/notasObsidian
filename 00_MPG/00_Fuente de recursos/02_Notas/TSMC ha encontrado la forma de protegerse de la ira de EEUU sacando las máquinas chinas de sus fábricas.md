@@ -1,4 +1,5 @@
 
+tipo:: #mpg
 Tags: #tsmc #eeuu #china #chip #taiwan
 Links: [xataka](https://www.xataka.com/empresas-y-economia/tsmc-ha-encontrado-forma-protegerse-ira-eeuu-sacando-maquinas-chinas-sus-fabricas)
 Resumen: ***La relación entre TSMC, el mayor fabricante de chips del mundo con sede en Taiwán, y el gobierno de Estados Unidos ha sido históricamente compleja, marcada por la dependencia tecnológica de empresas estadounidenses como Apple, NVIDIA y AMD de los avanzados nodos de producción taiwaneses. Recientemente, TSMC ha decidido dejar de utilizar equipos chinos en sus procesos de fabricación más avanzados, como los de AMEC y Mattson Technology, para evitar posibles sanciones o restricciones impuestas por Washington. Esta medida anticipa una propuesta legislativa estadounidense, liderada por el senador Mark Kelly, que prohibiría a empresas con apoyo federal adquirir tecnología de "entidades extranjeras preocupantes". La jugada de TSMC refleja la presión geopolítica y la voluntad de proteger su acceso al mercado crítico de EE.UU., incluso a costa de reconfigurar su cadena de suministro.***

@@ -1,3 +1,8 @@
+tipo:: #internet
+tags::
+fecha:: 2025-09-12
+links::
+links_externos::
 
 # 📡 Internet de las Cosas (IoT)
 

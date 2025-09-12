@@ -1,5 +1,5 @@
 
-tipo::
+tipo:: #mpg
 tags::
 fecha:: 2025-09-02
 links::

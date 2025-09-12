@@ -1,3 +1,8 @@
+tipo:: #mpg/empresas 
+tags::
+fecha:: 2025-09-12
+links::
+links_externos::
 
 Elon Musk, dueño de Tesla, SpaceX y X, se ha posicionado nuevamente como el más rico del mundo, registrando una fortuna neta de 374,000 millones de dólares, de acuerdo con el Índice de Multimillonarios de Bloomberg.  
   

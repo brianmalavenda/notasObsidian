@@ -1,3 +1,9 @@
+tipo:: #internet 
+tags::
+fecha:: 2025-09-12
+links::
+links_externos::
+
 Primer idea de armar una red con antenas. 
 ## EQUIPOS
 

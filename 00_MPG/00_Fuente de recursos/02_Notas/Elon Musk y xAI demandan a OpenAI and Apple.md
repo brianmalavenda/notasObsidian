@@ -1,4 +1,4 @@
-
+tipo:: #mpg
 Tags: #elon_musk #openai #apple
 Links: [elborde](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)
 Resumen: 

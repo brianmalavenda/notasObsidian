@@ -1,5 +1,5 @@
 
-tipo::
+tipo:: #web/proyectos 
 tags::
 fecha:: 2025-08-29
 links::
@@ -30,7 +30,7 @@ Con esta tabla proyectamos el trabajo de una sola persona con distinta carga hor
 
 Un ejemplo, el costo de una persona con una PC y servicio de internet a cargo de la agencia de páginas web junto al alquiler del hosting donde se alojaran las páginas que se produzcan y obviamente, el salario de esa personas que esta trabajando el costo total de producir una página al mes es de $ 600.620, esto sería rentable porque hay un retorno de la inversión de un 33%, es decir, la ganancia es de $199.380. 
 
-[[Costo equipamiento]]
+[[01_Costo equipamiento]]
 
 Pero la carga mensual de esta persona solo se ocupa en un 40%, es decir, tiene aún 96hs donde no produce. Ajusto al máximo tiempo, puede producir 2,5 webs al mes. Eso sería con igual costo, porque no cambia la cantidad de computadoras a utilizar, ni el costo del internet ni el del hosting, por lo tanto, aumenta la ganancia a $ 1.298.740, es decir, un poco más del doble de lo invertido, 216%.
 

@@ -1,7 +1,12 @@
 
+tipo:: #web/wordpress
 tags:: #backups #wordpress #plugins #updraftplus #blog_desarrolladores
 links: [[03_Plugins]]
 links_externos::
+========
+Tags: #backups #wordpress #plugins #updraftplus #blog_desarrolladores
+Links: [[03_Plugins]]
+>>>>>>>> 20250903:01_Web/Blog desarrolladores/Wordpress/Wordpress/Crear backups del sitio.md
 
 Acceder desde el menú a la opción "Plugins" para descargar uno llamado UpdraftPlus.
 

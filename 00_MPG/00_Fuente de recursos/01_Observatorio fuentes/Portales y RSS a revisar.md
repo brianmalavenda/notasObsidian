@@ -1,4 +1,4 @@
-tipo:: 
+tipo:: #mpg
 tags:: #mpg/portales 
 fecha:: 2025-08-29
 links::

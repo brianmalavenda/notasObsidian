@@ -1,4 +1,4 @@
-tipo::
+tipo:: #web/proyectos
 tags::
 fecha:: 2025-09-01
 links::
@@ -15,7 +15,7 @@ Este sitio web a crear es un E-Commerce, por lo tanto lo primero que debíamos h
 * Recibir pagos
 * Controlar estado de compra
 
-Lo primero que hicimos fue contratar un servicio de [[Hostings]], llamado Bluehost, donde desde allí podamos crear el sitio Wordpress y configurar sus características de base. Una vez que creamos el sitio base y elegimos un [[Tema y Plantilla]] para la web, trabajamos con la identidad de la marca. 
+Lo primero que hicimos fue contratar un servicio de [[01_Web/02_Fuentes de conocimiento/Hostings]], llamado Bluehost, donde desde allí podamos crear el sitio Wordpress y configurar sus características de base. Una vez que creamos el sitio base y elegimos un [[Tema y Plantilla]] para la web, trabajamos con la identidad de la marca. 
 
 Para esto creamos un [[Manual de Marca]] con los colores, diseño de logo y tipografía de la empresa.
 

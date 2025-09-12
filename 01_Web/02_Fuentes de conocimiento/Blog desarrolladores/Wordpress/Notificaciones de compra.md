@@ -1,4 +1,4 @@
-
+tipo:: #web/wordpress 
 tags:: #yaycommerce #wordpress/notificaciones #compra_wp #plugins  #woocommerce #blog_desarrolladores
 links:: [[03_Plugins]]
 links_externos:: [yaymail](https://docs.yaycommerce.com/yaymail/getting-started/introduction)

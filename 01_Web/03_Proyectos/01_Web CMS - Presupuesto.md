@@ -1,4 +1,4 @@
-
+tipo:: #web/proyectos 
 Tags:
 Links:
 Links Externos:
@@ -15,7 +15,7 @@ Producir una web nos genera un costo de
 
 ## Hosting
 
-El costo del [[Hostings]] esta calculado según Hostinger que es el servidor por el cual optaríamos para hospedar las páginas de clientes. A los $4.000 de base para un plan premium con 25 sitios, estamos sumando adicional por mes otros $1.000 y duplicando por dos porque proyectamos que en el año deberíamos tener 48 clientes. Esto da por mes durante 4 años, $10.000
+El costo del [[01_Web/02_Fuentes de conocimiento/Hostings]] esta calculado según Hostinger que es el servidor por el cual optaríamos para hospedar las páginas de clientes. A los $4.000 de base para un plan premium con 25 sitios, estamos sumando adicional por mes otros $1.000 y duplicando por dos porque proyectamos que en el año deberíamos tener 48 clientes. Esto da por mes durante 4 años, $10.000
 
 ## Internet
 

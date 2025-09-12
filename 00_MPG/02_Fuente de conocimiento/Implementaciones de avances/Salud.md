@@ -1,5 +1,5 @@
 
-tipo:: 
+tipo:: #mpg
 tags:: #interfez_crerebro-computadora 
 fecha:: 2025-09-01
 links::

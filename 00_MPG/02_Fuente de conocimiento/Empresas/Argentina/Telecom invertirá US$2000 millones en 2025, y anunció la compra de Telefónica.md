@@ -1,4 +1,4 @@
-tipo:: [[Nota]]
+tipo:: #mpg/empresas 
 tags:: #mpg/empresas/argentina 
 fecha:: 2025-09-04
 links:: [[Telecom]]

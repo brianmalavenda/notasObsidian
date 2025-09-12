@@ -1,4 +1,4 @@
-
+tipo:: #web/desarrollo
 Tags: #desarrollo_front #css/transicion/slide #css/transicion/imagen  #css/animacion #css/navegacion 
 Link: [Brutales transiciones entre páginas con CSS (0 JavaScript)](https://www.youtube.com/watch?v=5L4M4-WOGwo)
 

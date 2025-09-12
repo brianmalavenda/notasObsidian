@@ -1,8 +1,12 @@
 
+tipo:: #web/wordpress
 tags:: #wordpress #plugins #wpforms #blog_desarrolladores
 links:: [[03_Plugins]]
 links_externos::
-
+========
+Tags: #wordpress #plugins #wpforms #blog_desarrolladores
+Links: [[03_Plugins]]
+>>>>>>>> 20250903:01_Web/Blog desarrolladores/Wordpress/Wordpress/Crear formularios de contacto.md
 
 Utilizaremos el plugin WPForms que es muy sencillo de utilizar. Para eso hay que acceder desde el menú a la opción "Plugins".
 

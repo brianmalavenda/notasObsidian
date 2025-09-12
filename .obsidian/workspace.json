@@ -11,14 +11,10 @@
             "id": "1b60d2dd4ef8ea03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Web/03_Proyectos/Texto a audio/EJES a audio con IA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EJES a audio con IA"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -54,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "google cloud",
+                "query": "tag:#web/desarrollo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +71,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7a2382655e114211",
@@ -150,7 +145,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01_Web/03_Proyectos/Texto a audio/EJES a audio con IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +172,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de EJES a audio con IA"
+              "title": "Vista gráfica"
             }
           },
           {
@@ -234,35 +228,35 @@
   },
   "active": "1b60d2dd4ef8ea03",
   "lastOpenFiles": [
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube/Google Cloud.md",
+    "02_ISP Internet/03_Proyectos/Red de Fibra FTTH (Presupuesto).md",
+    "02_ISP Internet/03_Proyectos/ISP - Proveedores de internet en Argentina.md",
+    "02_ISP Internet/03_Proyectos/Fundamentos de internet.md",
+    "02_ISP Internet/03_Proyectos/Compartir internet desde un hogar a otro.md",
+    "02_ISP Internet/02_Fuente de conocimiento/WISP - Fundamentos.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Troncales submarinos de internet.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Topologías de Red.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Terminal usuario (ONU-ONT).md",
+    "02_ISP Internet/02_Fuente de conocimiento/Tasa de transmisión.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Splitter óptico pasivo.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Servicios de CDN.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Red de Distribución Óptica (ODN).md",
     "02_ISP Internet/02_Fuente de conocimiento/Red de comunicación LORA - Meshtastic.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Compartir internet desde un hogar a otro.md",
-    "00_Diario/250909.md",
-    "00_Diario/SEPTIEMBRE.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Puntos de intercambio de tráfico IXPs.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Peering.md",
+    "02_ISP Internet/02_Fuente de conocimiento/OLT (Optical Line Terminal).md",
+    "02_ISP Internet/03_Proyectos/Inscripción en LACNIC con ASN propio.md",
+    "02_ISP Internet/03_Proyectos/Inscripción a ENACOM.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Fabricantes de fibra óptica.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Conectores Rápidos Red FTTH.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Conectividad 5G.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Cajas de Empalme y Distribución (NAP-FDT).md",
+    "02_ISP Internet/02_Fuente de conocimiento/Cable de acometida (Drop).md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/QZSS.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/IRNSS.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/Hardware de geolocalizacion.md",
     "diferencias-master-20250903.txt",
-    "Python.md",
-    "Notas sobre utilizacion de JWT o Atuh0.md",
-    "MVP - Minimo Producto Viable.md",
     "Imagenes/Pasted image 20250903115054.png",
     "Imagenes/Pasted image 20250903083223.png",
-    "08_Informes cuatrimestrales/Informes cuatrimestrales.md",
-    "05_IA/Microcerebros - Tendencia de modelos pequeños.md",
-    "03_Seguridad/Vulnerabilidad de cifrado HTTPS.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Temas y plantillas de Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Personalizar menú sitio Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Notificaciones de compra.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Newsletter Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear una plantilla de Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Integración Mercado Pago.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear un sitio staging (pruebas).md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear un tema Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear formularios de contacto.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear entrada desde mail.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear backups del sitio.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Botón de link a WhatsApp.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/03_Plugins.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/02_Configuracion.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/01_Wordpress.md",
     "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress",
     "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube",
     "09_Nube",

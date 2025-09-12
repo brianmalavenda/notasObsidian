@@ -1,4 +1,4 @@
-
+tipo:: #web/wordpress 
 tags:: #blog_desarrolladores #wordpress/mercadopago
 links:: [[03_Plugins]]
 links_externos::

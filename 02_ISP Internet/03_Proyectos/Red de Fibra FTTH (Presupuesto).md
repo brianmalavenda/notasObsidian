@@ -1,7 +1,7 @@
-
-Tags:
-Links: [[Soberanía de telecomunicaciones]]
-Links Externos: [Tecnolibre](https://www.youtube.com/@tecnolibre.net.oficial) - [BWNfiber](https://www.bwnfiber.com/odn/)
+tipo:: #internet/proyectos 
+tags::
+links:: [[Soberanía de telecomunicaciones]]
+links_externos:: [Tecnolibre](https://www.youtube.com/@tecnolibre.net.oficial) - [BWNfiber](https://www.bwnfiber.com/odn/)
 
 La construcción de un ISP es importante en lo que refiere al control de privacidad y anonimidad de uso de internet. A pesar que un ISP local, pyme digamos, es pequeño en relacion a un gran distribuidor que es quien nos proveerá del servicio de internet y una cuota de su ancho de banda, a través de nuestra primer "puerta de enlace" adquiriremos los conocimientos en la practica apuntando al control soberano del internet del país en un gran cortafuegos en los puntos de acceso de internet en las fronteras.
 

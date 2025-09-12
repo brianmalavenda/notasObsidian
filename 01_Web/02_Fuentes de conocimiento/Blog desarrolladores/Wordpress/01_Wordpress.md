@@ -1,5 +1,7 @@
+tipo:: #web/wordpress
 tags::
-links:: [[02_Configuracion]] [[03_Plugins]] 
+fecha:: 2025-09-12
+links::
 links_externos::
 
 

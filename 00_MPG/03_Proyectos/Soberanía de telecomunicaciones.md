@@ -1,3 +1,8 @@
+tipo:: #mpg/proyectos
+tags::
+fecha:: 2025-09-12
+links::
+links_externos::
 # ¿Quien controla el internet y como?
 
 ## Comunicación de datos cliente - servidor

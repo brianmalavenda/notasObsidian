@@ -1,4 +1,4 @@
-
+tipo:: #web/desarrollo
 Tags: #performance #pagespeed #webpagetest #lighthouse #gmetrix #pindomgtools #minificar #cdn #cache
 Links: 
 

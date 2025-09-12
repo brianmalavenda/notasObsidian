@@ -1,11 +1,7 @@
-<<<<<<<< HEAD:01_Web/Blog desarrolladores/Wordpress/Tema y Plantilla.md
+tipo:: #web/wordpress 
 tags:: #blog_desarrolladores #wordpress/temas
 links:: [[02_Configuracion]]
 links_externos::
-========
-Tags: #blog_desarrolladores #wordpress/temas
-Links: [[02_Configuracion]]
->>>>>>>> 20250903:01_Web/Blog desarrolladores/Wordpress/Wordpress/Temas y plantillas de Wordpress.md
 
 Los temas y plantillas dependen del proyecto de sitio web que se busca encarar. No es lo mismo un sitio E-commerce que una landing page o un sitio de cursos online. 
 

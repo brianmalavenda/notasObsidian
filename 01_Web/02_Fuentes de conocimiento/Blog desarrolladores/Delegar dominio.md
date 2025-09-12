@@ -1,4 +1,4 @@
-
+tipo:: #web
 tags:: #dominio/delegar_dominio #dns #blog_desarrolladores
 links:: [[Registrar dominio]]
 links_externos::  [nic.ar](https://nic.ar)

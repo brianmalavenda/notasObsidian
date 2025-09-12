@@ -1,4 +1,4 @@
-
+tipo:: #web/wordpress 
 tags:: #blog_desarrolladores #wordpress/temas
 links:: [[02_Configuracion]]
 links_externos::

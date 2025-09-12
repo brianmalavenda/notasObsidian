@@ -1,3 +1,8 @@
+tipo:: #mpg/empresas 
+tags::
+fecha:: 2025-09-12
+links::
+links_externos::
 ## Ecosistema
 
 https://www.youtube.com/watch?v=DmveMaSY0m4

@@ -1,4 +1,4 @@
-tipo:: [[CSS]] 
+tipo:: #web/desarrollo
 tags:: #desarrollo_front/css 
 fecha:: 2025-08-29
 links::

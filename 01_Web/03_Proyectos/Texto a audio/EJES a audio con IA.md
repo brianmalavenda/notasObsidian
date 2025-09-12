@@ -1,4 +1,4 @@
-tipo::
+tipo:: #web/proyectos
 tags:: #ia #texto-audio 
 fecha:: 2025-09-05
 links:: 
@@ -8,10 +8,12 @@ El audio que actualmente generamos con la herramienta @voice tiene alrededor de 
 
 Un audio de 1 hora contiene entre **120.000 y 150.000 caracteres** (asumiendo una velocidad de habla promedio de 200-250 palabras/minuto y 5-6 caracteres por palabra). Es decir, a 1,5 horas, estamos hablando de entre **180.000 y 225.000 caracteres**. 
 
-Como hacemos audio todos los días, esto en un total mensual tomando como promedio 30 días estaríamos en:
+Una edición del ejes que dura alrededor de 1 hora de audio contiene entre **65.000 y 75.000 caracteres** o 12.000 palabras de promedio (teniendo en cuenta a las ediciones con editoriales de domingo y lunes). Como hacemos audio todos los días, esto en un total mensual tomando como promedio 30 días estaríamos en:
 
-	30 audios × 150.000 caracteres => 4.5 millones de caracteres/mes
-	30 audios × 225.000 caracteres => 6.75 millones de caracteres/mes
+	
+	30 audios × 70.000 caracteres => 2.1 millones de caracteres/mes
+	30 audios × 12.000 palabras => 360.000 mil palabras/mes
+	
 	20 audios x 1hs + 10 audios x 1,5 hs => 35 hs de audio
 
 

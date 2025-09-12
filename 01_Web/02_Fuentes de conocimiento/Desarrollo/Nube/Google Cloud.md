@@ -1,4 +1,4 @@
-tipo::
+tipo:: #web/desarrollo
 tags::
 fecha:: 2025-09-09
 links::

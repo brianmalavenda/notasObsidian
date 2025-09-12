@@ -1,5 +1,5 @@
-tags:: #blog_desarrolladores #wordpress/plantillas
-links:: [[02_Configuracion]]
-links_externos::
+tipo:: #web/wordpress
+Tags: #blog_desarrolladores #wordpress/plantillas
+Links: [[02_Configuracion]]
 
 Como crear una plantilla?

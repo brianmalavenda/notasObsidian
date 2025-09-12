@@ -1,7 +1,8 @@
+tipo:: #web/wordpress 
+tipo:: #web/wordpress
+Tags: #wordpress/newsletter  #plugin 
+Links: [[03_Plugins]]
 
-tags:: #wordpress/newsletter  #plugin 
-links:: [[03_Plugins]]
-links_externos::
 
 ### Suscripcion
 

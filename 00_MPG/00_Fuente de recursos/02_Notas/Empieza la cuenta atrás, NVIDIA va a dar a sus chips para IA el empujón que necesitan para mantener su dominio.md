@@ -1,4 +1,4 @@
-
+tipo:: #mpg
 Tags: #nvidia #chip #inteligencia_artificial
 Links: [xataka](https://www.xataka.com/empresas-y-economia/empieza-cuenta-atras-nvidia-va-a-dar-a-sus-chips-para-ia-empujon-que-necesitan-para-mantener-su-dominio)
 Resumen: ***NVIDIA ha anunciado en la conferencia 'Hot Chips' que integrará **interconexiones fotónicas (tecnología CPO - Co-Packaged Optics) en sus plataformas de inteligencia artificial para 2026, específicamente en sus sistemas Quantum-X InfiniBand y Spectrum-X Ethernet. Esta tecnología permite transformar señales eléctricas en pulsos de luz directamente en el encapsulado del chip, reduciendo el consumo energético de 30 vatios por puerto (en soluciones tradicionales) a solo 9 vatios, minimizando la latencia, mejorando la integridad de los datos y eliminando cuellos de botella en la transferencia de información entre clústeres de GPU. Este avance es crucial para escalar centros de datos de IA, donde miles de GPUs deben comunicarse de manera eficiente, y consolida la fotónica del silicio como un pilar estructural en la próxima generación de hardware para inteligencia artificial.***

@@ -1,3 +1,9 @@
+tipo:: #web
+tags::
+fecha:: 2025-09-12
+links::
+links_externos::
+
 ### Efectos visuales Wordpress
 
 https://www.youtube.com/watch?v=x7f72QKq5UU

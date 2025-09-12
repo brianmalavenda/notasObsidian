@@ -1,3 +1,8 @@
+tipo:: #web
+tags::
+fecha:: 2025-09-12
+links::
+links_externos::
 
 Esto contempla la paleta de colores de un sitio y su logo, es decir, la identidad del sitio lo que lo hace "único". Por eso el logo y los colores deben ser representativos del mensaje que se quiere transmitir. Su propósito es asegurar la coherencia y la consistencia en todas las comunicaciones y materiales, fortaleciendo así la imagen y el reconocimiento de la empresa.
 

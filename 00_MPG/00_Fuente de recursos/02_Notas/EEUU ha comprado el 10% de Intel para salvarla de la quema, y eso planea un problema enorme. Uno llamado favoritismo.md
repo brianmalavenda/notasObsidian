@@ -1,6 +1,7 @@
-
+tipo:: #mpg
 Tags: #intel #semiconductores #eeuu #chip 
 Links: [xataka](https://www.xataka.com/empresas-y-economia/eeuu-ha-comprado-10-intel-para-salvarla-quema-eso-planea-problema-enorme-uno-llamado-favoritismo)
+
 Resumen: ***El Gobierno de Estados Unidos ha acordado invertir 8.900 millones de dólares en Intel a cambio de una participación del 10% en la empresa, sumándose a los 2.200 millones previamente otorgados mediante el CHIPS and Science Act. Este rescate financiero —el primero desde el rescate automovilístico de 2008— refleja la profunda crisis de Intel, que ha perdido liderazgo tecnológico y competitividad frente a rivals como TSMC, Samsung y NVIDIA. Aunque el acuerdo no incluye representación gubernamental en el consejo de administración, supone una pérdida de autonomía para Intel, cuya estrategia estará ahora sujeta a mayor escrutinio político y objetivos geopolíticos de EE.UU., como reducir la dependencia de Taiwán y China en semiconductores. El movimiento también podría distorsionar la competencia, favoreciendo a Intel sobre rivals nacionales (AMD, NVIDIA, Qualcomm) y extranjeros, mientras plantea dudas sobre la sostenibilidad del modelo intervencionista en la industria tecnológica.***
 
     Intel ha acordado venderle al Gobierno de Estados Unidos el 10% de su empresa por un valor de 8.900 millones de dólares. Se confirma así una medida intervencionista que tiene enormes implicaciones no solo para Intel, sino para toda la industria de semiconductores. Sobre todo, la estadounidense.

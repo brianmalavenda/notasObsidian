@@ -1,4 +1,4 @@
-tipo:: #isp-propio
+tipo:: #internet/proyectos
 tags:: 
 fecha:: 2025-09-11
 links:: [[WISP - Fundamentos]] , [[Fundamentos de internet]] , [[Terminal usuario (ONU-ONT)]], [[Red de Fibra FTTH (Presupuesto)]]
