@@ -44,6 +44,9 @@ https://github.com/inferless/melo-tts
 Aca esta el instructivo para instalar y ejecutar la app: https://github.com/myshell-ai/MeloTTS/blob/main/docs/install.md
 
 
+## USABILIDAD GRATUITA
+https://www.youtube.com/watch?v=IT7RVsgpth4
+
 
 ---
 #### Referencias

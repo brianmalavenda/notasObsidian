@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Diario/250909.md",
+                "file": "01_Web/03_Proyectos/Texto a audio/EJES a audio con IA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250909"
+              "title": "EJES a audio con IA"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pyhton entorno virtual",
+                "query": "google cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7a2382655e114211",
@@ -149,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00_Diario/250909.md",
+                "file": "01_Web/03_Proyectos/Texto a audio/EJES a audio con IA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +178,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 250909"
+              "title": "Gráfico de EJES a audio con IA"
             }
           },
           {
@@ -233,9 +234,11 @@
   },
   "active": "1b60d2dd4ef8ea03",
   "lastOpenFiles": [
-    "00_Diario/SEPTIEMBRE.md",
-    "00_Diario/250909.md",
     "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube/Google Cloud.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Red de comunicación LORA - Meshtastic.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Compartir internet desde un hogar a otro.md",
+    "00_Diario/250909.md",
+    "00_Diario/SEPTIEMBRE.md",
     "diferencias-master-20250903.txt",
     "Python.md",
     "Notas sobre utilizacion de JWT o Atuh0.md",
@@ -261,9 +264,7 @@
     "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/02_Configuracion.md",
     "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/01_Wordpress.md",
     "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress",
-    "Error Pyhton instalar bibliotecas de terceros.md",
     "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube",
-    "03_Seguridad/02_Fuente de conocimiento/Criptografia/Nociones de la criptografia.md",
     "09_Nube",
     "06_Infraestructura/01_Recursos/Dispositivos",
     "00_Diario",
