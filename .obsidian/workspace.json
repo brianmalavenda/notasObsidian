@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1663c103c858d52d",
+        "id": "d3df01778cf093e5",
         "type": "tabs",
         "children": [
           {
-            "id": "1b60d2dd4ef8ea03",
+            "id": "11bace985313e72b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "App Sintetizar texto a audio"
+            }
+          },
+          {
+            "id": "3fb084e2172d9b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bridge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bridge"
             }
           }
         ]
@@ -145,6 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +191,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Gráfico de App Sintetizar texto a audio"
             }
           },
           {
@@ -226,54 +245,54 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "1b60d2dd4ef8ea03",
+  "active": "11bace985313e72b",
   "lastOpenFiles": [
-    "02_ISP Internet/03_Proyectos/Red de Fibra FTTH (Presupuesto).md",
-    "02_ISP Internet/03_Proyectos/ISP - Proveedores de internet en Argentina.md",
-    "02_ISP Internet/03_Proyectos/Fundamentos de internet.md",
-    "02_ISP Internet/03_Proyectos/Compartir internet desde un hogar a otro.md",
-    "02_ISP Internet/02_Fuente de conocimiento/WISP - Fundamentos.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Troncales submarinos de internet.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Topologías de Red.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Terminal usuario (ONU-ONT).md",
-    "02_ISP Internet/02_Fuente de conocimiento/Tasa de transmisión.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Splitter óptico pasivo.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Servicios de CDN.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Red de Distribución Óptica (ODN).md",
-    "02_ISP Internet/02_Fuente de conocimiento/Red de comunicación LORA - Meshtastic.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Puntos de intercambio de tráfico IXPs.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Peering.md",
-    "02_ISP Internet/02_Fuente de conocimiento/OLT (Optical Line Terminal).md",
-    "02_ISP Internet/03_Proyectos/Inscripción en LACNIC con ASN propio.md",
-    "02_ISP Internet/03_Proyectos/Inscripción a ENACOM.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Fabricantes de fibra óptica.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Conectores Rápidos Red FTTH.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Conectividad 5G.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Cajas de Empalme y Distribución (NAP-FDT).md",
-    "02_ISP Internet/02_Fuente de conocimiento/Cable de acometida (Drop).md",
-    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/QZSS.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/IRNSS.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/Hardware de geolocalizacion.md",
+    "Bridge.md",
+    "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
+    "00_Diario/250915.md",
+    "00_Diario/SEPTIEMBRE.md",
+    "00_Diario/250912.md",
+    "Imagenes/icono_play_1.png",
+    "Imagenes/Iconos/icono_audio_1 1.png",
+    "Imagenes/error_spell_visual_code.png",
+    "MVP - Minimo Producto Viable.md",
+    "Imagenes/config_speel_visual_code.png",
+    "Error Pyhton instalar bibliotecas de terceros.md",
+    "Imagenes/file_system_1.png",
+    "00_Diario/250911.md",
+    "Python.md",
+    "01_Web/02_Fuentes de conocimiento/Herramientas/Repositorio de íconos.md",
+    "Visual Code.md",
+    "01_Web/02_Fuentes de conocimiento/Herramientas",
+    "01_Web/03_Proyectos/Texto a audio/Convertir audio-video a texto y texto a audio.md",
+    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo/Portales - Texto resaltado a nuevo archivo.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.1_Descripción de proyecto.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.2_Arquitectura.md",
+    "01_Web/03_Proyectos/Famosos50/Primer Web con CMS.md",
+    "01_Web/03_Proyectos/Famosos50/Portal de compras (Los famosos 50).md",
+    "01_Web/03_Proyectos/EjesDelMundo/Plataforma de trabajo EJES del mundo en la patria.md",
+    "01_Web/03_Proyectos/EjesDelMundo/Feed RSS portales.md",
+    "01_Web/03_Proyectos/EjesDelMundo/1.0 PASO 1.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.5_Herramientas desarrollo.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.4_Estructura de directorios.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.3_Entidad-relacion.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.2_Stack.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.0_Tareas de funcionamiento.md",
+    "Imagenes/Iconos/icono_archivo.png",
+    "Imagenes/Iconos/icono_audio_1.png",
+    "Imagenes/Iconos/icono_usuario_1.png",
+    "Imagenes/Iconos",
+    "Imagenes/Iconos/icono_telegram_1.png",
+    "Imagenes/Iconos/icono_descargar_1.png",
+    "Notas sobre utilizacion de JWT o Atuh0.md",
     "diferencias-master-20250903.txt",
-    "Imagenes/Pasted image 20250903115054.png",
-    "Imagenes/Pasted image 20250903083223.png",
     "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress",
     "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube",
     "09_Nube",
     "06_Infraestructura/01_Recursos/Dispositivos",
     "00_Diario",
     "03_Seguridad/02_Fuente de conocimiento/Criptografia",
-    "Imagenes/Pasted Image 20250908124155_180.png",
-    "Imagenes/Pasted Image 20250908124013_669.png",
-    "Imagenes/Pasted image 20250906022612.png",
-    "01_Web/03_Proyectos/TextoResaltadoANuevoArchivo",
-    "01_Web/03_Proyectos/Texto a audio",
-    "Imagenes/Pasted image 20250904235149.png",
-    "06_Infraestructura/03_Proyectos",
-    "Imagenes/Pasted image 20250904190233.png",
-    "Imagenes/Pasted image 20250904190143.png",
-    "Imagenes/Pasted image 20250904173938.png",
-    "Imagenes/Pasted image 20250904114351.png",
+    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",
