@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "625a3fdec35bdc96",
+        "id": "53579e7fcf9fca01",
         "type": "tabs",
         "children": [
           {
-            "id": "314726022c362121",
+            "id": "f5bd762255a13967",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "8bcf21943ca13fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "App Sintetizar texto a audio"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#web/desarrollo",
+                "query": "servidor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,6 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Gráfico de App Sintetizar texto a audio"
             }
           },
           {
@@ -226,20 +246,31 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "314726022c362121",
+  "active": "8bcf21943ca13fb2",
   "lastOpenFiles": [
-    "00_Diario/SEPTIEMBRE.md",
-    "Bridge.md",
-    "00_Diario/250915.md",
+    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo/Portales - Texto resaltado a nuevo archivo.md",
+    "01_Web/03_Proyectos/Texto a audio/Convertir audio-video a texto y texto a audio.md",
+    "01_Web/03_Proyectos/Texto a audio/Herramientas de sintetizacion texto a audio.md",
+    "Mi servidor.md",
+    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Docker.md",
     "00_Diario/250917.md",
     "00_Diario/250916.md",
+    "00_Diario/250915.md",
     "00_Diario/250912.md",
     "00_Diario/250911.md",
-    "00_Diario/250910.md",
     "00_Diario/250909.md",
+    "00_Diario/250904.md",
+    "Sin título.base",
+    "02_ISP Internet/03_Proyectos/Red de Fibra FTTH (Presupuesto).md",
+    "02_ISP Internet/03_Proyectos/Compartir internet desde un hogar a otro.md",
+    "02_ISP Internet/02_Fuente de conocimiento/WISP - Fundamentos.md",
+    "03_Seguridad/02_Fuente de conocimiento/Hacking/Phishing.md",
+    "Notas sobre utilizacion de JWT o Atuh0.md",
+    "00_Diario/SEPTIEMBRE.md",
+    "Bridge.md",
+    "00_Diario/250910.md",
     "00_Diario/250908.md",
     "00_Diario/250905.md",
-    "00_Diario/250904.md",
     "11_Formacion/Semana 3.md",
     "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
     "11_Formacion",
@@ -250,17 +281,7 @@
     "Imagenes/config_speel_visual_code.png",
     "Error Pyhton instalar bibliotecas de terceros.md",
     "Imagenes/file_system_1.png",
-    "Python.md",
-    "01_Web/02_Fuentes de conocimiento/Herramientas/Repositorio de íconos.md",
-    "Visual Code.md",
     "01_Web/02_Fuentes de conocimiento/Herramientas",
-    "01_Web/03_Proyectos/Texto a audio/Convertir audio-video a texto y texto a audio.md",
-    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo/Portales - Texto resaltado a nuevo archivo.md",
-    "01_Web/03_Proyectos/EjesDelMundo/0.1_Descripción de proyecto.md",
-    "01_Web/03_Proyectos/EjesDelMundo/0.2_Arquitectura.md",
-    "01_Web/03_Proyectos/Famosos50/Primer Web con CMS.md",
-    "01_Web/03_Proyectos/Famosos50/Portal de compras (Los famosos 50).md",
-    "01_Web/03_Proyectos/EjesDelMundo/Plataforma de trabajo EJES del mundo en la patria.md",
     "Imagenes/Iconos/icono_archivo.png",
     "Imagenes/Iconos/icono_audio_1.png",
     "Imagenes/Iconos/icono_usuario_1.png",
@@ -273,7 +294,6 @@
     "09_Nube",
     "06_Infraestructura/01_Recursos/Dispositivos",
     "00_Diario",
-    "03_Seguridad/02_Fuente de conocimiento/Criptografia",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",

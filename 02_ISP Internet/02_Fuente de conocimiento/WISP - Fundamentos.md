@@ -17,6 +17,9 @@ Los equipos de 5Ghz no admiten obstáculos, necesitas una vista libre para alcan
 
 4: Antena Litebeam M5 2dBs – 60 US$ en 2020 (recibir el servicio con el cliente)
 
+COLOCACION DE TORRE DE ANTENA
+https://www.youtube.com/watch?v=ssX7QonuQb4
+
 5: Router TP-Link – 25 US$ en 2020 (cliente)
 
 A 2020: 260 US$

@@ -23,3 +23,8 @@ Ejecuta el indexador:
 
 `docker-compose exec app python -m service.management.indexer -m index -n all -v
 
+## Redes y volúmenes
+
+https://www.youtube.com/watch?v=DIDel70dFlI
+
+

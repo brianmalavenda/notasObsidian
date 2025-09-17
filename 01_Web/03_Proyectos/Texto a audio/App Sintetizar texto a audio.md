@@ -168,6 +168,15 @@ front/
 └── .env   
 
 
+### Crear frontend
+
+Instalar el CLI de nextjs. Para eso primero ejecutamos 
+```
+	npx create-next-app@lates [nombre-carpeta] --yes
+```
+
+Con el --yes le indicamos la configuracion por default que es Tailwind CSS, React, Slint, ReactRoute y Typescript.
+
 ---
 ### Referencias
 
