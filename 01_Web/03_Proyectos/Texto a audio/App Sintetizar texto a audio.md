@@ -177,6 +177,20 @@ Instalar el CLI de nextjs. Para eso primero ejecutamos
 
 Con el --yes le indicamos la configuracion por default que es Tailwind CSS, React, Slint, ReactRoute y Typescript.
 
+
+![[Pasted image 20250918171034.png]]
+
+## Google Cloud - API
+
+Para pdoer desarrollar un servicio de api-proxy necesitamos poder conectar este servicio con Google Cloud. Una manera de hacerlo es directamente con la cuenta de usuario a través de Google CLI, pero esto require intervencion del usuario. Para entornos productivos esto no sería lo recomentable, además que el usuario tiene acceso administrador, es decir, esa aplicación tiene una relación de control total con todas las otras aplicaciones por fuera de ella porque se relacion directamente con la cuenta que administra todo el servicio de Cloud.
+
+Para eso se crearon formas de compartimentar los permisos y que sea automática la autenticacion a través de procesos. Una de esas formas es con la biblioteca diretamente de google cloud, es decir, el SDK.
+
+La otra, por donde nos vamos a orientar, es crear una Cuenta de Servicio. Esta cuenta de servicio relaciona nuestro usuario administrador con una APP puntual y además le podemos otorgar permisos especiales. Con esto despues generamos una key en formato JSON que quedará en el servidor de la APP donde la voy a utilizar. Esto puede encriptarse usando algun servicio como Docker Secret, AWS Secret o Azure Secret si vamos a automatizar el despliegue.
+
+https://www.youtube.com/watch?v=2PnpHnnSLtU
+
+
 ---
 ### Referencias
 

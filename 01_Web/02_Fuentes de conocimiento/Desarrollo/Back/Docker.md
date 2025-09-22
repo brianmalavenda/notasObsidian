@@ -28,3 +28,14 @@ Ejecuta el indexador:
 https://www.youtube.com/watch?v=DIDel70dFlI
 
 
+# Daemon de docker esta inactivo
+
+```
+	systemctl start docker 
+	systemctl status docker
+```
+
+si eso no funciona probar con esto que fue más efectivo
+```
+	sudo service docker restart
+```

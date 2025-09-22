@@ -6,6 +6,11 @@ links:: [[Salesforce]]
 links_externos::
 
 
+# # Chrome está a punto de recibir su mayor actualización y Gemini será su protagonista. El objetivo es ser el navegador IA definitivo
+9/09/2025
+
+"Tras una investigación preliminar, se ha determinado que NVIDIA Corporation ha violado la Ley Antimonopolio de la República Popular China", afirma un comunicado de la Administración Estatal de Regulación del Mercado, el principal organismo de control del mercado de Pekín.
+
 ### Hackeo de servidores
 
  Google experimentó una violación de datos de Gmail en junio, pero el ataque se limitó al servidor corporativo Salesforce de la compañía. El hacker pudo acceder a información disponible públicamente, como nombres comerciales y datos de contacto, pero ninguna información privada se vio comprometida.

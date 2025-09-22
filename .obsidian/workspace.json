@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9a6fd245e68cb19d",
+        "id": "0f7e461ef4bcf3f0",
         "type": "tabs",
         "children": [
           {
-            "id": "f038c5b90523299c",
+            "id": "af3ae894c351d9cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11_Formacion/Semana 3.md",
+                "file": "Conflicto paquetes pyhton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semana 3"
+              "title": "Conflicto paquetes pyhton"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "servidor",
+                "query": "entorno virtual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11_Formacion/Semana 3.md",
+                "file": "Conflicto paquetes pyhton.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Semana 3"
+              "title": "Gráfico de Conflicto paquetes pyhton"
             }
           },
           {
@@ -231,54 +231,54 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "f038c5b90523299c",
+  "active": "af3ae894c351d9cd",
   "lastOpenFiles": [
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Docker.md",
+    "Error Pyhton instalar bibliotecas de terceros.md",
+    "Conflicto paquetes pyhton.md",
     "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
-    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo/Portales - Texto resaltado a nuevo archivo.md",
-    "01_Web/03_Proyectos/Texto a audio/Convertir audio-video a texto y texto a audio.md",
     "01_Web/03_Proyectos/Texto a audio/Herramientas de sintetizacion texto a audio.md",
+    "01_Web/03_Proyectos/Texto a audio/Convertir audio-video a texto y texto a audio.md",
+    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo/Portales - Texto resaltado a nuevo archivo.md",
     "Mi servidor.md",
-    "00_Diario/250917.md",
-    "00_Diario/250916.md",
-    "00_Diario/250915.md",
-    "00_Diario/250912.md",
-    "00_Diario/250911.md",
-    "00_Diario/250909.md",
-    "00_Diario/250904.md",
-    "Sin título.base",
-    "02_ISP Internet/03_Proyectos/Red de Fibra FTTH (Presupuesto).md",
-    "02_ISP Internet/03_Proyectos/Compartir internet desde un hogar a otro.md",
-    "02_ISP Internet/02_Fuente de conocimiento/WISP - Fundamentos.md",
-    "03_Seguridad/02_Fuente de conocimiento/Hacking/Phishing.md",
+    "06_Infraestructura/Semiconductores.md",
+    "06_Infraestructura/Microchips.md",
+    "06_Infraestructura/Iniciar Windows 11 sin cuenta Microsoft.md",
+    "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
+    "06_Infraestructura/Construir un servidor propio - HARDWARE.md",
+    "00_Diario/250922.md",
+    "1.jpg",
+    "2.jpg",
+    "06_Infraestructura/03_Proyectos/Tecnico_02-ssb-exosmart-r.md",
+    "Boludeces.md",
     "Notas sobre utilizacion de JWT o Atuh0.md",
-    "00_Diario/SEPTIEMBRE.md",
-    "Bridge.md",
-    "00_Diario/250910.md",
-    "00_Diario/250908.md",
-    "00_Diario/250905.md",
-    "11_Formacion/Semana 3.md",
+    "Python.md",
+    "Sin título.base",
+    "Nota.md",
+    "06_Infraestructura/03_Proyectos/0011-jmd-enova-4gb-117gb.md",
+    "03_Seguridad/02_Fuente de conocimiento/Hacking/Manipulacion de agentes de IA.md",
+    "12-Blockchain/01_Recursos/Notas.md",
+    "12-Blockchain/01_Recursos/Bibliografía.md",
+    "03_Seguridad/02_Fuente de conocimiento/Hacking/Fuerza bruta.md",
+    "12-Blockchain/Sin título.md",
+    "12-Blockchain/03_Proyectos",
+    "12-Blockchain/02_Fuente de conocimiento",
+    "12-Blockchain/01_Recursos",
+    "12-Blockchain",
+    "MVP - Minimo Producto Viable.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/Intel.md",
+    "Pasted image 20250918171050.png",
+    "11-Internet de las cosas",
+    "10-Biocomputacion",
+    "Pasted image 20250918171034.png",
+    "Pasted image 20250918084057.png",
     "11_Formacion",
     "Imagenes/icono_play_1.png",
     "Imagenes/Iconos/icono_audio_1 1.png",
     "Imagenes/error_spell_visual_code.png",
-    "MVP - Minimo Producto Viable.md",
     "Imagenes/config_speel_visual_code.png",
-    "Error Pyhton instalar bibliotecas de terceros.md",
     "Imagenes/file_system_1.png",
     "01_Web/02_Fuentes de conocimiento/Herramientas",
-    "Imagenes/Iconos/icono_archivo.png",
-    "Imagenes/Iconos/icono_audio_1.png",
-    "Imagenes/Iconos/icono_usuario_1.png",
     "Imagenes/Iconos",
-    "Imagenes/Iconos/icono_telegram_1.png",
-    "Imagenes/Iconos/icono_descargar_1.png",
-    "diferencias-master-20250903.txt",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube",
-    "09_Nube",
-    "06_Infraestructura/01_Recursos/Dispositivos",
-    "00_Diario",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",
