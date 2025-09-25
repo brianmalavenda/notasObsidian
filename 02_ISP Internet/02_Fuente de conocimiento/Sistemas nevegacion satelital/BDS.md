@@ -27,8 +27,9 @@ Los mensajes BDS están restringidos a texto y coordenadas GPS (no soportan voz 
  El dispositivo debe proteger las claves de cifrado (si existen).
  El sistema operativo (HarmonyOS) debe estar libre de vulnerabilidades o backdoors.
 
-
  Busca artículos sobre "BDS security authentication" o "BeiDou encryption" en plataformas como IEEE Xplore. El search result [](https://gnss-imu.com/news/html/486.html) discute mecanismos genéricos de anti-spoofing en GNSS, aplicables parcialmente a BDS.
+
+Es posible hackear el archivo de navegación y comunicación satelital BDS con un virus por software?
  
 ---
 #### Referencias

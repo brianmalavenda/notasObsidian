@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "e0c26e8b1c0aa0a8",
+    "id": "8371207fc97a35dd",
     "type": "split",
     "children": [
       {
-        "id": "1663c103c858d52d",
+        "id": "589cd46113bf3a49",
         "type": "tabs",
         "children": [
           {
-            "id": "1b60d2dd4ef8ea03",
+            "id": "27ef4a5bb39196e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Diario/250909.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "250909"
+              "title": "New tab"
             }
           }
         ]
@@ -27,16 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "307ea60480a351bc",
+    "id": "4116fc163b8024b6",
     "type": "split",
     "children": [
       {
-        "id": "a485ca9e84127bd4",
+        "id": "2b39e5f494192359",
         "type": "tabs",
-        "dimension": 68.43687374749499,
         "children": [
           {
-            "id": "3ee6e429ad7a2ce6",
+            "id": "8946bb766837fd31",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,16 +40,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "581c2d9968ea6c12",
+            "id": "4a3043121dceeece",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "pyhton entorno virtual",
+                "query": "entorno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,62 +57,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "12d17395f095fb56",
+            "id": "b35dbff87c23007b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7a2382655e114211",
-        "type": "tabs",
-        "dimension": 31.563126252505008,
-        "children": [
-          {
-            "id": "b8d35a7dcfcb1db4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 391.5110321044922
+    "width": 300
   },
   "right": {
-    "id": "b534313314c51bed",
+    "id": "f0d4362a31e8cd3e",
     "type": "split",
     "children": [
       {
-        "id": "e46ad63dcd025039",
+        "id": "f26b1ff8b7d4c2e1",
         "type": "tabs",
-        "dimension": 65.48076923076923,
         "children": [
           {
-            "id": "ebefcbb6c6a8e5cb",
+            "id": "a6b226574ce9c08c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,83 +100,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Backlinks for Cambiar DNS de la PC"
             }
           },
           {
-            "id": "ff5544ee536d25e3",
+            "id": "74e6c227afa12fd5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Outgoing links from Cambiar DNS de la PC"
             }
           },
           {
-            "id": "fd24dbc68910c73e",
+            "id": "5d0c727f6637f587",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "tag",
               "state": {
-                "file": "00_Diario/250909.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3242333202184635,
-                  "close": true
-                }
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de 250909"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "66b75e180a44884c",
+            "id": "4b5399c844449f81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Outline of Cambiar DNS de la PC"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "87129195f30f80ad",
-        "type": "tabs",
-        "dimension": 34.51923076923077,
-        "children": [
+          },
           {
-            "id": "e5a4e3c445a66756",
+            "id": "3eca9848a5293fad",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -212,76 +157,75 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b60d2dd4ef8ea03",
+  "active": "8946bb766837fd31",
   "lastOpenFiles": [
-    "00_Diario/SEPTIEMBRE.md",
-    "00_Diario/250909.md",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube/Google Cloud.md",
-    "diferencias-master-20250903.txt",
-    "Python.md",
-    "Notas sobre utilizacion de JWT o Atuh0.md",
-    "MVP - Minimo Producto Viable.md",
-    "Imagenes/Pasted image 20250903115054.png",
-    "Imagenes/Pasted image 20250903083223.png",
-    "08_Informes cuatrimestrales/Informes cuatrimestrales.md",
-    "05_IA/Microcerebros - Tendencia de modelos pequeños.md",
-    "03_Seguridad/Vulnerabilidad de cifrado HTTPS.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Temas y plantillas de Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Personalizar menú sitio Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Notificaciones de compra.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Newsletter Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear una plantilla de Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Integración Mercado Pago.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear un sitio staging (pruebas).md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear un tema Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear formularios de contacto.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear entrada desde mail.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Crear backups del sitio.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/Botón de link a WhatsApp.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/03_Plugins.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/02_Configuracion.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress/01_Wordpress.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/Wordpress",
     "Error Pyhton instalar bibliotecas de terceros.md",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Nube",
-    "03_Seguridad/02_Fuente de conocimiento/Criptografia/Nociones de la criptografia.md",
-    "09_Nube",
-    "06_Infraestructura/01_Recursos/Dispositivos",
-    "00_Diario",
-    "03_Seguridad/02_Fuente de conocimiento/Criptografia",
-    "Imagenes/Pasted Image 20250908124155_180.png",
-    "Imagenes/Pasted Image 20250908124013_669.png",
+    "Python.md",
+    "01_Web/03_Proyectos/Texto a audio/EJES a audio con IA.md",
+    "01_Web/03_Proyectos/Convertir audio-video a texto y texto a audio.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.2_Stack.md",
+    "01_Web/02_Fuentes de conocimiento/Arquitectura/Web Server.md",
+    "01_Web/02_Fuentes de conocimiento/Arquitectura/Modelo OSI.md",
+    "00_Diario/250910.md",
+    "01_Web/02_Fuentes de conocimiento/Arquitectura",
+    "00_Diario/250904.md",
+    "06_Infraestructura/01_Recursos/Dispositivos/Huawei Mate X6.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/BDS.md",
+    "00_Diario/250908.md",
+    "00_Diario/250909.md",
+    "Plantillas/Nota formato base esquema visual.md",
+    "Plantillas/Nota formato base.md",
+    "Repos.md",
+    "Plantillas 1/Nota formato base.md",
+    "Plantillas 1/Nota formato base esquema visual.md",
+    "Plantillas 1",
+    "05_IA/02_Fuente de conocimientos/Deepseek.md",
+    "05_IA/02_Fuente de conocimientos/Qwen.md",
+    "05_IA/02_Fuente de conocimientos/Z.ai - Cloud code.md",
+    "05_IA/02_Fuente de conocimientos/KIMI K2.md",
+    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/CGNSS - Sistemas globales de navegación por satélite.md",
+    "03_Seguridad/02_Fuente de conocimiento/Anonimato/Navegadores orientados a privacidad.md",
+    "05_IA/02_Fuente de conocimientos",
+    "05_IA/01_Recursos/Prompt ingenieering.md",
+    "05_IA/01_Recursos/IA historial de conversación.md",
+    "05_IA/01_Recursos",
+    "04_DataWerehouse/03_Proyectos",
+    "04_DataWerehouse/02_Fuente de conocimientos",
+    "03_Seguridad/03_Proyectos/Blog seguridad",
+    "03_Seguridad/03_Proyectos/Anonimato",
+    "03_Seguridad/03_Proyectos",
+    "03_Seguridad/01_Recursos",
     "Imagenes/Pasted image 20250906022612.png",
-    "01_Web/03_Proyectos/TextoResaltadoANuevoArchivo",
-    "01_Web/03_Proyectos/Texto a audio",
     "Imagenes/Pasted image 20250904235149.png",
-    "06_Infraestructura/03_Proyectos",
     "Imagenes/Pasted image 20250904190233.png",
     "Imagenes/Pasted image 20250904190143.png",
     "Imagenes/Pasted image 20250904173938.png",
     "Imagenes/Pasted image 20250904114351.png",
+    "Imagenes/Pasted image 20250904113904.png",
+    "Imagenes/Pasted Image 20250908124155_180.png",
+    "Imagenes/Pasted Image 20250908124013_669.png",
+    "Imagenes/Pasted image 20250903115054.png",
     "Imagenes/01_.canvas",
-    "Imagenes/Sin título.canvas",
-    "Imagenes/Sin título 1.canvas",
-    "Imagenes/registrar_dominio_buscar_2.canvas"
+    "Imagenes/Sin título.canvas"
   ]
 }
