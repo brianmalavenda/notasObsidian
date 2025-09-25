@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "589cd46113bf3a49",
+        "id": "84d041c2aa730201",
         "type": "tabs",
         "children": [
           {
-            "id": "27ef4a5bb39196e2",
+            "id": "04814d0fff2f544f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "01_Web/Imagenes PNG.md",
-                "bFile": "01_Web/Imagenes PNG.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Imagenes PNG"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entorno",
+                "query": "Herramientas de ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,6 +180,18 @@
   },
   "active": "3eca9848a5293fad",
   "lastOpenFiles": [
+    "01_Web/03_Proyectos/Texto a audio/Herramientas de sintetizacion texto a audio.md",
+    "01_Web/03_Proyectos/Guardar producción ideológica y herramientas.md",
+    "01_Web/03_Proyectos/Buscador con IA de producciones propias.md",
+    "00_Diario/250904.md",
+    "00_Diario/250909.md",
+    "00_Diario/250910.md",
+    "05_IA/02_Fuente de conocimientos/Z.ai - Cloud code.md",
+    "05_IA/02_Fuente de conocimientos/Qwen.md",
+    "05_IA/02_Fuente de conocimientos/KIMI K2.md",
+    "01_Web/02_Fuentes de conocimiento/Arquitectura/Web Server.md",
+    "01_Web/02_Fuentes de conocimiento/Arquitectura/Modelo OSI.md",
+    "01_Web/02_Fuentes de conocimiento/Arquitectura",
     "01_Web/02_Fuentes de conocimiento/Manual de marca/Diseño web.md",
     "01_Web/02_Fuentes de conocimiento/Imagenes PNG.md",
     "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Registrar dominio.md",
@@ -214,21 +223,9 @@
     "13 Prod Ideológica/250702 mundo.md",
     "13 Prod Ideológica/Producción ideológica.md",
     "13 Prod Ideológica",
-    "12-Blockchain/01_Recursos/Notas.md",
-    "12-Blockchain/01_Recursos/Bibliografía.md",
     "12-Blockchain/01_Recursos",
     "12-Blockchain",
-    "10-Biocomputacion/Primer estándar de interfaz cerebro-computadora.md",
     "10-Biocomputacion",
-    "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
-    "05_IA/02_Fuente de conocimientos/Wan2.2-Animate.md",
-    "05_IA/02_Fuente de conocimientos/Vidu Q1.md",
-    "05_IA/01_Recursos/Modelos LLM.md",
-    "03_Seguridad/02_Fuente de conocimiento/Hacking/Manipulacion de agentes de IA.md",
-    "03_Seguridad/02_Fuente de conocimiento/Hacking/Fuerza bruta.md",
-    "02_ISP Internet/03_Proyectos/Inscripción en LACNIC con ASN propio.md",
-    "02_ISP Internet/03_Proyectos/Inscripción a ENACOM.md",
-    "01_Web/02_Fuentes de conocimiento/Herramientas",
     "Imagenes/01_.canvas",
     "Imagenes/Sin título.canvas"
   ]
