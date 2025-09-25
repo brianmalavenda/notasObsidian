@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conflicto paquetes pyhton.md",
+                "file": "Nota.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conflicto paquetes pyhton"
+              "title": "Nota"
+            }
+          },
+          {
+            "id": "6b98329753d13ec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tecnico_03-so-lenovo-r"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5110321044922
+    "width": 200
   },
   "right": {
     "id": "b534313314c51bed",
@@ -149,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Conflicto paquetes pyhton.md",
+                "file": "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +192,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Conflicto paquetes pyhton"
+              "title": "Gráfico de Tecnico_03-so-lenovo-r"
             }
           },
           {
@@ -231,13 +246,18 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "af3ae894c351d9cd",
+  "active": "6b98329753d13ec7",
   "lastOpenFiles": [
+    "Pasted image 20250925092451.png",
+    "Pasted image 20250924075711.png",
     "Error Pyhton instalar bibliotecas de terceros.md",
-    "Conflicto paquetes pyhton.md",
-    "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
-    "01_Web/03_Proyectos/Texto a audio/Herramientas de sintetizacion texto a audio.md",
+    "Revisión de red local.md",
+    "Nota.md",
     "01_Web/03_Proyectos/Texto a audio/Convertir audio-video a texto y texto a audio.md",
+    "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
+    "05_IA/01_Recursos/Modelos LLM.md",
+    "Conflicto paquetes pyhton.md",
+    "01_Web/03_Proyectos/Texto a audio/Herramientas de sintetizacion texto a audio.md",
     "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo/Portales - Texto resaltado a nuevo archivo.md",
     "Mi servidor.md",
     "06_Infraestructura/Semiconductores.md",
@@ -253,19 +273,15 @@
     "Notas sobre utilizacion de JWT o Atuh0.md",
     "Python.md",
     "Sin título.base",
-    "Nota.md",
     "06_Infraestructura/03_Proyectos/0011-jmd-enova-4gb-117gb.md",
     "03_Seguridad/02_Fuente de conocimiento/Hacking/Manipulacion de agentes de IA.md",
     "12-Blockchain/01_Recursos/Notas.md",
     "12-Blockchain/01_Recursos/Bibliografía.md",
     "03_Seguridad/02_Fuente de conocimiento/Hacking/Fuerza bruta.md",
-    "12-Blockchain/Sin título.md",
     "12-Blockchain/03_Proyectos",
     "12-Blockchain/02_Fuente de conocimiento",
     "12-Blockchain/01_Recursos",
     "12-Blockchain",
-    "MVP - Minimo Producto Viable.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/Intel.md",
     "Pasted image 20250918171050.png",
     "11-Internet de las cosas",
     "10-Biocomputacion",
@@ -276,7 +292,6 @@
     "Imagenes/Iconos/icono_audio_1 1.png",
     "Imagenes/error_spell_visual_code.png",
     "Imagenes/config_speel_visual_code.png",
-    "Imagenes/file_system_1.png",
     "01_Web/02_Fuentes de conocimiento/Herramientas",
     "Imagenes/Iconos",
     "Imagenes/01_.canvas",

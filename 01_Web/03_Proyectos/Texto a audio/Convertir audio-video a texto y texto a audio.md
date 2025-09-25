@@ -4,7 +4,7 @@ excalidraw-plugin: parsed
 excalidraw-open-md: true
 Creado: 2025-09-12
 Dominio:
-Links:
+Links: https://www.pavlinbg.com/posts/python-speech-to-text-guide
 ---
 tipo:: #web/proyectos 
 
