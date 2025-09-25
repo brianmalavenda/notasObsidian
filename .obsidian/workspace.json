@@ -1,57 +1,41 @@
 {
   "main": {
-    "id": "e0c26e8b1c0aa0a8",
+    "id": "8371207fc97a35dd",
     "type": "split",
     "children": [
       {
-        "id": "0f7e461ef4bcf3f0",
+        "id": "589cd46113bf3a49",
         "type": "tabs",
         "children": [
           {
-            "id": "af3ae894c351d9cd",
+            "id": "27ef4a5bb39196e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Nota.md",
-                "mode": "source",
-                "source": false
+                "aFile": "01_Web/Imagenes PNG.md",
+                "bFile": "01_Web/Imagenes PNG.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Nota"
-            }
-          },
-          {
-            "id": "6b98329753d13ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tecnico_03-so-lenovo-r"
+              "icon": "diff",
+              "title": "Diff: Imagenes PNG"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "307ea60480a351bc",
+    "id": "4116fc163b8024b6",
     "type": "split",
     "children": [
       {
-        "id": "a485ca9e84127bd4",
+        "id": "2b39e5f494192359",
         "type": "tabs",
-        "dimension": 68.43687374749499,
         "children": [
           {
-            "id": "3ee6e429ad7a2ce6",
+            "id": "8946bb766837fd31",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,16 +44,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "581c2d9968ea6c12",
+            "id": "4a3043121dceeece",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "entorno virtual",
+                "query": "entorno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,62 +61,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "12d17395f095fb56",
+            "id": "b35dbff87c23007b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7a2382655e114211",
-        "type": "tabs",
-        "dimension": 31.563126252505008,
-        "children": [
-          {
-            "id": "b8d35a7dcfcb1db4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "b534313314c51bed",
+    "id": "f0d4362a31e8cd3e",
     "type": "split",
     "children": [
       {
-        "id": "e46ad63dcd025039",
+        "id": "f26b1ff8b7d4c2e1",
         "type": "tabs",
-        "dimension": 65.48076923076923,
         "children": [
           {
-            "id": "ebefcbb6c6a8e5cb",
+            "id": "a6b226574ce9c08c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,83 +104,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Backlinks for Cambiar DNS de la PC"
             }
           },
           {
-            "id": "ff5544ee536d25e3",
+            "id": "74e6c227afa12fd5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Outgoing links from Cambiar DNS de la PC"
             }
           },
           {
-            "id": "fd24dbc68910c73e",
+            "id": "5d0c727f6637f587",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "tag",
               "state": {
-                "file": "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3242333202184635,
-                  "close": true
-                }
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de Tecnico_03-so-lenovo-r"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "66b75e180a44884c",
+            "id": "4b5399c844449f81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Outline of Cambiar DNS de la PC"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "87129195f30f80ad",
-        "type": "tabs",
-        "dimension": 34.51923076923077,
-        "children": [
+          },
           {
-            "id": "e5a4e3c445a66756",
+            "id": "3eca9848a5293fad",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -227,76 +161,75 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b98329753d13ec7",
+  "active": "3eca9848a5293fad",
   "lastOpenFiles": [
+    "01_Web/02_Fuentes de conocimiento/Manual de marca/Diseño web.md",
+    "01_Web/02_Fuentes de conocimiento/Imagenes PNG.md",
+    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Registrar dominio.md",
+    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/PageSpeed.md",
+    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Hostings.md",
+    "02_ISP Internet/01_Recursos/Portales tecnología - propuesta completa.md",
+    "02_ISP Internet/01_Recursos",
+    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo/Portales - Texto resaltado a nuevo archivo.md",
+    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo",
+    "01_Web/01_Recursos/FeedRSS.md",
+    "01_Web/01_Recursos",
+    "Visual Code.md",
+    "Sin título.base",
+    "Revisión de red local.md",
     "Pasted image 20250925092451.png",
     "Pasted image 20250924075711.png",
-    "Error Pyhton instalar bibliotecas de terceros.md",
-    "Revisión de red local.md",
-    "Nota.md",
-    "01_Web/03_Proyectos/Texto a audio/Convertir audio-video a texto y texto a audio.md",
-    "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
-    "05_IA/01_Recursos/Modelos LLM.md",
-    "Conflicto paquetes pyhton.md",
-    "01_Web/03_Proyectos/Texto a audio/Herramientas de sintetizacion texto a audio.md",
-    "01_Web/03_Proyectos/Texto a audio/TextoResaltadoANuevoArchivo/Portales - Texto resaltado a nuevo archivo.md",
-    "Mi servidor.md",
-    "06_Infraestructura/Semiconductores.md",
-    "06_Infraestructura/Microchips.md",
-    "06_Infraestructura/Iniciar Windows 11 sin cuenta Microsoft.md",
-    "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
-    "06_Infraestructura/Construir un servidor propio - HARDWARE.md",
-    "00_Diario/250922.md",
-    "1.jpg",
-    "2.jpg",
-    "06_Infraestructura/03_Proyectos/Tecnico_02-ssb-exosmart-r.md",
-    "Boludeces.md",
-    "Notas sobre utilizacion de JWT o Atuh0.md",
-    "Python.md",
-    "Sin título.base",
-    "06_Infraestructura/03_Proyectos/0011-jmd-enova-4gb-117gb.md",
-    "03_Seguridad/02_Fuente de conocimiento/Hacking/Manipulacion de agentes de IA.md",
-    "12-Blockchain/01_Recursos/Notas.md",
-    "12-Blockchain/01_Recursos/Bibliografía.md",
-    "03_Seguridad/02_Fuente de conocimiento/Hacking/Fuerza bruta.md",
-    "12-Blockchain/03_Proyectos",
-    "12-Blockchain/02_Fuente de conocimiento",
-    "12-Blockchain/01_Recursos",
-    "12-Blockchain",
     "Pasted image 20250918171050.png",
-    "11-Internet de las cosas",
-    "10-Biocomputacion",
     "Pasted image 20250918171034.png",
     "Pasted image 20250918084057.png",
-    "11_Formacion",
+    "Mi servidor.md",
     "Imagenes/icono_play_1.png",
-    "Imagenes/Iconos/icono_audio_1 1.png",
+    "Imagenes/file_system_1.png",
     "Imagenes/error_spell_visual_code.png",
     "Imagenes/config_speel_visual_code.png",
-    "01_Web/02_Fuentes de conocimiento/Herramientas",
+    "Imagenes/Iconos/icono_usuario_1.png",
     "Imagenes/Iconos",
+    "Conflicto paquetes pyhton.md",
+    "Bridge.md",
+    "13 Prod Ideológica/250702 mundo.md",
+    "13 Prod Ideológica/Producción ideológica.md",
+    "13 Prod Ideológica",
+    "12-Blockchain/01_Recursos/Notas.md",
+    "12-Blockchain/01_Recursos/Bibliografía.md",
+    "12-Blockchain/01_Recursos",
+    "12-Blockchain",
+    "10-Biocomputacion/Primer estándar de interfaz cerebro-computadora.md",
+    "10-Biocomputacion",
+    "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
+    "05_IA/02_Fuente de conocimientos/Wan2.2-Animate.md",
+    "05_IA/02_Fuente de conocimientos/Vidu Q1.md",
+    "05_IA/01_Recursos/Modelos LLM.md",
+    "03_Seguridad/02_Fuente de conocimiento/Hacking/Manipulacion de agentes de IA.md",
+    "03_Seguridad/02_Fuente de conocimiento/Hacking/Fuerza bruta.md",
+    "02_ISP Internet/03_Proyectos/Inscripción en LACNIC con ASN propio.md",
+    "02_ISP Internet/03_Proyectos/Inscripción a ENACOM.md",
+    "01_Web/02_Fuentes de conocimiento/Herramientas",
     "Imagenes/01_.canvas",
-    "Imagenes/Sin título.canvas",
-    "Imagenes/Sin título 1.canvas",
-    "Imagenes/registrar_dominio_buscar_2.canvas"
+    "Imagenes/Sin título.canvas"
   ]
 }
