@@ -12,7 +12,7 @@ Hicimos una aplicación para la Distribuidora donde llegamos hasta presentar el 
 Arrancamos con una estimación de que una web en [[01_Wordpress]] nos llevaría:
 * 1hs - Relevamiento con empresa cliente
 * 56hs - Desarrollo de la Web
-* 8hs - Desplegar el [[MVP - Minimo Producto Viable]] para que quede funcional para el cliente y pruebas
+* 8hs - Desplegar el [[01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Apps/MVP - Minimo Producto Viable]] para que quede funcional para el cliente y pruebas
 * 16hs - Retoques de la devolución del cliente
 * 8hs - Puesta en producción, [[01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Cloudflare]] [[Registrar dominio]] [[Delegar dominio]]
 
@@ -24,7 +24,7 @@ Como arrancábamos de cero con la idea del precio final del producto y costos pa
 
 Con esta idea hicimos nuestro presupuesto de costo y de proyección de ganancias con un precio de mercado algo menor a este
 
-![[Pasted image 20250901140524.png]]
+![[relacion_produccion_ganancia.png]]
 
 Con esta tabla proyectamos el trabajo de una sola persona con distinta carga horaria mensual dedicada a la producción de sitios webs CMS. Acá presuponemos el acuerdo comercial con X clientes como un factor seguro (no es así en la realidad)
 
@@ -45,7 +45,7 @@ Con esta experiencia pudimos definir que el tiempo de trabajo para producir un s
 
 * 1hs - Relevamiento con empresa cliente
 * 36hs - Desarrollo de la Web
-* 4hs - Desplegar el [[MVP - Minimo Producto Viable]] para que quede funcional para el cliente y pruebas
+* 4hs - Desplegar el [[01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Apps/MVP - Minimo Producto Viable]] para que quede funcional para el cliente y pruebas
 * 16hs - Retoques de la devolución del cliente y afinar temas de visualizacion en distintos dispositivos. Resolver algun problema de funcionalidad o configuración.
 * 8hs - Puesta en producción, [[01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Cloudflare]] [[Registrar dominio]] [[Delegar dominio]]
 

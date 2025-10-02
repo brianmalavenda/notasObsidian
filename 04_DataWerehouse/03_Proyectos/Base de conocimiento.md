@@ -11,14 +11,14 @@ Links:
 
 ## ETAPA DE CAPTURA - Mis Recursos
 
-![[Pasted image 20250904113904.png]]
+![[red_conocimiento_01.png]]
 
 La primera parte indica que vamos a tener una fuente externa de conocimiento, en este caso lo puntualizamos con el ejemplo de NOTAS que extraemos del seguimiento cotidiano de la coyuntura de la rama, pero esto puede ser también una reunión, conversación, un video que hayamos visto de algún tema en particular o una investigación activa nuestra donde direccionamos la búsqueda.
 En esta etapa de **CAPTURA** de información tiene la etapa de info "cruda" a la que llamamos subetapa de "RECURSOS EXTERNOS SIN PROCESAR" que cuando ya apliquemos una acción de orden a ese recurso para organizarlo en nuestro mapa mental digital, ese recurso parasará a convertirse en un  "RECURSO CATEGORIZADO" o "ORGANIZADO" en las distintas secciones de nuestra arquitectura de conocimiento
 
 ## ETAPA DE CONOCIMIENTO
 
-![[Pasted image 20250904114351.png]]
+![[Imagenes/red_conocimiento.png]]
 
 En este momento, nuestros recursos ya estan organizados por "tema" o en nuestro caso, subrama de conocimiento y queremos comenzar a procesarlos en función de como tenemos organizada toda la información de esa rama. Para eso haremos la relacion con las demas a través de links que cree una relacion entre los nodos de conocimiento. Ademas de los links vamos a usar tags para organizar las notas y tambien poder visualizarlas en el gráfico de "notas" para ver la interrelación.
 ## ETAPA DE PROYECTOS

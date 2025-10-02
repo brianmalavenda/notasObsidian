@@ -57,7 +57,7 @@ Análisis de mercado y presupuesto de un sitio web creado con WordPress, una her
 
 Comprobamos en la práctica que esta web en el mercado a $ 870.000 podemos hacerla por $370.000 de costo haciendo dos en 16 días hábiles. Haciendo solo una al mes, el costo es mayor por los gastos fijos de servidor, internet, amortización de pc. Tomamos entonces el precio de nuestro producto en $ 800.000 y calculamos:
 
-![[Pasted image 20250901140524.png]]
+![[relacion_produccion_ganancia.png]]
 ### Sitio Web orientado a uso interno empresa
 
 Estas páginas no son estándar ni hay herramientas de creación de web de alto nivel donde no requiera codificar. Estas webs personalizadas se alojan en hosting donde se paga por uso y no un alquiler de recursos fijo como webs basadas en tecnología CMS, por lo tanto tuvimos que crear una app de prueba para estimar costos de estos tipos de servidores. Esta app fue una de las de hoja de ruta de proyectos que se armó según el funcionamiento cotidiano de la labor política.
@@ -69,7 +69,7 @@ En este caso fue la App de Registro de Lectura.
 
 Comenzamos con el diseño de arquitectura del portal del ejes. Acá integraremos el uso de un portal de noticias del ejes con una herramienta que nos permita conectarnos, trabajar la seleccion de notas, escritura y editorializacion así como tambien la exportacion de un archivo pdf, word y audio. Esto tendras etapas, las cuales llamaremos 'iteraciones' donde comenzaremos por la primera iteracion que será la de seleccion de notas a través de la integracion de noticias de los portales de insumo con las novedades y la posibilidad de seleccionar y copiar el contenido de manera automática. Aún estamos ajustando cosas de diseño de arquitectura para poder pasar al desarrollo de la primera iteración. Debajo pondremos hasta ahora un diagrama de diseño y funcionamiento de la plataforma EJES.
 
-![[Pasted image 20250903115054.png]]
+![[portal_ejes_del_mundo_en_la_patria.png]]
 ## 4- Seguridad
 
 **2do AÑO - 2027**
@@ -132,7 +132,7 @@ La producción de información durante el recorrido de estos 4 meses en cuanto a
 Esto estuvo bien pero igualmente la vinculación entre las notas queda en una base de datos que necesariamente debe estar expuesta en internet. Como una estructuración que quizas no es la más comoda para no repetir informacion y no solo vincular una nota con otra sinó hacer referencia a citas, parráfos entre notas, embeber el contenido de una a otra. Este nivel de relacion de informacion lo pudimos implementar con Obsidian. Con esta herramienta, el entrelazamiento de datos y la estructuracion de los mismo es más facil y configurable. Esto lo tomamos como un primer momento de armar un DataLake (lago de datos) que iremos viendo de estructurar cada vez más para que se transforme en un DataWhereHouse que por tamaño aun no llega a tener dimensiones para llamarlo así y tampoco la metadata es tan estructurada para el fin previsto porque lo estamos elaborando en la marcha.
 
 
-![[Pasted image 20250903083223.png]]
+![[red_conocimiento_grafico.png]]
 ***Esta imagen es una representación gráfica donde cada punto es una nota, cada punto de color son notas de un tipo determinado y cada línea y red neuronal que se arma es la interrelación de unas con otras.***
 
 

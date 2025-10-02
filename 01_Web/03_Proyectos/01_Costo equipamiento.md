@@ -7,11 +7,11 @@ links_externos::
 
 Hosting
 
-![[Pasted image 20250901154138.png]]
+![[costo_proyeccion_hosting.png]]
 
 Computadora
 
-![[Pasted image 20250901154209.png]]
+![[costos_equipo_pc.png]]
 
 ---
 #### Referencias

@@ -10,4 +10,4 @@ Le sigue el CEO de Oracle, Larry Ellison, quien cuenta con una fortuna neta de 2
   
 Estados Unidos es el país con mayor cantidad de millonarios dentro de esta clasificación, ocupando 8 de los 10 lugares.
 
-![[Pasted image 20250901205451.png]]
+![[ricachones_de_la_tecnología.png]]

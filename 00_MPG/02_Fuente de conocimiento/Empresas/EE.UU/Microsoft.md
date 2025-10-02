@@ -8,6 +8,13 @@ links_externos::
 https://www.youtube.com/watch?v=DmveMaSY0m4
 
 
+# Data center en Wisconsin con NVIDIA
+22/09/2025
+[[Nvidia]]
+
+Hoy Microsoft anunció sus planes de traer un centro de datos de IA de Fairwater, que según afirma es el “El más poderoso del mundo,” en línea a principios de 2026. El Construcción de 3.300 millones de dólares en Wisconsin se encuentra en el sitio de Fábrica de LCD fallida de Foxconn’ que se anunció en 2017, pero a finales de 2018 ya se llamaba “boondoggle.”
+
+El nuevo centro de datos tiene una superficie enorme de 1,2 millones de pies cuadrados distribuidos en tres edificios en 315 acres de terreno. Bajo esos techos hay “cientos de miles” de GPU GB200 de Nvidia, “conectadas por suficiente fibra para dar la vuelta a la Tierra 4,5 veces”, según Satya Nadella. Microsoft afirma que este grupo de GPU interconectadas es diez veces más potente que la supercomputadora más rápida y acelerará enormemente sus esfuerzos de entrenamiento en IA. La compañía dice que se están construyendo muchos otros centros de datos Fairwater en todo Estados Unidos.
 # Microsoft te sugiere qué hacer con tu PC con Windows 10 si no puedes actualizar a Windows 11: tirarlo a la basura (pero reciclando)
 18/09/2025
 

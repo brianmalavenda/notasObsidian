@@ -178,7 +178,7 @@ Instalar el CLI de nextjs. Para eso primero ejecutamos
 Con el --yes le indicamos la configuracion por default que es Tailwind CSS, React, Slint, ReactRoute y Typescript.
 
 
-![[Pasted image 20250918171034.png]]
+![[portal_diarios_audio_02.png]]
 
 ## Google Cloud - API
 
@@ -189,6 +189,24 @@ Para eso se crearon formas de compartimentar los permisos y que sea automática 
 La otra, por donde nos vamos a orientar, es crear una Cuenta de Servicio. Esta cuenta de servicio relaciona nuestro usuario administrador con una APP puntual y además le podemos otorgar permisos especiales. Con esto despues generamos una key en formato JSON que quedará en el servidor de la APP donde la voy a utilizar. Esto puede encriptarse usando algun servicio como Docker Secret, AWS Secret o Azure Secret si vamos a automatizar el despliegue.
 
 https://www.youtube.com/watch?v=2PnpHnnSLtU
+
+Hay dos APIs que Google expone:
+
+Audios cortos:
+
+Audios largos:
+
+
+Hicimos una prueba para audio largo y nos generó en 1 minuto un audio de una hora en formato wav. Esto aún es con una sola voz sintetizando directamente desde un archivo de texto. Hay que ver que nos dió error en la respuesta de la API pero nos generó un audio correctamente en el bucket listo para escuchar y descargar
+
+Tenía un peso de 190 MB, es más de 10 veces el peso que necesitamos para poder enviarlo por WhatsApps. Por eso tenemos que convertirlo a ogg, que con eso llegamos a tener un audio del 10% del tamaño del original. Y luego, hicimos ele ejercicio de "comprimirlo". La compresión tarda mucho tiempo, por lo menos desde la página  https://products.aspose.app/audio/compress/ogg pero con esto logramos un tamaño de archivo de 11,4 MB.
+
+
+#### Trabajar con colas de trabajo o apis "desatendidas"
+
+![[portal_diarios_audio_03.png]]
+
+El audio se genera correctamente pero la api tarda 21 segundos hasta que procesa el audio y lo guarda en la carpeta local. Esto hay que reemplazarlo.
 
 
 ---
