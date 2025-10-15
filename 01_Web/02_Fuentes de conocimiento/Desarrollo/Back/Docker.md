@@ -95,3 +95,39 @@ si eso no funciona probar con esto que fue más efectivo
 ```
 	sudo service docker restart
 ```
+
+## Debug
+
+Ver uso de recursos
+``` bash
+	docker stats
+```
+
+Ver procesos dentro del contenedor
+``` bash
+	docker top backend-container
+```
+
+Inspeccionar contenedor
+``` bash
+	docker inspect backend-container
+```
+
+Ejecutar comando dentro del contenedor
+``` bash
+	docker exec -it backend-container bash
+```
+
+**En producción**
+
+``` yml (docker-compose.yml)
+	services:
+	  backend:
+	    image: backend
+	    container_name: backend-container
+	    logging:
+	      driver: "json-file"
+	      options:
+	        max-size: "10m"
+	        max-file: "3"
+```

@@ -5,6 +5,24 @@ links::
 links_externos::
 
 
+# NVIDIA y OpenAI acaban de realizar una jugada maestra. Una que les fortalece a ellos y debilita a todos los demás
+23/09/2025
+[Xataka](https://www.xataka.com/robotica-e-ia/nvidia-va-a-invertir-100-000-millones-dolares-openai-realidad-no-se-va-a-gastar-solo-euro)
+
+OpenAI ha firmado un "acuerdo estratégico" con NVIDIA. Según dicho acuerdo, NVIDIA "pretende invertir hasta 100.000 millones de dólares" en OpenAI de forma gradual, pero lo cierto es que esa inversión es engañosa. Sobre todo porque OpenAI va a gastar esos 100.000 millones de dólares en comprarle GPUs a NVIDIA. Todo queda en casa. ^acuerdo-openia-nvidia
+
+Qué ha pasado. Estas dos empresas han iniciado los trámites para completar un acuerdo con un objetivo claro: crear y desplegar centros de datos de IA con una capacidad conjunta de cómputo gigantesca: 10 GW.  Los planes de crear infraestructura con capacidad de 10 GW son también astronómicos. Según algunas estimaciones, esos 10 gigavatios equivalen a la producción de unos 10 reactores nucleares, que normalmente suministran una capacidad de 1 GW por planta.
+
+ Los planes de crear infraestructura con capacidad de 10 GW son también astronómicos. Según algunas estimaciones, esos 10 gigavatios equivalen a la producción de unos 10 reactores nucleares, que normalmente suministran una capacidad de 1 GW por planta.
+
+La inversión se realizará de forma gradual y se irá completando "a medida que cada gigavatio" de capacidad de cómputo se instala en esos centros de datos. NVIDIA se convertirá así en un "socio de cómputo y conectividad estratégico" para los planes de desarrollo de nuevos centros de datos, afirman los responsables de OpenAI.
+
+Según declaraciones de Jensen Huang, CEO de NVIDIA, eso representa entre cuatro y cinco millones de GPUs. O lo que es lo mismo: es la cantidad de unidades de sus GPUs de IA que esperan distribuir este año, y "el doble de las que distribuimos el año pasado".
+
+Esto nos suena a burbuja. Hay varios analistas que hablan de cómo esto recuerda una vez más a la burbuja de las puntocom, donde las empresas se prestaban dinero para comprar productos de la otra. Eso plantea suspicacias y preguntas sobre la sostenibilidad a largo plazo de estos acuerdos. 
+
+El anuncio provocó reacciones inmediatas en la valoración de NVIDIA, cuyas acciones subieron casi un 4%. La capitalización bursátil de la empresa de Jensen Huan creció en 170.000 millones de dólares en esa sesión y roza ya los 4,5 billones de dólares, y logra distanciarse aún más de Microsoft, Apple o Google, que ya superan los tres billones. 
+
 # RoboSense Partners with NVIDIA to Accelerate Autonomous Driving
 13/09/2025
 ==RoboSense (HKEX: 2498.HK), un proveedor líder de soluciones LiDAR, anunció dos hitos importantes esta semana: avanzar en su impulso de comercialización y fortalecer los lazos con el gigante estadounidense de chips NVIDIA.==

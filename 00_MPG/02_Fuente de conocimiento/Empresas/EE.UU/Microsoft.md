@@ -7,6 +7,15 @@ links_externos::
 
 https://www.youtube.com/watch?v=DmveMaSY0m4
 
+# Microsoft está obsesionada con que solo puedas usar Windows 11 con una cuenta online. La razón es evidente: servicios
+09/10/2025
+[Xataka](https://www.xataka.com/aplicaciones/microsoft-esta-obsesionada-que-solo-puedas-usar-windows-11-cuenta-online-razon-evidente-servicios)
+
+Los responsables de Microsoft explicaban que están eliminando métodos (trucos) conocidos para instalar Windows 11 con cuenta local para que así la experiencia de usuario no se vea perjudicada: 
+
+> "Estamos eliminando los mecanismos conocidos para crear una cuenta local en la experiencia de configuración de Windows (OOBE). Aunque estos mecanismos se utilizaban a menudo para omitir la configuración de la cuenta de Microsoft, también omitían inadvertidamente pantallas de configuración críticas, lo que podía provocar que los usuarios salieran de OOBE con un dispositivo que no estaba completamente configurado para su uso. Los usuarios deberán completar OOBE con Internet y una cuenta de Microsoft para asegurarse de que el dispositivo esté configurado correctamente".
+
+La razón de esa obsesión con las cuentas online es clara: al instalar Windows 11 con una cuenta online, automáticamente se asocia esa cuenta a los servicios en la nube de Microsoft. La empresa intenta "venderte" suscripciones a OneDrive, Microsoft 365 o Xbox, porque los servicios son cada vez parte más fundamental del modelo de negocio de Microsoft. Por supuesto la otra razón está la de poder [asociar los datos que recolectan](https://www.xataka.com/basics/como-configurar-windows-proteja-al-maximo-tu-privacidad) —por ejemplo, con telemetría— a una cuenta específica de usuario.
 
 # Data center en Wisconsin con NVIDIA
 22/09/2025

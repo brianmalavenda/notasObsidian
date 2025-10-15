@@ -4,37 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "2afed24dff0f0cc5",
+        "id": "194dc5ff5e242027",
         "type": "tabs",
         "children": [
           {
-            "id": "6669c0685987096e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagenes/06_Infraestructura/sb_notebook_lenovo_ramsoldada_1.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "sb_notebook_lenovo_ramsoldada_1"
-            }
-          },
-          {
-            "id": "9f8c0c1dab1f1b5d",
+            "id": "2c96b9eb5782b290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Seguridad/02_Fuente de conocimiento/Red/Revisión de red local.md",
+                "file": "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/0_Proyecto Stargate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisión de red local"
+              "title": "0_Proyecto Stargate"
+            }
+          },
+          {
+            "id": "b4560a378dd049c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_MPG/02_Fuente de conocimiento/Empresas/Inglaterra/ARM Holdings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARM Holdings"
+            }
+          },
+          {
+            "id": "0f5384cac2503563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Infraestructura/03_Proyectos/SelfServer/OpenMediaVault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenMediaVault"
+            }
+          },
+          {
+            "id": "715e87c126f7e33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_MPG/03_Proyectos/Stargate Argentina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stargate Argentina"
+            }
+          },
+          {
+            "id": "a9d2081556e10bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/OpenAI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenAI"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "SMR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03_Seguridad/02_Fuente de conocimiento/Red/Revisión de red local.md",
+                "file": "06_Infraestructura/03_Proyectos/SelfServer/OpenMediaVault.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de Revisión de red local"
+              "title": "Gráfico de OpenMediaVault"
             }
           },
           {
@@ -244,17 +288,43 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "3ee6e429ad7a2ce6",
+  "active": "0f5384cac2503563",
   "lastOpenFiles": [
-    "Boludeces.md",
-    "Bridge.md",
-    "Nota.md",
-    "Repos.md",
-    "03_Seguridad/02_Fuente de conocimiento/Red/Revisión de red local.md",
-    "06_Infraestructura/03_Proyectos/SelfServer/Mi servidor.md",
+    "00_MPG/03_Proyectos/Stargate Argentina.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/OpenMediaVault.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/OpenAI.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Inglaterra/ARM Holdings.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/0_Proyecto Stargate.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Japón",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Inglaterra",
+    "00_MPG/02_Fuente de conocimiento/Empresas/China/00_General.md",
+    "13_Energía nuclear/Reactores SMR.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.1_Descripción de proyecto.md",
+    "13_Energía nuclear/Transición energética.md",
+    "13_Energía nuclear/Generar calor con una granja de Raspberry Pi.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/Asociación de Internet y Televisión (NCTA).md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/AMD.md",
+    "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/China/Alibaba.md",
+    "03_Seguridad/02_Fuente de conocimiento/Forense/AmCache.md",
+    "03_Seguridad/02_Fuente de conocimiento/Hacking/Secuestro  de DLL.md",
+    "03_Seguridad/02_Fuente de conocimiento/Forense",
+    "00_MPG/02_Fuente de conocimiento/Empresas/China/Tencent.md",
+    "05_IA/02_Fuente de conocimientos/Deepseek.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/China/Huawei.md",
+    "06_Infraestructura/02_Fuente de conocimiento/Semiconductores/TPU.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/China/TSMC.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/Qualcomm.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Holanda",
+    "13_Energía nuclear",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Telecom invertirá US$2000 millones en 2025, y anunció la compra de Telefónica.md",
+    "06_Infraestructura/02_Fuente de conocimiento/Semiconductores/0_Nuevos tipos de microprocesadores.md",
+    "06_Infraestructura/02_Fuente de conocimiento/Semiconductores/Maia.md",
+    "06_Infraestructura/02_Fuente de conocimiento/Semiconductores/Inferentia.md",
+    "Imagenes/06_Infraestructura/sb_notebook_lenovo_ramsoldada_1.jpg",
+    "06_Infraestructura/02_Fuente de conocimiento/Semiconductores",
     "06_Infraestructura/03_Proyectos/SelfServer",
     "06_Infraestructura/infraestructura_boot_so.png",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Conflicto paquetes pyhton.md",
     "Imagenes/red_conocimiento.png",
     "Imagenes/Pasted image 20250829133412.png",
     "Imagenes/08_Informes cuatrimestrales/estudio_mercado_editoriales.png",
@@ -264,35 +334,9 @@
     "Imagenes/01_Web/Proyecto/portal_ejes_del_mundo_en_la_patria",
     "Imagenes/01_Web/Proyecto/ejes_lectura_control_app/ejes_lectura_control_app_02.png",
     "Imagenes/01_Web/Proyecto/ejes_lectura_control_app/error_railway_actualizacion_paquetes.png",
-    "Imagenes/08_Informes cuatrimestrales/red_conocimiento_grafico.png",
     "Imagenes/01_Web/Proyecto/ejes_lectura_control_app",
     "Imagenes/01_.canvas",
     "Imagenes/01_Web/Proyecto/geolocalizacion",
-    "Imagenes/01_Web/Desarrollo",
-    "Imagenes/01_Web/Proyecto/portal_diario_a_audio",
-    "Imagenes/01_Web/Proyecto/famosos50",
-    "Imagenes/01_Web/Wordpress",
-    "Imagenes/01_Web/Proyecto",
-    "Imagenes/11_Internet de las cosas",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Apps/MVP - Minimo Producto Viable.md",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Notas sobre utilizacion de JWT o Atuh0.md",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Error Pyhton instalar bibliotecas de terceros.md",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Visual Code.md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/PC de trabajo a punto.md",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Python.md",
-    "00_Diario/250929.md",
-    "00_Diario/250930.md",
-    "00_Diario/250918.md",
-    "00_Diario/250917.md",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Docker.md",
-    "01_Web/03_Proyectos/Texto a audio/App Sintetizar texto a audio.md",
-    "06_Infraestructura/02_Fuente de conocimiento/WSL (virtualización Linux).md",
-    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Wordpress/03_Plugins.md",
-    "13 Prod Ideológica/250702 mundo.md",
-    "03_Seguridad/01_Recursos/Herramientas de Hacking.md",
-    "01_Web/03_Proyectos/Texto a audio/Convertir audio-video a texto y texto a audio.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/Microsoft.md",
-    "06_Infraestructura/03_Proyectos/Tecnico_03-so-lenovo-r.md",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",
     "Imagenes/registrar_dominio_buscar_2.canvas"

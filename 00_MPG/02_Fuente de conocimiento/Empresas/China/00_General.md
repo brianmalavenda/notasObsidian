@@ -4,6 +4,9 @@ fecha:: 2025-09-19
 links::
 links_externos::
 
+La industria de inteligencia artificial (IA) de China superó los 900 mil millones de RMB (124 mil millones de dólares) en 2024, lo que marca un aumento interanual del 24%, según nuevos datos de la Academia China de Tecnología de la Información y las Comunicaciones (CAICT). En septiembre de 2025, China alberga más de 5300 empresas de inteligencia artificial —alrededor del 15 % del total mundial— que forman una cadena industrial completa que abarca infraestructura, marcos de modelos y aplicaciones.
+
+CAICT dijo que la capa de infraestructura de IA generó 309.900 millones de RMB en ingresos el año pasado, un aumento del 54% interanual, mientras que la capa de marco del modelo creció un 18% a 31.500 millones de RMB, y la capa de aplicación aumentó un 13% a 566.500 millones de RMB, impulsada por teléfonos inteligentes, computadoras y vehículos conectados impulsados por IA. El instituto también dio a conocer las “10 principales palabras clave de IA para 2025”, incluidos supermodelos básicos, agentes autónomos, inteligencia incorporada, modelos mundiales y ecosistemas de código abierto. [Informes de TechNode]
 
 Según MIT Technology Review, las empresas inteligentes deberían tener dos características: investigación y desarrollo inteligentes y uso de nuevas tecnologías, comprensión inteligente de los mercados y oportunidades de negocio. Abren el camino con la innovación tecnológica, combinada con modelos de negocio sostenibles, para extender el impacto de la tecnología al mundo. Desde su creación en 2010 “selección 50 Smart Companies”, MIT Technology Review ha recurrido constantemente a empresas innovadoras con alcance global.
 A juzgar por la proporción de campos en los que se ubican este año “50 empresas inteligentes”, los cuatro campos principales son: IA y computación, robótica y fabricación inteligente, chips y ciencias biológicas,

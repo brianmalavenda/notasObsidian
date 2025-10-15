@@ -208,6 +208,11 @@ Tenía un peso de 190 MB, es más de 10 veces el peso que necesitamos para poder
 
 El audio se genera correctamente pero la api tarda 21 segundos hasta que procesa el audio y lo guarda en la carpeta local. Esto hay que reemplazarlo.
 
+## Control de Acceso
+
+Agregar login, token de authenticacion  y además validacion de rol de usuario y permisos,
+
+
 
 ---
 ### Referencias
