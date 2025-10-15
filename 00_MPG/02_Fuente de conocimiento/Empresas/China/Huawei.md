@@ -5,6 +5,18 @@ links::
 links_externos::
 
 
+# Huawei Zurich Lab
+
+
+# La nueva tecnología de código abierto de Huawei Zurich Lab permite que los LLM funcionen en GPU de consumo
+[Technode](https://technode.com/2025/10/06/huawei-zurich-labs-new-open-source-tech-lets-llms-run-on-consumer-gpus/)
+6/10/2025
+
+El Laboratorio de Sistemas Informáticos de Zúrich de Huawei ha lanzado SINQ (Sinkhorn Normalization Quantization), un método de cuantificación de código abierto que reduce los requisitos de memoria de los grandes modelos de lenguaje (LLM) hasta en un 70%. Este avance permite que cargas de trabajo que antes necesitaban GPU empresariales como la A100 o la H100 de Nvidia se ejecuten de manera eficiente en tarjetas de consumo como la RTX 4090, lo que reduce los costos de hardware y computación en la nube.
+
+El proyecto con licencia Apache 2.0– ahora está disponible en GitHub y Hugging Face para uso y comercialización gratuitos. Huawei afirma que SINQ logra una precisión cercana a los enfoques calibrados con datos y al mismo tiempo supera a otros métodos sin calibración como RTN y HQQ tanto en velocidad como en precisión. [Informes de TechNode]
+
+
 # Cómo Huawei planea superar a los líderes tecnológicos mundiales con chips menos potentes
 
 18/09/2025

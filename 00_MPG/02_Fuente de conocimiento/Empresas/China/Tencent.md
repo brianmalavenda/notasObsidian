@@ -4,6 +4,13 @@ fecha:: 2025-09-02
 links::
 links_externos::
 
+
+
+# Tencent Open-Sources HunyuanImage 3.0, un modelo de generación de imágenes multimodal de 80B
+[Technode](https://technode.com/2025/09/28/tencent-open-sources-hunyuanimage-3-0-an-80b-multimodal-image-generation-model/)
+
+Tencent ha lanzado y publicado en código abierto HunyuanImage 3.0, un modelo nativo de generación de imágenes multimodales de 80 mil millones de parámetros. La compañía dice que es el primer modelo industrial abierto de este tipo, con un rendimiento comparable al de los modelos líderes que no son de código abierto. El modelo puede aprovechar el conocimiento para razonar, analizar instrucciones que superen los 1000 caracteres y representar cadenas de texto largas en imágenes generadas. Sigue a HunyuanImage 2.0, presentado en mayo, que ofrecía respuesta a nivel de milisegundos, calidad fotorrealista y salida de escritura a imagen en tiempo real. 
+
 ## Traducción automática
 
 El Hunyuan-MT-7B de Tencent quedó primero en 30 de las 31 pruebas del concurso general de traducción automática, celebrado en el marco de la Décima Conferencia sobre Traducción Automática, también conocida como WMT25, según los resultados preliminares publicados por el organizador del evento. WMT25 sirve como plataforma para que investigadores y desarrolladores muestren sus avances en la traducción asistida por computadora.

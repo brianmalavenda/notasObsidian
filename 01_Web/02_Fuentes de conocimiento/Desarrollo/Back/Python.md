@@ -7,6 +7,8 @@
 #### Relacion Nextjs con Python para traducir texto en local
 https://www.youtube.com/watch?v=snqgWx5tOzY
 
+CRUD Pyhton con DJango
+https://www.youtube.com/watch?v=2yvbLC9Fxkk
 
 
 https://ellibrodepython.com/estructuras-control-python

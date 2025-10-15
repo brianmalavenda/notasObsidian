@@ -10,9 +10,9 @@ Para evitar eso, vamos a configurar otro. Como mencionamos en el documento de es
 
 Cada vez que vamos a entrar a una página, tenemos que ir primero a un servidor de nombres. Depende cual acceda, la latencia (tiempo entre que envío un paquete de información y lo recibo) varía. Por ejemplo, los servidores DNS más comunes son Cloudflare, Google, después tenemos otros servicios públicos como Quad9 en Suiza. Esos son los primeros 3. Cuando vemos los de china los tiempos de latencia cambian muchísimo, pero el de Alibaba DNS no es tan malo. Por lo tanto vamos a poner ese a prueba.
 
-![[Pasted image 20250828161006.png]]
+![[velocidad_latencia_prov_dns.png]]
 
-![[Pasted image 20250828161022.png]]
+![[cambiar_dns_10.png]]
 ![[Pasted image 20250828161028.png]]
 Para eso vamos a ir al buscador en la barra de tareas y escribir “Estado de Red”. Una vez allí, en la ventana que nos abre vamos a ir a Cambiar opciones de adaptador.
 

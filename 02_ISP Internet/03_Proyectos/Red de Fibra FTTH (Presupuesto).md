@@ -41,7 +41,7 @@ Esto será en una división en **tres etapas físicas** muy bien definidas, lo
 
 ![[descripcion_grafica_OLT-ODN-ONT.png]]
 
-![[Pasted image 20250828124358.png]]
+![[red_ffth_01_diagrama.png]]
 
 **A. Herramientas y Equipos de Medición (Inversión Inicial o Alquiler)**
 

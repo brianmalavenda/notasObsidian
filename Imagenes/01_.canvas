@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"5fb072dd8d04ec5e","type":"file","file":"Imagenes/registro_compra_mp.png","x":-260,"y":-200,"width":305,"height":400},
-		{"id":"97bdb3e133529d93","type":"file","file":"Imagenes/registro_compra_mp_01.png","x":-420,"y":260,"width":400,"height":64}
+		{"id":"5fb072dd8d04ec5e","type":"file","file":"Imagenes/01_Web/Wordpress/registro_compra_mp.png","x":-260,"y":-200,"width":305,"height":400},
+		{"id":"97bdb3e133529d93","type":"file","file":"Imagenes/01_Web/Wordpress/registro_compra_mp_01.png","x":-420,"y":260,"width":400,"height":64}
 	],
 	"edges":[]
 }

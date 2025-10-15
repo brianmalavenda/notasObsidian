@@ -113,9 +113,9 @@ CERTIFICADO ^6pJbogfj
 4 ^JaPRi3TH
 
 ## Embedded Files
-4234e94b2fa9086ec6ee980534aa45318fec9940: [[Pasted Image 20250908124013_669.png]]
+4234e94b2fa9086ec6ee980534aa45318fec9940: [[icono_seguridad.png]]
 
-daee2bbb7646e05913f4e294c9964439fcca2b67: [[Pasted Image 20250908124155_180.png]]
+daee2bbb7646e05913f4e294c9964439fcca2b67: [[icono_edicion_archivo_correcto.png]]
 
 ## Drawing
 ```compressed-json
