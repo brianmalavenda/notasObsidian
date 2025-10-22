@@ -7,6 +7,13 @@ links_externos::
 
 https://www.youtube.com/watch?v=DmveMaSY0m4
 
+# Microsoft levanta más medidas de seguridad que bloquean las actualizaciones de Windows 11
+[bleepingcomputer](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/)
+Microsoft ha eliminado dos retenciones de compatibilidad más que impedían a los clientes instalar Windows 11 24H2 a través de Windows Update.
+
+La primera retención de salvaguardia Se agregó en abril para sistemas que ejecutan software empresarial o de seguridad que utilizan el controlador sprotect.sys de SenseShield Technology debido a un problema conocido que puede desencadenar una pantalla de muerte azul o negra (BSOD).
+El jueves, la compañía dijo que eliminó el bloqueo de actualización esta semana después de que SenseShield actualizara el controlador security.sys para resolver el problema de compatibilidad y les dijo a los usuarios que la actualización 24H2 de Windows 11 se ofrecería dentro de las próximas 48 horas.
+
 # Microsoft está obsesionada con que solo puedas usar Windows 11 con una cuenta online. La razón es evidente: servicios
 09/10/2025
 [Xataka](https://www.xataka.com/aplicaciones/microsoft-esta-obsesionada-que-solo-puedas-usar-windows-11-cuenta-online-razon-evidente-servicios)
