@@ -19,8 +19,17 @@ Actualmente, los principales sistemas de navegación por satélite del mundo uti
 
 La precisión del posicionamiento de la navegación por satélite utilizando el principio de rango de tiempo depende principalmente de la precisión de la predicción de la órbita, la precisión de la medición de los parámetros de navegación y su factor de amplificación geométrica y la precisión de la medición de las características dinámicas del usuario. Entre ellos, la precisión de la predicción de la órbita se ve afectada principalmente por el modelo del campo gravitacional de la Tierra y otras fuerzas de perturbación orbital. Por lo tanto, los satélites de navegación generalmente eligen órbitas con altitudes más altas para evitar la influencia perturbativa de la atmósfera superior de la Tierra en las órbitas terrestres bajas. Por supuesto, los diferentes sistemas de navegación por satélite también difieren en términos de la elección específica de la órbita operativa.
 
-
 El sistema de navegación por satélite es un sistema muy complejo y, para garantizar su buen funcionamiento, debe depender no sólo de los satélites en el cielo, sino también de las estaciones terrestres responsables del control operativo y de los enlaces de radio que transmiten las señales trabajando juntos. Varios de los principales sistemas de navegación por satélite del mundo pueden describirse como coloridos y distintivos.
+
+En dispositivos como celulares o en aquellos que se utilizan para geolocalizar un automovil u otro movil, no se puede elegir que tipo de sistema de navegacion va a usar el dispositivo sino que elige el que mejor señal disponga para la ubicación en donde se encuentra. 
+Podemos usar una aplicacion para identificar que tipo de satelites tenemos al alcance del radio nuestro de ubicación. Igualmente, no todos los dispositivos tienen el hardware necesario para identificar a todos los tipos de satelite. Por ejemplo, Huawei y Sansumg pueden ver los satelites de Baidu, pero los Iphones no. 
+
+### Baidú
+
+Lanzado en el 2000. Tiene una aplicacion militar y es proyecto aeroespacial de mayor inversion en China. Los satelites militares alcanzan una precisión de ubicación terrestre de menos de 3 metros pero los de uso civil tiene una precision de 5 a 10 metros de radio. En 2023, Baidú, contaba con 35 satelites, 4 más que el GPS de EEUU. Para 2025 se planeaba una constelación de 45 satelites, pueden llegar a precisar la ubicación con una exactitud de centímetros. Además posee 63 sistemas de vigilancia, auqnue EE.UU tiene algo más de 100. 
+Su sistema de comunicacion es bidireccional. Que quiere decir esto?. El GPS funciona con los dispositivos terrestres como receptores de la señal de los satelites. La "triangulación" con varios satelites de estos receptores que funcionan como un "espejo" donde rebotan la señal son los que permiten ubicar el dispositivo. En cambio el sistema BDS, nuestros dispositivos no son solo receptores sino emisores de señal activa hacia los satelites. Es decir, puedo comunicarme con alguien a través del satelite directamente. No solo sabe donde te encuentras sino informa a otros sobre tu ubicación, aplicado en barcos, aviones o drones. También, por ejemplo, podría ser utilizado por personas en ubicaciones inóspitas que hayan quedado baradas, podrías envíar un msj a través del satelite con su ubicación.  
+
+Mensajería corta de señal por satelite de hasta 120 caracteres independientemente de la señal celular.  
 
 ---
 #### Referencias

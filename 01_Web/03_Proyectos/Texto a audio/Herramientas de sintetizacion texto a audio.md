@@ -19,14 +19,6 @@ Una edición del ejes que dura alrededor de 1 hora de audio contiene entre **65
 
 Con esta aproximación de lo que necesitamos vamos a evaluar las herramientas disponibles, su costo y realizaremos alguna prueba
 
-### Vidnoz
-
-Su plan mas barato es de US$ 80 al mes, es decir unos $ 120.000 todos los meses. Ofrece con esto una totalidad de 1000 créditos que equivalen a 1 minuto de audio cada crédito.. Es decir, podríamos grabar hasta 16,6 hs de audio con este plan, la mitad de lo que necesitamos mensualmente. El siguiente plan es de US$ 300 por lo tanto, queda descartada esta app para usar.
-
-### ElevenLabs
-
-El precio por 1000 minutos es de US$ 99, más caro que la anterior. Este plan como vimos no llega a la mitad de las necesidades de cada mes. Queda descartado.
-
 ### Google Cloud
 
 Este servicio de Google ofrece la API para trabajar con hasta 4 millones de caracteres al mes gratis. A partir de ahí empieza a cobrar. Es decir, con 2 cuentas estaríamos cubriendo las necesidades mensuales. En caso de hacerlo con una sola cuenta, tendremos que pagar unos US$ 16 para estar en 8 millones de caracteres y esta un poco olgados con los 6,75 millones que necesitamos mensualmente. [Probar](https://cloud.google.com/speech-to-text?gad_campaignid=19733931997)
@@ -45,10 +37,17 @@ https://github.com/inferless/melo-tts
 
 Aca esta el instructivo para instalar y ejecutar la app: https://github.com/myshell-ai/MeloTTS/blob/main/docs/install.md
 
-
 ## USABILIDAD GRATUITA
 https://www.youtube.com/watch?v=IT7RVsgpth4
 
+## Avanzamos con Google API Text-to-Speech
+
+Instalamos el CLI de google cloud en mi linux de WSL. Despues nos conectamos con google y a través de línea de comando conseguimos el auth0 2.0 Con esto conseguimos que en un script de pithon podamos usar la API de text-to-speech y traducir texto. Luego probamos en sintetizar texto en formato ssml.
+Tambien, en paralelo, probamos un script en python para extraer texto de archivo word que tengan subrayado amarillo y con esto generar un nuevo texto formato .docx. 
+
+Empezamos a pensar como es el diseño de la arquitectura para poder traducir textos que sean largos. Evaluamos escenarios con microservicios con docker y un orquestador como kubernetes. Hubo planteado otra opción, monolítica, para crear threads y poder hacerlo sin recurrir a docker ni microservicios.
+
+## INVESTIGAR HUAWEI, ALIBABA Y BAIDU CLOUD PARA VER SI TIENEN ALGUN SERVICIO SIMILAR
 
 ---
 #### Referencias
