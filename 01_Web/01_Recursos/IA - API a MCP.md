@@ -1,0 +1,1 @@
+https://dzone.com/articles/transform-nodejs-rest-api-to-mcp-server

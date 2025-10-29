@@ -131,3 +131,10 @@ Ejecutar comando dentro del contenedor
 	        max-size: "10m"
 	        max-file: "3"
 ```
+
+Ver consumo de recursos por contenedor
+
+``` bash
+watch -n 2 "docker stats --no-stream"
+```
+
