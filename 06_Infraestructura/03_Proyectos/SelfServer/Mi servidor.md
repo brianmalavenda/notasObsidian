@@ -99,6 +99,8 @@ https://www.mercadolibre.com.ar/raspberry-pi-5-ventilador-enfriador-disipador-co
 
 ## Almacenamiento
 
+### Version 1
+
 https://tiendamia.com/ar/producto?amz=B0CTTL9R7Z&pName=TERRAMASTER%20D4-320%20External%20Hard%20Drive%20Enclosure%20-%204bay%20USB%203&period;2%20Gen2%2010Gbps%20Type-C%20USB%20Storage%20Hot%20Swappable%20Plug%20and%20Play%20&lpar;Diskless&rpar;
 
 **$ 384.000**
@@ -112,12 +114,18 @@ Disco Solido Externo De Ultra Alta Velocidad 4tb Ssds Rojo
 **$ 38.000**
 
 
+### Version 2
 
-# Seguridad
+NAS Sinology + 4 Seagate Iron Wolf de 4 TB c/u en RAID 10
+
+US$350 [NAS Sinology](https://www.ebay.com/itm/317484626458?_skw=Synology+DS423&itmmeta=01K8XE71BZ11XDWY69SHGX4B2B&hash=item49eb8ef21a:g:pesAAeSwyixpBAxE&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1c7onQjcplmGSXFkF45bALUmHgPnpjm3KW83YU14qlgNdOdJgWNRZC9uz1qLAJE7K0BFOosq7WxnbK6T5%2F2%2Feqp8AK4YTz90at5vcnUoTo5WXfUdZPe1Yq9sXjlG1BAtaBID4GeMk%2FDjoKuzhQPZUOpwCBZNPU35HhTnth1gzzp1eizts1Q02y4f%2F5GXoxSAD91ISV878igfAPPrltJh%2Ba8Oan%2BiCaHsiPkfLIuPXnh8LMpwrPXsYifymOcoKjj8h1YzoOHaCJqb1FLvpn2Z2mk5up2si5ut3V5HiH78yGcMw%3D%3D%7Ctkp%3ABFBMkJacrsdm)
+US$500 - US$200 * 2 [Seagate Iron Wolf de 4 TB](https://www.ebay.com/itm/226710130442?_skw=Seagate+IronWolf+Pro+4tb&itmmeta=01K8XEHGY1GPKV2HXXHR2YC4JV&hash=item34c8fa0f0a:g:ugsAAOSwCSloAnlZ&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1fLCx2NHW%2BlfKSYSWElJNup16oAeqCXau2SVGKnGcFUlxFCodpEX8kBXi8aJN2Zmwg4B%2FidB4zCJnNqKK8ohNLrCsLxQy5KqMEOSn6q3r4dNHVunT94MmKYHhItM5bq4ay16p47pzocpPi7wq2LIHTiPq4uz0568M89cdJWAB1TTa8yMBlsNKYa%2FDd%2FsKh45EQBx3HE1hPZDq82XyJAqWd8un4Ex2cLvwLEMTeIyGaqoKkmSX4%2FKe%2F491a7SvymiFY%3D%7Ctkp%3ABk9SR5iPxq7HZg)
+
+
+
+## Seguridad
 
 https://www.youtube.com/watch?v=_Hcm9ksOkqU
-
-
 
 ## MINI PC
 

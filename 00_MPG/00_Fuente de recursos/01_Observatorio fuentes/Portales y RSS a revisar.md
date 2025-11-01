@@ -12,6 +12,18 @@ Los medios occidentales los sigo por NewsBlur desde el cliente feed RSS incluido
 Nota: https://rss.feedspot.com // tiene una gran base de datos de feed RSS de diversos temas
 ```
 
+## Argentina
+
+ - [ ] Inteligencia Argentina
+https://inteligenciaargentina.ar/
+Portal que se enfoca en argentina y la aplicación de la inteligencia artificial y otras tecnologías en los sectores de energía, salud, agro y seguridad entre otros.
+- [ ] Congreso Latinoamericano Digital
+https://congreso.america-digital.com/expodigital/
+- [ ] Argencon
+https://www.argencon.org/argenews/?utm_source=chatgpt.com
+- [ ] iProUp
+https://www.iproup.com/
+
 ## Ciberseguridad
 
 - [x] BleepingComputer  
