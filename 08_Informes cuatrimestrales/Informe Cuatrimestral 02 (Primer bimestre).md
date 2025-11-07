@@ -6,16 +6,15 @@ links_externos::
 
 ## 0-MPG
 
-1. Investigación permanente: temas de actualidad o sobre la industria que haya que seguir
-2. Observatorio: portales de noticias de la coyuntura sobre la industria del conocimiento informático [línea de occidente y línea de oriente] + **sumamos en los últimos dos meses portales nacionales, centros universitarios e institutos de investigación y cámaras empresariales nacionales**
+1. Incorporamos al seguimiento de los portales informes un detalle por las empresas mas relevantes de China y EE.UU, alguna de Inglaterra y Holanda por la relevancia mundial
+	1. China: Huawei, SMIC, TSMC(Taiwan), Tencent, HeSai, Bitedance, Alibaba, Baidu, Xiaomi
+	2. EE.UU: Nvidia, Amazon, Global Foundries, Intel, AMD, Broadcom, Cloudflare, Google, Microsoft, OpenAI, Oracle, Salesforce, Starlink, Qualcomm, Apple
+	3. Holanda: ASML
+	4. Inglaterra: ARM Holdings
 
 ### Observatorio
 
-Relevamos en un primer momento un total de 22 portales de tecnología, de esos portales seleccionamos 14, es  decir 8 o tenían informacion muy vieja o los temas del portal no eran demasiados necesarios ya que no aportan hasta el momento informacion relevante al seguimiento de la rama. De estos portales quedaron seleccionados:
-1. Ciberseguridad: 2 rusos, 1 de occidente
-2. Desarrollo: 3 de occidente
-3. IA: 2 chinos
-4. Tecnología gral: 5 de 11. 2 de occidente y 4 de china
+Producto del anuncio del proyecto de Stargate en Argentina con la construccion del datacenter en la patagonia
 
 #### Nacional
 ##### Portales
@@ -153,6 +152,13 @@ Poniendo en práctica esto es el insumo de nuestra información de la que se pue
 
 El desarrollo de esto es replicar esto mismo con las producciones ideológicas. Calculamos una producción de más 300 hojas semanales entre el EJES del mundo, informes, diarios pintados de los portales. Toda esta información tiene que estructurarse en nuestra base de conocimiento que vaya relacionando producciones escritas con películas, series o música que ayuden a desarrollar determinados conceptos, procesos históricos etc, etc.
 
+
+1. Desarrollo de la aplicación que convierte diario pintado en audio de solo lo pintado y lo comparte por telegram
+2. Nube Nextcloud
+3. Investigacion comunicación satelital mundial, Huawei Mate X6
+4. Red Lora Meshtastic
+5. Investigacion, primera aproximacion de chips (fundamentacion y tendencias)
+6. 
 
 
 
