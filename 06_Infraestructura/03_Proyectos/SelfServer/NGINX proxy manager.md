@@ -49,7 +49,7 @@ pip3 install bcrypt
 # Generar hash con Python
 python3 -c "
 import bcrypt
-password = b'tu_password_aqui'
+password = b'password'
 hashed = bcrypt.hashpw(password, bcrypt.gensalt(12))
 print(hashed.decode('utf-8'))
 "
@@ -59,7 +59,7 @@ print(hashed.decode('utf-8'))
 
 ```sql
 # **`password`**
-UPDATE auth SET secret = '$2b$12$or9ObBBehv1mVb3rCtczg.U9HAi6xmTE.7oCBJLFrWHN5w2XsvKJ2' WHERE id = 1;
+UPDATE auth SET secret = '$2b$12$UE.EPLhvpUSr9BjkRi9LveM7xYJPJ9Kga53k6uZ0eZgKLO17FBST.' WHERE id = 1;
 ```
 
 ```bash
@@ -68,6 +68,7 @@ UPDATE auth SET secret = '$2b$12$or9ObBBehv1mVb3rCtczg.U9HAi6xmTE.7oCBJLFrWHN5w2
 exit
 docker restart nginx-proxy-manager
 ```
+
 
 
 

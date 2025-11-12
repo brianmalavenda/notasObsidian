@@ -62,6 +62,62 @@ ZeroTrus -> Networks
 
 Esta opción es mas un canal abierto entre una computadora cliente con el servidor donde para ambos se configura usando ssh un tunel de mensajes de ida y vuelta entre ellos. Para exponer una app desde mi servidor y que quede publica para acceder por cualquier computadora cliente desde un navegador esto no me sirve. Hay que ver que aplicaciones puede tener, quizas para control, alertas, etc donde mi computadora cliente desde donde monitoreo mi servidor pueda recibir mensajes de el aún no estando con la sesion iniciada, por ejemplo en openmediavault. Esto tiene mas pinta de funcionar para estos casos de uso.
 
+
+# Con dominio propio
+
+En el panel de tu proveedor de dominio (`smdev.com.ar`), configura estos registros:
+
+### **Opción A: Subdominio (RECOMENDADO)**
+
+```
+A     cloud.smdev.com.ar     181.46.57.143
+A     www.cloud.smdev.com.ar 181.46.57.143
+```
+
+### **Opción B: Dominio principal**
+
+```
+A     smdev.com.ar           181.46.57.143
+A     www.smdev.com.ar       181.46.57.143
+```
+
+**Recomiendo la Opción A** para mantener tu sitio principal separado.
+
+## **Paso 2: Configurar Proxy Manager**
+
+Accede a `http://tu-ip-local:8181` y edita el proxy host:
+
+### **En Proxy Hosts → Editar nextcloud.local**
+
+- **Domain Names:** `cloud.smdev.com.ar` (o el que elegiste)
+- **Forward Hostname/IP:** `nextcloud-app`
+- **Forward Port:** `80`
+
+### **Pestaña SSL:**
+
+- **SSL Certificate:** `Request a new SSL Certificate`    
+- **Force SSL:** ✅ Activado
+- **HTTP/2 Support:** ✅ Activado
+- **HSTS Enabled:** ✅ Activado
+
+>[!ERROR] 
+>Esta parte me dió error
+
+## **Paso 3: Configurar Nextcloud para el dominio externo**
+```bash
+# Añadir dominio externo como confiable
+docker exec -u 33 nextcloud-app php occ config:system:set trusted_domains 1 --value="cloud.smdev.com.ar"
+
+# Configurar para HTTPS externo
+docker exec -u 33 nextcloud-app php occ config:system:set overwriteprotocol --value="https"
+docker exec -u 33 nextcloud-app php occ config:system:set overwritehost --value="cloud.smdev.com.ar"
+docker exec -u 33 nextcloud-app php occ config:system:set overwrite.cli.url --value="https://cloud.smdev.com.ar"
+
+# Verificar configuración
+docker exec -u 33 nextcloud-app php occ config:system:get trusted_domains
+```
+
+
 ---
 #### Referencias
 

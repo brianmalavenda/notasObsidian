@@ -4,6 +4,18 @@ fecha:: 2025-09-19
 links::
 links_externos::
 
+# Para el CEO de Nvidia, China podría superar a EEUU en "la carrera de la IA"
+6/11/2025
+En una entrevista con el _Financial Times_, afirmó que el país asiático **"va a ganar la carrera de la IA"**, impulsado por la **fuerte inversión estatal** y **menores costos energéticos**, mientras que Estados Unidos se frena, en su visión, por las **regulaciones internas**.
+
+El CEO de Nvidia, Jensen Huang, aseguró que China está en condiciones de superar a Estados Unidos en el desarrollo de inteligencia artificial.
+
+En una entrevista con el Financial Times, afirmó que el país asiático "va a ganar la carrera de la IA", impulsado por la fuerte inversión estatal y menores costos energéticos, mientras que Estados Unidos se frena, en su visión, por las regulaciones internas.
+
+Las declaraciones de Huang se dieron luego de las conversaciones entre Donald Trump y Xi Jinping, en las que no hubo avances respecto de las restricciones que impiden a Nvidia vender sus chips más avanzados al mercado chino. La Casa Blanca mantiene las limitaciones pese a las presiones del sector tecnológico que reclama mayor apertura. Huang cuestionó que la **fragmentación regulatoria estadounidense** desacelere la **innovación**. Dijo que la falta de coherencia en las normas, con distintos estados que impulsan sus propias reglas, **"ralentiza el progreso"** frente a un sistema chino que **apoya a sus empresas con subsidios y menos trabas**. 
+Señaló que "la energía es gratis", en referencia a los incentivos otorgados a compañías como ByteDance, Alibaba y Tencent, que incrementaron su capacidad gracias a esos beneficios.
+
+Los subsidios buscan compensar la menor eficiencia de los chips producidos localmente por Huawei y Cambricon, que consumen más electricidad y elevan los costos operativos. Aun así, el respaldo estatal refuerza la autonomía tecnológica de China frente a las restricciones impuestas por Washington.
 
 # NVIDIA y OpenAI acaban de realizar una jugada maestra. Una que les fortalece a ellos y debilita a todos los demás
 23/09/2025

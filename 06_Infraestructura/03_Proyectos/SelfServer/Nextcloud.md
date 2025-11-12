@@ -112,10 +112,12 @@ docker exec nextcloud-app find / -name "php.ini" 2>/dev/null
 
 ## Problemas de ejecución
 
-AH00558: apache2: Could not reliably determine the server's fully qualified domain name
+>[!error] ERROR
+>AH00558: apache2: Could not reliably determine the server's fully qualified domain name
+
 
 ```bash
-# 2. CONFIGURAR APACHE
+# 2. CONFIGURAR APACHE DENTRO DE NEXTCLOUD
 docker exec nextcloud-app bash -c 'echo "ServerName localhost" >> /etc/apache2/apache2.conf'
 docker-compose restart nextcloud-app
 ```
@@ -299,6 +301,131 @@ $CONFIG = array (
 
 >[!NOTA]
 >Me queda para ver en la carpeta de configuracion el archivo .htaccess para que sirve. El apache-pretty-urls.config.php, el reverse-proxy.config.php. Despues hay otros que hacen referencia a un s3, a redis y al smtp que entiendo a donde remiten
+
+
+
+# Repasamos
+
+1. Configuracion de la app nextcloud (config del php)
+
+nextcloud/config/config.php
+
+```php
+  'trusted_domains' => 
+  array (
+    0 => '192.168.0.10',
+    1 => '181.23.23.111', 
+    2 => 'smdev.com.ar',
+  ),
+  
+  'overwritehost' => 'smdev.com.ar',
+  'overwriteprotocol' => 'https',
+```
+
+2. Configuracion del servidor de host de la aplicacion en el contenedor de nextcloud-app
+
+Configurar usuario y pasword: /etc/apache2/envvars
+
+```bash
+# Include generic snippets of statements
+IncludeOptional conf-enabled/*.conf
+
+# Include the virtual host configurations:
+IncludeOptional sites-enabled/*.conf
+ServerName localhost
+
+```
+
+Configurar un host virtual?
+
+```bash
+# Acceder al contenedor Nextcloud
+docker exec -it nextcloud-container bash
+
+# Ver archivos de configuración de Apache
+ls /etc/apache2/sites-enabled/
+
+# Ver contenido del virtual host
+cat /etc/apache2/sites-enabled/nextcloud.conf
+# o
+cat /etc/apache2/sites-enabled/*.conf
+```
+
+
+```bash
+<VirtualHost *:80>
+    ServerName localhost
+    DocumentRoot /var/www/html
+
+    # AGREGAMOS ESTOS Headers para proxy reverso
+    RemoteIPHeader X-Real-IP
+    RemoteIPTrustedProxy 192.168.0.10
+    RemoteIPTrustedProxy 181.46.57.43
+</VirtualHost>
+```
+
+**Por que agregamos los encabezados en el virtual host ?**
+
+- Nextcloud puede detectar intentos de brute force desde IPs reales
+- Los logs de acceso muestran IPs reales de usuarios
+- Puedes implementar rate limiting por IP real
+- Estadísticas de acceso correctas
+- Geolocalización funciona
+- Auditoría de seguridad apropiada
+
+En mi NGINX Proxy Host
+
+```bash
+# MANTENER esto y AGREGAR:
+location / {
+    proxy_pass http://192.168.0.10;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_set_header X-Forwarded-Host $host;
+    
+    # WebSocket para Nextcloud Talk
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection "upgrade";
+    
+    # Timeouts
+    proxy_connect_timeout 300;
+    proxy_send_timeout 300;
+    proxy_read_timeout 300;
+    
+    client_max_body_size 512M;
+}
+```
+
+**Por que agregamos los encabezados en el proxy host ?**
+
+- En mi NGINX convierte las ip de los usuarios en su ip
+- Envia a Nextcloud la ip real de los usuarios
+
+3. Proxy activado en Cloudflare
+
+```bash
+### Configuración de Cloudflare
+
+- En Cloudflare, asegúrate de que el proxy esté activado (nube naranja)
+- Configura los DNS: `cloud.sanmartinici.com.ar` -> `181.46.57.143`
+```
+
+
+sudo ufw status
+Status: active
+
+To                         Action      From
+--                         ------      ----
+9122/tcp                   ALLOW       Anywhere                   # SSH personalizado
+80/tcp                     ALLOW       Anywhere                   # Servidor Web HTTP
+443/tcp                    ALLOW       Anywhere                   # Servidor Web HTTPS
+8080                       ALLOW       Anywhere
+9122/tcp (v6)              ALLOW       Anywhere (v6)              # SSH personalizado
+80/tcp (v6)                ALLOW       Anywhere (v6)              # Servidor Web HTTP
+443/tcp (v6)               ALLOW       Anywhere (v6)              # Servidor Web HTTPS
+8080 (v6)                  ALLOW       Anywhere (v6)
 
 
 

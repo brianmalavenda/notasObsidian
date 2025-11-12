@@ -4,109 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "96d4a8a273d59d2b",
+        "id": "0368140606c9d235",
         "type": "tabs",
         "children": [
           {
-            "id": "fa96394853d9f51f",
+            "id": "bd99814c73d8067b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/CGNSS - Sistemas globales de navegación por satélite.md",
+                "file": "06_Infraestructura/03_Proyectos/SelfServer/Nextcloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CGNSS - Sistemas globales de navegación por satélite"
-            }
-          },
-          {
-            "id": "6b846f58787c93bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_MPG/03_Proyectos/Guerra de Microchips.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guerra de Microchips"
-            }
-          },
-          {
-            "id": "2501de34d6fe970f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_MPG/03_Proyectos/Stargate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stargate"
-            }
-          },
-          {
-            "id": "50de8dd8e5d7cb8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Web/02_Fuentes de conocimiento/Que ocurre cuando navego una pagina web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Que ocurre cuando navego una pagina web"
-            }
-          },
-          {
-            "id": "6db638d02f8e012b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_MPG/02_Fuente de conocimiento/Empresas/China/Chip analógico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chip analógico"
-            }
-          },
-          {
-            "id": "7d9fd23ae69f22fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/01_Tanques de pensamiento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01_Tanques de pensamiento"
-            }
-          },
-          {
-            "id": "3f8c2e6695ecc47e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08_Informes cuatrimestrales/Informe Cuatrimestral 01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Informe Cuatrimestral 01"
+              "title": "Nextcloud"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BDS",
+                "query": "NGINX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -271,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_MPG/02_Fuente de conocimiento/Empresas/China/Chip analógico.md",
+                "file": "06_Infraestructura/03_Proyectos/SelfServer/Nextcloud.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Chip analógico"
+              "title": "Esquema de Nextcloud"
             }
           }
         ],
@@ -317,56 +232,56 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "6db638d02f8e012b",
+  "active": "bd99814c73d8067b",
   "lastOpenFiles": [
-    "03_Seguridad/02_Fuente de conocimiento/Cifrado/Chips TMP2.0.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/China/Chip analógico.md",
-    "Pasted image 20251106165741.png",
-    "06_Infraestructura/03_Proyectos/SelfServer/Velocidad de conexión de internet.md",
-    "06_Infraestructura/03_Proyectos/SelfServer/Placas Madre.md",
-    "Pasted image 20251106155117.png",
-    "Pasted image 20251106155019.png",
-    "Pasted image 20251106145622.png",
-    "Pasted image 20251106145557.png",
-    "Pasted image 20251106145521.png",
-    "Pasted image 20251106144949.png",
-    "Pasted image 20251106144807.png",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/PC ARTS.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/BANGHO.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Air Computers.md",
-    "00_MPG/00_Fuente de recursos/01_Observatorio fuentes/Portales y RSS a revisar.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/01_Tanques de pensamiento.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/03_Industrias.md",
-    "00_MPG/00_Fuente de recursos/Energía.md",
-    "06_Infraestructura/02_Fuente de conocimiento/Mantenimiento de equipos.md",
-    "01_Web/02_Fuentes de conocimiento/App web a app mobile.md",
-    "Hoja de Ruta.md",
-    "08_Informes cuatrimestrales/Informe Cuatrimestral 02 (Primer bimestre).md",
-    "Sin título.canvas",
-    "Pilares de la industria del conocimiento.md",
-    "Plan.md",
-    "08_Informes cuatrimestrales/Informe Cuatrimestral 01.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/00_Cámaras empresariales.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/Acceder al servidor desde fuera de mi LAN.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/NGINX proxy manager.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/Nextcloud.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/OpenMediaVault.md",
+    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Error Pyhton instalar bibliotecas de terceros.md",
+    "01_Web/03_Proyectos/EjesDelMundo/0.2_Arquitectura.md",
+    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Visual Code.md",
+    "00_MPG/03_Proyectos/Soberanía de telecomunicaciones.md",
+    "01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Redis.md",
+    "01_Web/02_Fuentes de conocimiento/Desarrollo/Python.md",
+    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Python.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/Certificado SSL.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/Mi servidor.md",
     "01_Web/02_Fuentes de conocimiento/Que ocurre cuando navego una pagina web.md",
-    "00_MPG/03_Proyectos/Stargate.md",
-    "02_ISP Internet/02_Fuente de conocimiento/Sistemas nevegacion satelital/CGNSS - Sistemas globales de navegación por satélite.md",
-    "00_MPG/03_Proyectos/Guerra de Microchips.md",
-    "00_Diario/250904.md",
-    "00_Diario/250910.md",
+    "03_Seguridad/02_Fuente de conocimiento/VPN.md",
+    "01_Web/02_Fuentes de conocimiento/Arquitectura/Web Server.md",
+    "03_Seguridad/02_Fuente de conocimiento/Seguridad Ordenador.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Blockchain/Devconnect ARG 2025.md",
+    "00_MPG/00_Fuente de recursos/01_Observatorio fuentes/Portales y RSS a revisar.md",
+    "00_MPG/00_Fuente de recursos/01_Observatorio fuentes/Techxplore.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/China/TP-Link.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Blockchain/Binance.md",
     "00_MPG/03_Proyectos/Stargate Argentina.md",
-    "Pasted image 20251031121019.png",
-    "Pasted image 20251030100150.png",
+    "00_MPG/03_Proyectos/Industria del conocimiento.md",
+    "Pasted image 20251110143257.png",
+    "Pasted image 20251110142642.png",
+    "Pasted image 20251110142155.png",
+    "Pasted image 20251110142112.png",
+    "05_IA/02_Fuente de conocimientos/00_Principales aplicaciones de la IA.md",
+    "Pasted image 20251110140625.png",
+    "Pasted image 20251110135304.png",
+    "Pasted image 20251110133638.png",
+    "Pasted image 20251110133615.png",
+    "Pasted image 20251110133603.png",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/IA/Salud.md",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/IA",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Ciberseguridad",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Infraestructura",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/ISP",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Web",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Blockchain",
+    "00_MPG/02_Fuente de conocimiento/Empresas/Argentina/Extranjeras en el país",
+    "Pasted image 20251106165741.png",
+    "Sin título.canvas",
     "00_MPG/02_Fuente de conocimiento/Empresas/Japón",
     "00_MPG/02_Fuente de conocimiento/Empresas/Inglaterra",
     "03_Seguridad/02_Fuente de conocimiento/Forense",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Holanda",
-    "13_Energía nuclear",
-    "06_Infraestructura/02_Fuente de conocimiento/Semiconductores",
-    "06_Infraestructura/03_Proyectos/SelfServer",
-    "Imagenes/01_Web/Proyecto/portal_ejes_del_mundo_en_la_patria",
-    "Imagenes/01_Web/Proyecto/ejes_lectura_control_app",
     "Imagenes/01_.canvas",
-    "Imagenes/01_Web/Proyecto/geolocalizacion",
     "Imagenes/Sin título.canvas",
     "Imagenes/Sin título 1.canvas",
     "Imagenes/registrar_dominio_buscar_2.canvas"

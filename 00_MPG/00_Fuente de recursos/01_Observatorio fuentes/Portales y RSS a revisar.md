@@ -24,8 +24,10 @@ https://www.argencon.org/argenews/?utm_source=chatgpt.com
 - [ ] iProUp
 https://www.iproup.com/
 - [ ] IT Sitio
-- [ ] Tecnozona
-https://tecnozona.com/
+- [x] Tecnozona
+https://tecnozona.com/ - no actualizan más la pagina
+- [ ] Ambito financiero
+https://www.ambito.com/tecnologia-old
 ## Ciberseguridad
 
 - [x] BleepingComputer  
