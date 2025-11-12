@@ -1,42 +1,56 @@
 {
   "main": {
-    "id": "e0c26e8b1c0aa0a8",
+    "id": "8371207fc97a35dd",
     "type": "split",
     "children": [
       {
-        "id": "4268e0dd1fba18ca",
+        "id": "a093691ca6e9bd87",
         "type": "tabs",
         "children": [
           {
-            "id": "de1dc130c0e0c708",
+            "id": "27fcdc0e7e7300e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Infraestructura/03_Proyectos/SelfServer/Nextcloud.md",
+                "file": "08_Informes cuatrimestrales/Informe 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nextcloud"
+              "title": "Informe 01"
+            }
+          },
+          {
+            "id": "7792b92ec161fb14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_MPG/03_Proyectos/Guerra de microchips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guerra de microchips"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "307ea60480a351bc",
+    "id": "4116fc163b8024b6",
     "type": "split",
     "children": [
       {
-        "id": "a485ca9e84127bd4",
+        "id": "2b39e5f494192359",
         "type": "tabs",
-        "dimension": 73.54014598540147,
         "children": [
           {
-            "id": "3ee6e429ad7a2ce6",
+            "id": "8946bb766837fd31",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,16 +59,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "581c2d9968ea6c12",
+            "id": "4a3043121dceeece",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "guerra de micr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,62 +76,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "12d17395f095fb56",
+            "id": "b35dbff87c23007b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7a2382655e114211",
-        "type": "tabs",
-        "dimension": 26.459854014598537,
-        "children": [
-          {
-            "id": "b8d35a7dcfcb1db4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 477.5110321044922
+    "width": 300
   },
   "right": {
-    "id": "b534313314c51bed",
+    "id": "f0d4362a31e8cd3e",
     "type": "split",
     "children": [
       {
-        "id": "e46ad63dcd025039",
+        "id": "f26b1ff8b7d4c2e1",
         "type": "tabs",
-        "dimension": 65.48076923076923,
         "children": [
           {
-            "id": "ebefcbb6c6a8e5cb",
+            "id": "a6b226574ce9c08c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,83 +119,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Backlinks for Cambiar DNS de la PC"
             }
           },
           {
-            "id": "ff5544ee536d25e3",
+            "id": "74e6c227afa12fd5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Outgoing links from Cambiar DNS de la PC"
             }
           },
           {
-            "id": "fd24dbc68910c73e",
+            "id": "5d0c727f6637f587",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "tag",
               "state": {
-                "file": "06_Infraestructura/03_Proyectos/SelfServer/Nextcloud.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.0509465463819953,
-                  "close": true
-                }
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-git-fork",
-              "title": "Gráfico de Nextcloud"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "66b75e180a44884c",
+            "id": "4b5399c844449f81",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Blog seguridad/Cambiar DNS de la PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Outline of Cambiar DNS de la PC"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "87129195f30f80ad",
-        "type": "tabs",
-        "dimension": 34.51923076923077,
-        "children": [
+          },
           {
-            "id": "e5a4e3c445a66756",
+            "id": "3eca9848a5293fad",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -212,75 +176,75 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de1dc130c0e0c708",
+  "active": "8946bb766837fd31",
   "lastOpenFiles": [
-    "06_Infraestructura/03_Proyectos/SelfServer/OpenMediaVault.md",
-    "06_Infraestructura/03_Proyectos/SelfServer/Nextcloud.md",
-    "06_Infraestructura/03_Proyectos/SelfServer/NGINX proxy manager.md",
+    "Industria del conocimiento informático.md",
+    "Nota.md",
+    "08_Informes cuatrimestrales/Informe 01.md",
+    "00_MPG/03_Proyectos/Guerra de microchips.md",
+    "00_MPG/03_Proyectos/Soberanía de telecomunicaciones.md",
+    "00_MPG/03_Proyectos/Stargate.md",
+    "00_MPG/03_Proyectos/Stargate Argentina.md",
     "Pasted image 20251028040652.png",
-    "01_Web/03_Proyectos/Geolocalizacion-Mapas/Territorios e identificación.md",
-    "06_Infraestructura/03_Proyectos/SelfServer/Mi servidor.md",
-    "01_Web/02_Fuentes de conocimiento/Desarrollo/Back/Docker.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/NGINX proxy manager.md",
+    "03_Seguridad/02_Fuente de conocimiento/Red/NDR - Detección de actividad sospechosa en la red.md",
+    "01_Web/01_Recursos/IA - API a MCP.md",
+    "Pasted image 20251020160411.png",
+    "Pasted image 20251016144457.png",
+    "Pasted image 20251016072305.png",
+    "06_Infraestructura/03_Proyectos/SelfServer/Separar redes con VLAN.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/Seguridad.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/OpenMediaVaultDiagrama.md",
+    "06_Infraestructura/03_Proyectos/SelfServer/Nextcloud.md",
     "06_Infraestructura/03_Proyectos/SelfServer/Estado de la red - Command Prompt.md",
     "06_Infraestructura/03_Proyectos/SelfServer/Conflicto red notebook.md",
     "06_Infraestructura/03_Proyectos/SelfServer/Certificado SSL.md",
     "06_Infraestructura/03_Proyectos/SelfServer/Acceder al servidor desde fuera de mi LAN.md",
-    "00_MPG/03_Proyectos/Stargate.md",
-    "00_MPG/03_Proyectos/Stargate Argentina.md",
-    "00_MPG/03_Proyectos/Soberanía de telecomunicaciones.md",
-    "01_Web/01_Recursos/IA - API a MCP.md",
-    "03_Seguridad/02_Fuente de conocimiento/Red/NDR - Detección de actividad sospechosa en la red.md",
-    "Pasted image 20251020160411.png",
+    "06_Infraestructura/03_Proyectos/Configurando router.md",
+    "03_Seguridad/02_Fuente de conocimiento/Red/Error de conexion por DNS.md",
     "03_Seguridad/02_Fuente de conocimiento/Red/DMZ (Zona Desmilitarizada).md",
     "03_Seguridad/02_Fuente de conocimiento/Botnet Aisuru.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/Microsoft.md",
+    "00_MPG/03_Proyectos/La nueva web.md",
     "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/Amazon.md",
-    "06_Infraestructura/03_Proyectos/SelfServer/OpenMediaVaultDiagrama.md",
-    "06_Infraestructura/03_Proyectos/SelfServer/Seguridad.md",
-    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/0_Proyecto Stargate.md",
-    "13_Energía nuclear/Reactores SMR.md",
     "00_MPG/02_Fuente de conocimiento/Consumo de energía.md",
-    "00_MPG/Empresas.md",
-    "Pasted image 20251016144457.png",
-    "Pasted image 20251016072305.png",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Japón",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Inglaterra",
-    "03_Seguridad/02_Fuente de conocimiento/Forense",
-    "00_MPG/02_Fuente de conocimiento/Empresas/Holanda",
-    "13_Energía nuclear",
-    "Imagenes/06_Infraestructura/sb_notebook_lenovo_ramsoldada_1.jpg",
-    "06_Infraestructura/02_Fuente de conocimiento/Semiconductores",
+    "00_MPG/02_Fuente de conocimiento/Empresas/EE.UU/Qualcomm.md",
     "06_Infraestructura/03_Proyectos/SelfServer",
-    "06_Infraestructura/infraestructura_boot_so.png",
+    "06_Infraestructura/02_Fuente de conocimiento/Semiconductores",
+    "06_Infraestructura/02_Fuente de conocimiento",
+    "03_Seguridad/02_Fuente de conocimiento/Forense",
+    "Imagenes/ricachones_de_la_tecnología.png",
+    "Imagenes/red_conocimiento_01.png",
     "Imagenes/red_conocimiento.png",
-    "Imagenes/Pasted image 20250829133412.png",
-    "Imagenes/08_Informes cuatrimestrales/estudio_mercado_editoriales.png",
-    "Imagenes/03_Seguridad/Pasted image 20250828161118.png",
+    "Imagenes/08_Informes cuatrimestrales/relacion_produccion_ganancia.png",
+    "Imagenes/08_Informes cuatrimestrales/red_conocimiento_grafico.png",
+    "Imagenes/08_Informes cuatrimestrales/red_conocimiento.png",
+    "Imagenes/08_Informes cuatrimestrales",
+    "Imagenes/06_Infraestructura",
+    "Imagenes/03_Seguridad",
+    "Imagenes/02_ISP_Internet",
     "Imagenes/01_Web/Proyecto/portal_ejes_del_mundo_en_la_patria",
-    "Imagenes/01_Web/Proyecto/ejes_lectura_control_app",
+    "Imagenes/01_Web/Proyecto/portal_diario_a_audio",
     "Imagenes/01_.canvas",
-    "Imagenes/01_Web/Proyecto/geolocalizacion",
-    "Imagenes/Sin título.canvas",
-    "Imagenes/Sin título 1.canvas",
-    "Imagenes/registrar_dominio_buscar_2.canvas"
+    "Imagenes/Sin título.canvas"
   ]
 }
