@@ -7,7 +7,7 @@ links_externos::
 
 ## Industria del conocimiento 2024
 
-![[Pasted image 20251110143257.png]]
+![[mercado laborar ici mundo.png]]
 
 En este sentido, Argentina ocupó en 2024 el puesto 43° entre los exportadores
 mundiales de SBC, explicando un 0,23% del total. Esta ubicación indica una pequeña
@@ -30,7 +30,7 @@ mantuvo positivo en US$ 936 millones.
 Las exportaciones del 2.º trimestre de 2025 también fueron récord y sumaron
 US$ 2.447 millones, 15,5% más que las del año 2024
 
-![[Pasted image 20251110142112.png]]
+![[expotaciones ici argentina.png]]
 
 
 ### Argentina: Comercio Internacional de SBC
@@ -38,13 +38,13 @@ US$ 2.447 millones, 15,5% más que las del año 2024
 
 El rubro de servicios profesionales es el que mejor capitalizó esta tendencia, ya que está fuertemente influido por transacciones “intracompany” que pudieron absorber mejor el incremento del costo. En el 2.º semestre de 2025 su crecimiento interanual fue de 17,4 %, mientras que en el mismo período los servicios informáticos crecieron 9,2 %. El rubro de los servicios informáticos es de competencia abierta, y se rige por los precios de mercado, por lo que el traslado a precios de los mayores costos en dólares es más limitado.
 
-![[Pasted image 20251110142155.png]]
+![[empleo ici argentina ramas.png]]
 
 
-![[Pasted image 20251110133615.png]]
+![[exportaciones ici argentina curva anual.png]]
 
 
-![[Pasted image 20251110133603.png]]
+![[salario rama ici argentina.png]]
 Debe considerarse que la masa salarial representa cerca del 70% del costo de
 producción de la mayoría de las industrias del conocimiento. El significativo aumento
 del costo de ventas que produce el incremento de los salarios en dólares fue una de las
@@ -85,7 +85,7 @@ Esta evolución se observa trimestre a trimestre, con variaciones récord que po
 ¿Cuál cree que son las razones que impulsan el crecimiento
 del comercio internacional de EdC? 
 
-![[Pasted image 20251110135304.png]]
+![[areas ici argentina.png]]
 
 La posibilidad de pagar salarios en dólares permite
 frenar la rotación laboral que afectó al sector en los últimos años. Tras la pandemia, la
@@ -101,7 +101,7 @@ demanda global cada vez más sofisticada
 #### Empleo del sector
 
 ##### Puestos de trabajo formales en el sector privado (en miles)
-![[Pasted image 20251110142642.png]]
+![[trabajo registrado ici argentina.png]]
 
 Tomando estas tres categorías del universo de empleo, podemos señalar:
 • Se estima que el empleo total del ecosistema de conocimiento, que

@@ -5,6 +5,25 @@ links::
 links_externos::
 
 
+# Huawei revelará una innovadora tecnología de inteligencia artificial que aumenta la utilización de computadoras al 70%
+16/11/25
+[Pandaily](https://pandaily.com/huawei-to-reveal-breakthrough-ai-technology-that-boosts-compute-utilization-to-70)
+
+En concreto, se informa que la próxima tecnología de Huawei aumentará la tasa de utilización de recursos informáticos como GPU (unidades de procesamiento gráfico) y NPU (unidades de procesamiento neuronal) del típico 30%–40% de la industria a hasta un 70%, liberando significativamente el potencial del hardware de IA existente.
+
+El avance se logra a través de la innovación a nivel de software, lo que permite una gestión unificada de recursos en GPU NVIDIA, procesadores Huawei Ascend y otras unidades informáticas de terceros. Al abstraer las diferencias entre las plataformas de hardware, la tecnología proporciona una base informática más eficiente para el entrenamiento de IA y las cargas de trabajo de inferencia.
+
+# Huawei va a volver. Y no todo el mundo está preparado para lo que viene
+
+14/11/25
+Huawei ha pasado de estar prácticamente muerta tras las sanciones estadounidenses de 2019 a liderar de nuevo su mercado doméstico en 2025 con un 18,1% de cuota.
+Chips Kirin fabricados localmente en 7 nanómetros cuando todo el mundo les daba por muertos tecnológicamente. HarmonyOS como sistema operativo propio cuando Google les cerró la puerta
+Y una ejecución implacable que hizo de cada obstáculo combustible.
+Hay dos cosas retienen a Huawei fuera de China:
+
+Chips. Los chips Kirin actuales, fabricados en 7 nm por SMIC, funcionan pero van dos generaciones por detrás de los Snapdragon o los Apple Silicon de 3 nm. Eso significa menos eficiencia energética, menos potencia bruta. Más importante aún: la capacidad de producción es limitada. SMIC no puede fabricar en volumen como TSMC, al menos no todavía. Huawei puede hacer smartphones 5G competitivos, pero no puede hacer suficientes para saturar mercados globales.
+Software. El otro cuello de botella. HarmonyOS puede presumir de ser el segundo ecosistema móvil en China, superando incluso a iOS en cuota. Pero fuera de China, la ecuación cambia. Sin Google Play Services, sin el catálogo completo de apps occidentales, convencer a un usuario europeo o latinoamericano de que abandone Android es pedirle un acto de fe. Huawei lo sabe, por eso ha invertido mucho dinero durante seis años para construir AppGallery y sus propios servicios. Pero romper la inercia de un duopolio consolidado requiere más que buenas intenciones: requiere masa crítica.
+
 # Huawei Zurich Lab
 
 

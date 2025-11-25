@@ -19,6 +19,18 @@ La nueva MIT Technology Review “50 Smart Companies” incluye empresas chinas,
 ==Los que estan pintados son a revisar, porque parece que son ciudades con desarrollo tecnológico==
 
 
+Energía
+
+Un modelo como GPT-4 puede consumir más de 460.000 megavatios-hora al año, el equivalente al gasto energético de 35.000 hogares estadounidenses, según un estudio. Los centros de datos del mundo —ya colosales— podrían duplicar su consumo eléctrico antes de 2030. Y eso cambia las reglas del juego.
+
+Cuando los chips sobran, pero faltan enchufes. La carrera por la IA comenzó con una fiebre por las GPU. Las grandes tecnológicas se lanzaron a comprar cada chip Nvidia disponible, pero pronto descubrieron algo más preocupante: no había suficientes enchufes para conectarlos. El propio Satya Nadella, CEO de Microsoft, lo dijo sin rodeos: "El mayor problema que tenemos ahora no es el exceso de chips, sino la energía". La demanda eléctrica se ha disparado tanto que Google, Microsoft y Amazon ya contemplan levantar reactores nucleares para mantener encendidos sus servidores. La paradoja resume bien el momento: el liderazgo digital de Occidente tropieza con un límite físico, el de la energía barata. Si el siglo pasado se definió por el petróleo, este lo hará por la corriente.
+
+China ya no vive del petróleo: lo genera. Ha pasado de ser un petroestado dependiente del crudo a convertirse en el primer electroestado del planeta. Más de una cuarta parte de su electricidad procede de renovables y su red crece a una velocidad que ningún otro país puede igualar. Ahora esa soberanía energética alimenta un nuevo frente: la inteligencia artificial.
+
+Las provincias del interior —Guizhou, Gansu, Mongolia Interior— se han convertido en "corazones eléctricos" de la IA. Como ha detallado Bloomberg, estas regiones están conectadas por líneas de ultra-alto voltaje (UHV) que transportan energía renovable desde el interior hacia las zonas costeras donde se concentran las grandes tecnológicas, como Alibaba, Tencent y ByteDance. El objetivo es claro: garantizar energía abundante y de bajo coste para los clústeres de entrenamiento de IA. Según Rystad Energy, el consumo eléctrico de los centros de datos podría más que duplicarse antes de 2030, rozando 1.800 teravatios-hora en 2040. Pekín se prepara para absorberlo.
+
+El poder está en el enchufe. En la carrera por la inteligencia artificial, los chips son el cerebro. Pero el corazón late con electricidad. Estados Unidos conserva el liderazgo tiene los mejores semiconductores (de momento); China, la red que los mantiene encendidos.
+
 
 ---
 #### Referencias

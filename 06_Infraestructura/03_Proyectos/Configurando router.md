@@ -10,7 +10,7 @@ links_externos::
 
 #### Frecuencia de 2,4 GHz
 
-![[Pasted image 20251016072305.png]]
+![[bandas de frecuencia router.png]]
 
 Mi red es Telecentro-fa71 y esta configurada en el canal 9
 

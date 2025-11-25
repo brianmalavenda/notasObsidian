@@ -2,7 +2,7 @@ tipo::
 tags::
 fecha:: 2025-11-10
 links::
-links_externos::
+links_externos:: [krebsonsecurity](https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/)
 
 
 En marzo, un **comité del Congreso estadounidense** pidió abiertamente a los ciudadanos **“deshacerse de los routers chinos”**, y mencionó a **TP-Link por nombre y apellido.** El argumento: los equipos **podrían ser utilizados como puerta de entrada para espionaje o ciberataques.**

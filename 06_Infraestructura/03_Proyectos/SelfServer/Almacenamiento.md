@@ -18,7 +18,7 @@ Paridad de datos. Se suele trabajar con 4 discos donde 1 tiene la paridad, es de
 ## RAID 1+0
 Este RAID anidado es el más utilizado porque ofrece seguridad, tolerancia a fallos y rapidez de lectura. Mezcla los conceptos del RAID 0 y el 1. Tenemos un par de discos en RAID 1-1 que tiene X información duplicada, es decir, en espejo y tenemos otro par de discos, RAID 1-2 donde hay información Y duplicada. Si falla un disco de algunos de los RAID 1 siempre esta el disco espejo para respaldar la información y no perderla. El RAID 0 que agrupa ambos RAID 1 nos permite leer en los dos RAID 1 a la vez.
 
-![[Pasted image 20251031121019.png]]
+![[tipos de raida - raid 10.png]]
 
 
 # Sistema de archivos

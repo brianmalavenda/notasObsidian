@@ -9,7 +9,7 @@ La IA solo puede trabajar con los datos que recibe y puede modelar. La evolució
 
 Esta masa fabulosa de datos pone en crisis la capacidad computacional para procesarlos. Se estima que la capacidad de procesamiento requerida para entrenar modelos de IA crece a un ritmo tal que se duplica cada 3 o 4 meses. El problema es que, bajo el actual paradigma tecnológico, la capacidad real de cómputo (hardware disponible) no crece tan rápido.
 
-![[Pasted image 20251110140625.png]]
+![[cadena de valor ici argentina.png]]
 
 
 los principales usos actuales de la IA, obtuvimos estos resultados: 

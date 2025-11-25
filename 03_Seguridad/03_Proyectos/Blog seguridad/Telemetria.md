@@ -1,4 +1,4 @@
-Tags: #seguridad/ordenador/telemetria 
+ Tags: #seguridad/ordenador/telemetria 
 Links: [Seguridad]
 
 ## Telemetria Windows

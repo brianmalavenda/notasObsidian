@@ -1,4 +1,8 @@
 
+IA Claude para hackeos
+[infosecurity-magazine](https://www.infosecurity-magazine.com/news/chinese-hackers-cyberattacks-ai/)
+
+
 Palabras sensibles
 
 Reemplazar palabras del EJES por contenido "encriptado" que no altere la lectura pero que sí modifique la linealidad de la palabra.

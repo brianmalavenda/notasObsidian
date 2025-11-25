@@ -237,7 +237,7 @@ https://www.youtube.com/watch?v=4LjcjbGUFQw
 
 ## Error: no puedo acceder a la Nube despues de configurar mi proxy manager
 
-![[Pasted image 20251028040652.png]]
+![[NGINX no llega a la app.png]]
 
 Modifique el PASO 1 yendo directamente a la carpeta config dentro de la carpeta de nextcloud y cambie el archivo config.php
 
@@ -428,6 +428,60 @@ To                         Action      From
 8080 (v6)                  ALLOW       Anywhere (v6)
 
 
+# Repasamos 2
+
+configuracion de nextcloud, puedo modificar el volumen directamente desde el servidor ubicado en srv/nextcloud o acceder al contenedor nextcloud-app
+
+el archivo a modificar es conf/config.php
+```php
+'trusted_domains' =>
+  array (
+    0 => '192.168.0.10',
+    1 => '181.46.57.143',
+    2 => 'cloud.sanmartinici.com.ar',
+  ),
+  'overwrite.cli.url' => 'http://cloud.sanmartinici.com.ar:8088', //maneja el redirect al usuario
+  'overwritehost' => 'cloud.sanmartinici.com.ar:8088', //agregamos el puerto para el redireccionamiento
+```
+
+con esta configuración es innecesario aplicar además la configuración en el proxy host
+
+```nginx
+location / {
+    proxy_set_header Host $host:8088;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_set_header X-Forwarded-Host $host:8088;
+    
+    # Para forzar el puerto en las redirecciones
+    proxy_redirect http://$host/ http://$host:8088/;
+    proxy_redirect https://$host/ http://$host:8088/;
+}
+```
+
+Resolver mi dominio sin necesidad de modificar el host archivo en mi pc clinete admin
+
+Usar la IP directamente con Header Host
+
+```bash
+# Desde línea de comandos
+curl -H "Host: cloud.sanmartinici.com.ar" http://192.168.0.10:8088
+```
+
+O usar herramientas como Postman que permiten setear el Header Host
+
+Opción 2: DNS local en el router (RECOMENDADO)
+
+Muchos routers permiten configurar DNS locales:
+
+1. Accede a tu router (192.168.0.1 o similar)    
+2. Busca en **DNS**, **LAN**, o **DHCP**
+3. Añade entrada: `cloud.sanmartinici.com.ar → 192.168.0.10`
+4. **Todos los dispositivos** en tu red lo resolverán automáticamente
+
+>[!NOTA]
+>Probamos esto
 
 ---
 #### Referencias

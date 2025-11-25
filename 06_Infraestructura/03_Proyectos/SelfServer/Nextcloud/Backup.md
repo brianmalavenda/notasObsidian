@@ -1,8 +1,9 @@
-tipo:: #mes
+tipo::
 tags::
-fecha:: 2025-09-08
-links:: 
+fecha:: 2025-11-18
+links::
 links_externos::
+
 
 
 

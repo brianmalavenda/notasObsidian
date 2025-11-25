@@ -5,37 +5,37 @@ links::
 links_externos::
 
 
-![[Pasted image 20251106144807.png]]
+![[distribucion del motherd.png]]
 
 Conectores o pines de un procesador
 
-![[Pasted image 20251106144949.png]]
+![[asingaciones puertos PCIe microprocesador.png]]
 
 Se le llama canales a la division del procesador en dos áreas, la de la derecha que sería lo que antes se llamaba sudbridge que dedicada a almacenamiento y la izquierda el northbridge conectado a memoria RAM, periféricos y gráfica
 
 
 ### PUERTOS PCIe
 
-![[Pasted image 20251106145622.png]]
+![[PCIe asignaciones.png]]
 
 ROM tipo Key B + key M
 
-![[Pasted image 20251106145521.png]]
+![[Memoria SATA PCIe x2.png]]
 
 ROM ACTUALES tipo key M 
 
-![[Pasted image 20251106145557.png]]
+![[NVME PCIe x4.png]]
 
 
 ### Ventilación
 
 Presión neutral o ligeramente positiva
 
-![[Pasted image 20251106155019.png]]
+![[progresion positiva ventilacion.png]]
 
 #### Diseño y tamaño de ventiladores respecto del gabineta
 
-![[Pasted image 20251106155117.png]]
+![[ventilacion gabinete.png]]
 
 
 ---
