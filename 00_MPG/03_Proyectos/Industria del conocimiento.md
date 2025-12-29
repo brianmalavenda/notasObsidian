@@ -1,4 +1,4 @@
-tipo::
+tipo:: #mpg/proyectos 
 tags::
 fecha:: 2025-11-10
 links::
@@ -44,7 +44,7 @@ El rubro de servicios profesionales es el que mejor capitalizó esta tendencia, 
 ![[exportaciones ici argentina curva anual.png]]
 
 
-![[salario rama ici argentina.png]]
+![[salario_argentina_ici.png]]
 Debe considerarse que la masa salarial representa cerca del 70% del costo de
 producción de la mayoría de las industrias del conocimiento. El significativo aumento
 del costo de ventas que produce el incremento de los salarios en dólares fue una de las
@@ -101,7 +101,7 @@ demanda global cada vez más sofisticada
 #### Empleo del sector
 
 ##### Puestos de trabajo formales en el sector privado (en miles)
-![[trabajo registrado ici argentina.png]]
+![[trabajo_registrado_ici.png]]
 
 Tomando estas tres categorías del universo de empleo, podemos señalar:
 • Se estima que el empleo total del ecosistema de conocimiento, que

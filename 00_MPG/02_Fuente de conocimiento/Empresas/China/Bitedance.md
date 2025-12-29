@@ -1,8 +1,23 @@
-tipo::
+tipo:: #mpg/empresas 
 tags::
 fecha:: 2025-09-19
 links::
 links_externos::
+
+
+# TikTok quiere abrir en Brasil su mayor centro de datos del mundo. El único problema son los pueblos indígenas
+12/2025
+
+La llegada del proyecto de TikTok al nordeste brasileño confirma un giro en el mapa de la tecnología mundial: las infraestructuras críticas ya no se concentran solo en Estados Unidos, Europa o Asia, sino que empiezan a expandirse hacia regiones que ofrecen energía renovable abundante y conexión internacional directa.
+TikTok ha decidido instalar un megacentro de datos en el Complejo Industrial y Portuario de Pecém, en el estado de Ceará. La empresa detalló en su nota de prensa que destinará más de 200.000 millones de reales —unos 32.000 millones de euros—, la mayor inversión que ha hecho en América Latina.
+
+De ese monto, 108.000 millones se destinarán exclusivamente a equipos de alta tecnología hasta 2035; el resto financiará infraestructura, sistemas energéticos y ampliaciones futuras. Las operaciones están previstas para 2027, y las autoridades locales estiman la creación de más de 4.000 empleos.
+
+El interés brasileño por atraer centros de datos se apoya tanto en su matriz energética renovable —barata y abundante— como en la conectividad que ofrece Fortaleza, punto de entrada de la mayoría de los cables submarinos que enlazan el país con Estados Unidos, Europa y África.
+
+Un data center alimentado solo por viento. Para la fase inicial, TikTok trabajará con Omnia, operadora local de data centers, y con Casa dos Ventos, una de las mayores desarrolladoras de energía renovable del país. El proyecto se presenta como un ejemplo de infraestructura digital alimentada íntegramente por energía limpia. En lo técnico, la compañía afirma que empleará un circuito cerrado de reuso de agua combinado con enfriamiento por aire para reducir el consumo hídrico. Sin embargo, como ha señalado el Gobierno de Ceará, la refrigeración será 100% basada en aire, y que el uso de agua quedará limitado a actividades humanas y mantenimiento. 
+
+En paralelo, Estados Unidos impulsa iniciativas como el proyecto Stargate para mantener la competitividad en inteligencia artificial, mientras China acelera la expansión de sus empresas tecnológicas en el exterior. TikTok, de origen chino, se inserta así en un delicado equilibrio diplomático que Brasil intenta mantener.
 
 
 # TikTok se vende a EEUU?

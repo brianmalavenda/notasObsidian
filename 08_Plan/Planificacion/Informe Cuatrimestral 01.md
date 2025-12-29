@@ -1,4 +1,4 @@
-tipo:: [[Informes cuatrimestrales]] 
+tipo:: [[02_Informes cuatrimestrales]] 
 tags:: #ia #seguridad #desarrollo_front #desarrollo_back #data #mpg 
 fecha:: 2025-09-03
 links:: 

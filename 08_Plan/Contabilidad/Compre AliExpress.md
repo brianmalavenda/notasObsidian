@@ -5,13 +5,14 @@ links::
 links_externos::
 
 
+# Crónica de compra
+
 Transferí 50.000 a brubank para tener respaldo para pagar impuestos argentinos sumado a los 120 dólares de la cuenta que me cubre el total del monto a pagar en AliExpress. Poniendo como medio de pago la tarjeta no pude hacer la compra. Sume la tarjeta VISA de brubank al wallet de Google Pay e intenté por ahí. Tampoco pude.
 Llame a Banelco para que me autorizaran la compra internacional con esa tarjeta, me dijeron que la solicitud fue creada y podía hacer la compra. **VOLVER A LLAMAR**
 
 Banelco: +5411 - 4320-2500
 
 Cargue 50.000 al banco provincia, con saldo en dólares ahí voy a intentar el pago directamente con la tarjeta del banco provincia.
-
 
 Crear una cuenta en Paypall y en SaldoAR
 
@@ -22,27 +23,38 @@ Hice una vez más la prueba con el celular y finalmente pude comprar. Se me debi
 A las 19 hs la plata ya fue devuelta.
 De los tres productos, uno ya fue puesto en estado "Enviado".
 
+18/12/2025
+Llego el primer producto de los 3. Lo entregaron directamente en el domicilio que puse. Toda la logistica, desde China hasta aca se encargó MailAmericas y localmente una logistica llamada SouthPost.
+Un paquete aún no fue entregado, ya tuvo una entrega fallida. Intente comunicarme con MailAmericas para lograr que me informe si puedo retirarlo personalmente o 
 
+# Seguimiento
 ## 1. 📦 Seguimiento en AliExpress
 
 Lo primero es obtener el código de seguimiento internacional que te proporcionó el vendedor.
 
 - **¿Dónde encontrarlo?**
-    
     1. Ve a **"Mi Cuenta"** en AliExpress.
-        
     2. Haz clic en **"Mis Pedidos"**.
-        
     3. Busca el pedido que acabas de pagar y haz clic en **"Ver Detalle"** o **"Seguimiento"**.
-        
     4. Copia el código de seguimiento que generalmente empieza con dos letras (ej. `RX`, `LM`, `YT`) y termina con `CN`.
-        
 - **Control Inicial:** AliExpress te mostrará el seguimiento mientras el paquete esté en China y en tránsito hacia Argentina. Una vez que dice algo como **"Llegó al país de destino"**, tienes que cambiar la vigilancia a la plataforma local.
-    
+
+El código de ali express no sirve para el seguimiento local de la paquetería a través de Correo argentino. Hay que ingresar a esta página https://global.cainiao.com/newDetail.htm?mailNoList=MLAR048940149EX&otherMailNoList= y allí poner el código de seguimiento.
 
 ---
+## 2. 🚚 Envío a Domicilio y Entrega Final
 
-## 2. 📬 El Control Clave en Argentina: Correo Argentino
+Una vez que Correo Argentino recibe la confirmación de la Aduana (tras la Declaración y el pago), el paquete entra en el circuito de distribución nacional.
+
+- **Seguimiento Final:** Sigue usando el [MailAmericas](https://mailamericas.com/) e ingresa tu código de seguimiento de AliExpress. Verás que el estado cambia de **"En Proceso de Clasificación Aduanera"** a **"En Distribución"** o **"En Correo de Domicilio"**.
+    
+- **Entrega:** El cartero llevará el paquete a tu domicilio. Si no hay nadie, por lo menos se intentara X veces. En caso que no encuentren a nadie ... **(VER)**
+
+
+# Pasos que no tuve que hacer en las compras anteriores
+
+
+## 📬 El Control Clave en Argentina: Correo Argentino
 
 Una vez que el paquete ingresa a Argentina, la responsabilidad y el seguimiento pasan al **Correo Argentino** y a la **AFIP (Aduana)**. Este es el paso más importante.
 
@@ -69,13 +81,6 @@ Deberás usar el **Portal de Envíos Internacionales del Correo Argentino** para
     
 5. **Pagar la Tasa de Correo:** Paga la tasa de gestión obligatoria del Correo Argentino.
 
-## 3. 🚚 Envío a Domicilio y Entrega Final
-
-Una vez que Correo Argentino recibe la confirmación de la Aduana (tras la Declaración y el pago), el paquete entra en el circuito de distribución nacional.
-
-- **Seguimiento Final:** Sigue usando el **sitio de Correo Argentino** e ingresa tu código de seguimiento. Verás que el estado cambia de **"En Proceso de Clasificación Aduanera"** a **"En Distribución"** o **"En Correo de Domicilio"**.
-    
-- **Entrega:** El cartero llevará el paquete a tu domicilio. Si no hay nadie, dejarán un aviso para que retires el paquete en la sucursal de Correo Argentino más cercana.
 
 ---
 #### Referencias

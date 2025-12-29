@@ -1,7 +1,7 @@
-tipo:: [[Seguridad Web]], [[Seguridad Red]]
-tags::
+tipo:: #mpg/empresas
+tags:: 
 fecha:: 2025-11-10
-links:: 
+links:: [[Seguridad Web]], [[Seguridad Red]]
 links_externos::
 
 Yubico, empresa especializada en autenticación basada en hardware, promueve un modelo centrado en su llave física, YubiKey, que es compatible con estándares abiertos como FIDO2/WebAuthn y valida localmente la identidad del usuario mediante criptografía de clave pública. El resultado es una autenticación que no transmite secretos reutilizables y bloquea el acceso incluso cuando las credenciales están comprometidas.

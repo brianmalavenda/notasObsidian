@@ -1,4 +1,4 @@
-tipo::
+tipo:: #mpg/proyectos 
 tags::
 fecha:: 2025-10-23
 links::

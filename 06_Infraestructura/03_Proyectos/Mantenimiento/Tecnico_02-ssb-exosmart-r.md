@@ -1,7 +1,7 @@
-tipo::
-tags:: #tecnico/reparacion
+tipo:: #tecnico/reparacion
+tags:: 
 fecha:: 2025-09-04
-links::
+links:: [[Exo]]
 links_externos::
 
 Problema: NO andan los números impares del teclado  3, 5, 7 y 9

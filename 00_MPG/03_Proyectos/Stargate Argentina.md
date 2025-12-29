@@ -1,3 +1,8 @@
+tipo:: #mpg/proyectos 
+tags::
+fecha:: 2025-12-23
+links::
+links_externos::
 ### La pelea del pueblo argentino contra los monopolios tecnológicos
 
 El inicio del proyecto **Stargate Argentina** fue anunciado en octubre de 2025, con la información de la creación de un centro de datos en el sur del país que significará una inversión de 25.000 millones de dólares por parte de la emrpesa Sur Energy y OpenAI.
@@ -24,3 +29,9 @@ Un antecedente contundente: ALUAR, la planta de aluminio más grande del país, 
 En conectividad, la red de ARSAT y el backbone REFEFO pasan por la zona, lo que permitiría conexiones redundantes. El clima costero fresco y ventoso reduce el uso de sistemas de refrigeración, bajando el PUE (Power Usage Effectiveness), un indicador global que mide la eficiencia energética de los data centers.
 
 El proyecto está estructurado en diferentes etapas y cuenta con socios tecnológicos como Nvidia, Microsoft y Oracle, y aspira a marcar un antes y un después en el mapa digital sudamericano. Estas tecnológicas, son las que estuvieron presentes en el anuncio de Trump de este proyecto que tiene origen en el país donde residen las casas matrices de estas tecnológicas. Por lo tanto, el proyecto stargate es el nombre dado al plan de ocupación del territorio argentino bajo las premisas de la pelea del dominio de un sector estratégico respecto al desarrolló tecnológico productivo que encaran estos grandes capitales estadounidenses contra China. Concebida como una carrera tecnológica por la lógica capitalista, la supremacía tecnológica de estos monopolios significa mayor saqueo y precarización para los pueblos del mundo.
+
+
+
+---
+#### Referencias
+

@@ -76,6 +76,41 @@
         "a": 1,
         "rgb": 5924082
       }
+    },
+    {
+      "query": "#servidor",
+      "color": {
+        "a": 1,
+        "rgb": 9264383
+      }
+    },
+    {
+      "query": "#servidor/red",
+      "color": {
+        "a": 1,
+        "rgb": 6756572
+      }
+    },
+    {
+      "query": "#servidor/web",
+      "color": {
+        "a": 1,
+        "rgb": 12559359
+      }
+    },
+    {
+      "query": "#servidor/config",
+      "color": {
+        "a": 1,
+        "rgb": 12787711
+      }
+    },
+    {
+      "query": "#redes",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
@@ -89,5 +124,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.09213979108920735,
-  "close": true
+  "close": false
 }

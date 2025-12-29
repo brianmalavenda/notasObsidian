@@ -1,4 +1,4 @@
-tipo::
+tipo:: #mpg/empresas 
 tags::
 fecha:: 2025-10-13
 links::

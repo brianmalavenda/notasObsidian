@@ -138,3 +138,53 @@ Ver consumo de recursos por contenedor
 watch -n 2 "docker stats --no-stream"
 ```
 
+
+# Seguridad
+
+## Mejores Prácticas de Seguridad en la Red Virtual (Docker)
+
+Tu principal preocupación es la seguridad de la red virtual. Aquí te muestro las prácticas clave para aislar tus aplicaciones:
+
+### a) **Segmentación Estricta con Redes Personalizadas**
+
+La buena práctica es crear una **red de Docker separada** para cada aplicación o grupo de servicios relacionados.
+
+- **Evita usar la red `bridge` por defecto** para producción.
+    
+- Crea una red para tu _App A_ y otra para _App B_. Esto **aísla el tráfico**; si un contenedor en la red A es comprometido, no puede acceder a los contenedores en la red B por defecto.
+    
+
+> **Ejemplo:** En lugar de una sola red, usa:
+> 
+> - `docker network create app-a-net`
+>     
+> - `docker network create app-b-net`
+>     
+> - Conecta tus contenedores (front-end, back-end, DB) solo a su red de aplicación.
+>     
+
+### b) **Limitar Puertos Expuestos (Publicación)**
+
+Solo debes publicar (`-p` o `ports:` en Docker Compose) los puertos que son **absolutamente necesarios** para el acceso externo.
+
+- **Front-ends:** Solo expón el puerto HTTP/HTTPS (80/443 o similar).
+    
+- **Bases de Datos (DB) y Back-ends:** **Nunca** publiques los puertos de la base de datos (ej. 3306, 5432, 27017) o el back-end a tu red física si solo necesitan comunicarse con el front-end a través de la red virtual de Docker.
+    
+
+### c) **Firewall de Host (OpenMediaVault/OMV)**
+
+Aunque OpenMediaVault usa un firewall, asegúrate de que **solo permita el tráfico** a los puertos que tus contenedores exponen al mundo exterior (ej. el 80 y 443 de tu proxy inverso).
+
+- Bloquea cualquier otro puerto expuesto al exterior que no necesites.
+    
+- Esto actúa como una segunda capa de defensa.
+    
+
+### d) **Principio del Mínimo Privilegio (No Root)**
+
+Asegúrate de que tus contenedores se ejecuten con un **usuario no root** siempre que sea posible.
+
+- Añade la instrucción `USER` a tu Dockerfile (si construyes tus propias imágenes) o especifica la opción `user:` en tu archivo `docker-compose.yml`.
+    
+- Esto mitiga el riesgo de que un atacante, al comprometer un contenedor, obtenga privilegios de root en el sistema operativo de OMV.

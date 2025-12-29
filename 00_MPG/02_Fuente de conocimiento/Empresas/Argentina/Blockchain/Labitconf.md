@@ -1,5 +1,5 @@
-tipo::
-tags::
+tipo:: #mpg/empresas
+tags:: 
 fecha:: 2025-11-10
 links::
 links_externos::

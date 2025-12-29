@@ -19,7 +19,6 @@ links_externos::
 10. Blockchain Federal Argentina (BFA) - https://bfa.ar/
 11. CSIRT‑PBA (Centro de Respuesta ante Incidentes de Ciberseguridad de la Provincia de Buenos Aires)
 
-
 **Santa Fe**
 1. Facultad de Ciencias Exactas, Ingeniería y Agrimensura (Rosario)
 
@@ -29,6 +28,15 @@ links_externos::
 3. UTN Facultad Regional de Neuquén y UTN Neuquén
 4. Universidad Católica de Salta (sede Neuquén)
 5. Universidad Siglo 21.
+
+**Chubut**
+1. Universidad Nacional de la Patagonia San Juan Bosco (UNPSJB)
+
+**Tierra del fuego**
+1. Universidad Tecnológica Nacional (UTN) - Facultad Regional Tierra del Fuego (Río Grande)
+2. Universidad Nacional de Tierra del Fuego (UNTDF)
+3. Centro Austral de Investigaciones Científicas (CADIC-CONICET)
+4. Centro Tecnológico de Tierra del Fuego (CENTEC-TDF)
 
 **Referentes de la ciencia informática de Argentina**
 

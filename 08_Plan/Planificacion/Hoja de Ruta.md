@@ -11,13 +11,6 @@ Dominios - 17.000 dos (famosos50.com.ar y sanmartinici.com.ar)
 Alquiler del servidor - $ 75.000
 Desgaste de la computadora $91.800 - $ (6 x $15.300)
 
-
-## Formación
-
-### Observatorio
-
-Esto esta cruzado con los equipos del 72M pero aca toma la especificidad de la MPG de telecomunicaciones. Tenemos 14 portales de mundo + 4 de argentina + 4 cámaras empresariales + 17 institutos de investigación tanto educativos como gubernamentales. Es decir, en total son 39 (40) portales a seguir diariamente. No es un trabajo que lleve mucho tiempo porque no se sube informacion todos los días, hay que detaller bien si hay regularidad para algunos. Quizas haya informes que se saquen cada cierto tiempo, hay que armar el calendario. Esto vamos a hacer la seleccion de notas en los 
-
 ## Configuración de servidor
 
 En esto puede trabajar un compañero con el que vamos a armar equipos tanto de computadora como de conexión de internet y administrar las redes y seguridad de los servidores.

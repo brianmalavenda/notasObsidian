@@ -5,6 +5,14 @@ fecha:: 2025-09-01
 links:: [[Salesforce]]
 links_externos::
 
+# Google Discover
+https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment
+
+El equipo de Chrome en Google creó recientemente un nuevo navegador. Toma una consulta o un mensaje, abre un montón de pestañas relacionadas para usted y luego le crea una aplicación personalizada para lo que esté intentando hacer. Pídele consejos de viaje y te creará una aplicación de planificación; pídele ayuda para estudiar y te creará un sistema de tarjetas didácticas. Es una mezcla de búsqueda en Google y codificación de vibraciones. El concepto se llama GenTabs y el navegador se llama Disco (evidentemente, tanto por razones divertidas como porque es la abreviatura de “descubrimiento”). Google lanza hoy ambos como experimentos en Google Labs, para ver si podrían tener un lugar en el futuro de la web.
+
+Antes de ir demasiado lejos: No, esto no es un intento interno de canibalizar Chrome. Comenzó como un proyecto de hackathon dentro de Google y parece haber captado la imaginación del equipo. “No pienso en Disco como un navegador de uso general”, dice Parisa Tabriz, quien dirige el equipo de Chrome en Google. Ciertamente puede abrir e interactuar con sitios web, pero su verdadero trabajo es ver qué sucede cuando “las personas pasan de simplemente tener pestañas a crear esta aplicación muy personalizada y seleccionada que les ayuda a hacer lo que necesitan, en este momento”
+
+GenTabs resulta ser un término poco interesante pero razonablemente descriptivo: son páginas ricas en información generadas por los modelos Gemini AI de Google. Una de las características clave del recientemente lanzó Gemini 3 es su capacidad de crear interfaces interactivas únicas, esencialmente creando aplicaciones en miniatura sobre la marcha en lugar de simplemente devolver un montón de texto o una imagen. GenTabs toma esa idea y la convierte en la característica principal de su navegador web.
 
 # # Chrome está a punto de recibir su mayor actualización y Gemini será su protagonista. El objetivo es ser el navegador IA definitivo
 9/09/2025

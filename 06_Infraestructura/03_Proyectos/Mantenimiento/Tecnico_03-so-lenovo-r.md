@@ -1,9 +1,20 @@
-tipo::
-tags:: #tecnico/reparacion 
+tipo:: #tecnico/reparacion 
+tags:: 
 fecha:: 2025-09-22
-links::
+links:: [[Lenovo]]
 links_externos::
-observacion:: Cambiar RAM, tiene 2gb  y la queríamos extender a 8 GB pero la tiene soldada a la placa.
+
+---
+nombre::seba
+dispositivo::lenovo
+sistema::windows
+ram::2gb
+rom::256gb
+- [ ] nueva
+diagnostico:: el sistema operativo tarda mucho en iniciar
+que_hacer::cambiar RAM, tiene 2gb  y la queremos extender a 8 GB
+- [ ] reparada
+
 
 Acciones: vamos a cambiarle el sistema operativo por un ubuntu 22.04 (linux). Tenemos que instalar el programa Open Office, Acrobar Reader, Brave, VPN?
 Vamos a cambiarle los DNS que utiliza por los de alibaba - Baidú tiene? vamos a probar esos?

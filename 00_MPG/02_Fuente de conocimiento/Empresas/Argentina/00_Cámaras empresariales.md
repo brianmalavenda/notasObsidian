@@ -1,7 +1,7 @@
-tipo::
+tipo:: #mpg 
 tags::
 fecha:: 2025-11-01
-links::
+links:: [[CABASE]]
 links_externos::
 
 
