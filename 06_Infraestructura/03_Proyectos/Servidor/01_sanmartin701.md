@@ -188,18 +188,16 @@ Un LXC con **Nginx Proxy Manager** o **Traefik**.
 **Función:** Recibir el tráfico web (puertos 80/443), gestionar certificados SSL (Let's Encrypt) y derivar a `nube.tuempresa.com` o `cine.tuempresa.com`.
     
 - **Ancho de banda de subida:** Para Nextcloud y Jellyfin, tu velocidad de subida a internet será el cuello de botella. Para 200 usuarios, necesitarías idealmente una conexión simétrica de fibra óptica (mínimo 300-500 Mbps).
-    
-
----
 
 ## Backups
 
  Usa la herramienta de backup de Proxmox programada. Haz backup de las configuraciones de las VMs/LXC y, **críticamente**, de los **datos de aplicación** (base de datos de Nextcloud/WordPress, configuraciones, etc.). El almacenamiento masivo (16TB) debe tener su propia estrategia de backup (ej: `rsync` a otro NAS externo).
-    
+Revisar la herramienta  Rclone + scripts personalizados.
 
 ## Monitorización
 
 Instalar algo simple como **Uptime Kuma** en un LXC para recibir alertas si un servicio se cae. En el host, usa `htop`, `glances` o `netdata`.
+Grafana + Prometheus + Node Exporter + Uptime Kuma.
 
 ## Performance
 
@@ -210,8 +208,33 @@ Simular 50-100 conexiones concurrentes a Nextcloud y streams de transcodificaci�
 Cada paso, cada IP, cada contraseña (en un gestor seguro), cada configuración especial. Te salvará en un desastre.
    
 
+## Arquitectura
 
+### Gateway
 
+- **Mini PC:** de bajo consumo con 2-4 puertos NIC. 
+- **Software:** **OPNsense** o **pfSense** (yo prefiero OPNsense por su interfaz más moderna).
+    - **Firewall Stateful:** Control granular de qué IP/ puertos pueden hablar con qué.
+    - **IDS/IPS (Suricata):** Detecta y bloquea intrusiones en tiempo real.        
+    - **DNS Caching + Bloqueador (Unbound + bloqueo de dominios):** Puede hacer el 80% del trabajo del Pi-hole, descargándolo. El Pi-hole queda para ajustes finos y estadísticas.
+    - **VPN Server (WireGuard/OpenVPN):** **Aquí es donde debe correr tu servidor VPN de entrada.** Es más seguro y eficiente. La Pi solo sería cliente si necesitas una VPN saliente.
+
+#### Monitoreo
+
+1. **Raspberry - Pi-hole Primario/ Secundario:**
+    - Configúrala como **DNS recursivo local** (usando `unbound`) que consulta a los root servers, o como resolutor que apunta al DNS de OPNsense.
+    - Su interfaz web es excelente para ver estadísticas de bloqueo y gestionar listas.
+        
+2. **Servidor de Monitoreo Ligero:**
+    - Instala **Uptime Kuma** para monitorear tus servicios internos.
+    - Puede correr un agente de **Prometheus Node Exporter**.
+        
+3. **Controlador de Red:**
+    - **Home Assistant** si tienes IoT.
+    - Servidor **NetData** para dashboards rápidos.
+        
+4. **Cliente VPN (Opcional):**
+    - Si quieres que TODO el tráfico de tu red salga por una VPN comercial (ej., para descargas), puedes poner el cliente VPN aquí.
 
 ---
 #### Referencias
