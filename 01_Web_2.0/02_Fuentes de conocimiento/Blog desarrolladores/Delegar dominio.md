@@ -1,6 +1,6 @@
 tipo:: #web
 tags:: #dominio/delegar_dominio #dns #blog_desarrolladores
-links:: [[Registrar dominio]]
+links:: [[01_Web_2.0/02_Fuentes de conocimiento/Blog desarrolladores/Registrar dominio]]
 links_externos::  [nic.ar](https://nic.ar)
 
 | ¿Qué necesitás para hacer trámites de dominios?                                                                                                                                                                                                                          |

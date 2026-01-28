@@ -1,6 +1,6 @@
 tipo:: #web
 tags:: #hosting #hosting_tipos #blog_desarrolladores
-links:: [[Conexión con hosting a través de SSH]] [[Delegar dominio]] [[Registrar dominio]] 
+links:: [[Conexión con hosting a través de SSH]] [[Delegar dominio]] [[01_Web_2.0/Registrar dominio]] 
 links_externos::
 # INDICE
 

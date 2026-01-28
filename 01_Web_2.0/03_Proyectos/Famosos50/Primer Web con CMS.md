@@ -38,8 +38,8 @@ Además incorporamos un [[Newsletter]] para que los usuarios que quieran recibir
 
 Desde la mirada de las funcionalidades del cliente hacia el usuario practicamente habíamos terminado con estas caracteristicas. Dentro de la administración propia del sitio, agregamos la posibilidad de [[Crear backups del sitio]].
 
-Luego tocaba disponibilizarlos en internet para que se vuelva accesible. Para eso hubo que [[Registrar dominio]] y luego [[Delegar dominio]] para que ese dominio del cliente apuntase a los DNS del servidor donde alojamos el sitio.
-mantenerlo seguro a ataques con reglas de seguridad en [[01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Cloudflare]], además de configurar una CDN para servir archivos estáticos más rápido. 
+Luego tocaba disponibilizarlos en internet para que se vuelva accesible. Para eso hubo que [[01_Web_2.0/Registrar dominio]] y luego [[Delegar dominio]] para que ese dominio del cliente apuntase a los DNS del servidor donde alojamos el sitio.
+mantenerlo seguro a ataques con reglas de seguridad en [[Cloudflare]], además de configurar una CDN para servir archivos estáticos más rápido. 
 
 ```
 ```
