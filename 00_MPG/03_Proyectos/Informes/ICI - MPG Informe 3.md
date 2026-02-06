@@ -29,6 +29,16 @@ A ello se agregarían millones de **direcciones de correo electrónico** recopil
 
 ## Palantir
 
+https://www.youtube.com/watch?v=XIcBW3N48Wg
+
+Fundada en 2003 con apoyo de la CIA, Palantir se ha convertido en una de las empresas tecnológicas más valiosas, alcanzando una capitalización de mercado de 491,000 millones de dólares. Entre sus creadores destacan **Peter Thiel** (cofundador de PayPal) y **Alex Karp**, su actual director ejecutivo
+
+**Principales Controversias**
+Inmigración en EE. UU. (ICE): Su software ayuda a rastrear y deportar inmigrantes mediante el procesamiento de datos biométricos, matrículas y registros fronterizos en tiempo real
+
+Conflictos Bélicos: La empresa tiene contratos millonarios en defensa. Se menciona su uso estratégico por parte del Ministerio de Defensa de Israel, donde supuestamente ayuda a generar listas de objetivos en Gaza mediante inteligencia artificial
+
+Privacidad y Derechos Civiles: Críticos y manifestantes acusan a la empresa de facilitar el rastreo masivo y ser indirectamente responsable de la muerte de civiles en conflictos
 
 
 ---
