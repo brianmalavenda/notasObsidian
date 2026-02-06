@@ -55,21 +55,21 @@ Al presupuesto tenemos que tener en cuenta herramientas para la instalación y m
 
 Placa madre con chipset X99 Huananzhi  - AliExpress
 Procesador Intel Xeon E5 V4 - AliExpress
-Memoria RAM 16 GB x4 - AliExpress // este combo son US$ 322
-Disco SSD tipo NVME 1 TB x2 - AliExpress US$ 115X2
+Memoria RAM 16 GB x4 - AliExpress // este combo son US$ 322 + 123
+Disco SSD tipo NVME 1 TB x2 - AliExpress US$ 115X2 + 49
 Tarjeta gráfica NVIDIA TESLA P4 - eBay - US$ 66 - OK
 Fuente Thermatake 600 W - Amazon - US$ 66 - OK
 Disipador tarjeta gráfica TESLA - eBay - US$ 22 - OK 
-Disipador - AliExpress - US$ 32 - 
-WAVLInk 2,5g - US$ 25
+Disipador - AliExpress - US$ 32 + 7
+WAVLInk 2,5g - US$ 25 + 16
 DISCOS HDD 6 TB x3 - Amazon US$ 130 x2 - OK
 Módulo RJ45 SFP 10 Gbit - AliExpress US$ 10 - OK
 Keeplink Conmutador - AliExpress US$ 35 - OK
 Cable Ethernet Cat6 Gigabit - AliExpress US$ 25 - OK
 
-TOTAL = US$ 1071
+TOTAL = US$ 1093
 
-TOTAL impuestos + costo de envío acumulado = US$ 121 + 49 + 8 + 13 + 74 + 61 = 526
+TOTAL impuestos + costo de envío acumulado = US$ 123 + 49 + 7 + 
 TOTAL = US$ 1597 ($ 2.355.575) actualmente
 
 #### Nacionales
