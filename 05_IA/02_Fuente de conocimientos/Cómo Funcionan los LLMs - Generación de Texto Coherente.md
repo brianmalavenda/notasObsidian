@@ -6,6 +6,48 @@ links_externos::
 
 Vamos a tratar de entender cómo funcionan los algoritmos de inteligencia artificial de LLM basados en la generación de texto coherente, donde si coloco como prompt de entrada "El perro", el algoritmo selecciona "ladra" como la palabra más coherente para continuar la oración.
 
+
+data: todo el conocimiento de la humanidad - corpus - 
+multimodales incorporan imagenes y video al corpus
+
+data - abecedario - "diccionario" - todas las palabras posibles y la semántica entre ellas. Esto es para entrenar al modelo, todavía no son tokens
+
+tokenización es despues del entrenamiento, es la jerarquización de esos conjuntos de palabras o "tokens"
+cada token tiene su concepto, una dimension
+perro por ejemplo, animal, mamifero
+
+perro puede ser un solo token, tambien por ejemplo satisfaccion pueden ser 4 tokens
+sat - is - f - accion
+
+embedins: cercanía conceptual (estadisticas) entre un token y otro
+
+vectores multidimensionales : por ejemplo papa (relaciona tokens, que son coordenadas, entre por ejemplo progenitor, hombre - hombre esta dentro de genero)
+
+cada core hace el calculo de una de las dimensioens del nucleo. La eficiencia de un LLM, como se calcula. Cuantos cores necesito con procesamiento paralelo donde el equilibrio entre energia y procesamiento, latencia etc sean optimos?.
+
+**paper: attention is all you need**
+
+multilayer perfecptron
+red neuronal de 
+neurona: matriz  de pesos, de donde sale .. de machine learning
+...
+tengo tres coordenadas que son tokens, necesito averiguar cual es la funcion que los une. Eso se logra con un perceptron (un tipo de red neuronal) multicapa
+y = mx + b
+m=pendiente
+
+neurona ejemplo
+inputs => pesos aleatorios
+X= (1,1) => W0 = 2                                                                          0.5
+Y= (2,2) => W1 = 0  ---> FUNCION DE PERDIDA (va entre 0 y 1)   0.3  => acuracy = 1,7
+Z= (3,1) => W2 = 1                                                                          0.9
+
+1) se multiplican los pesos por los valores de entrada
+2) se le aplica a los resultados la funcion SIGMOIDE = 1 / (1 + e^(-x))
+3) se suman los resultaods que son todos entre 0 y 1. El resultado es el valor de la pendiente
+4) calculo del accurancy = 1,7 (ponele que sea 10%) - no sirve, tenemos que aplicar otra capa de entrenamiento (vuelta) backpropagatiton
+5) esos pesos los guardo en una matriz de pesos. Esos pesos a su vez son lso "parametros" del modelo.
+
+
 ## Dataset y Divisiones
 
 ### Corpus
