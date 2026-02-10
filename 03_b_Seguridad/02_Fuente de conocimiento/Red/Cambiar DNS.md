@@ -1,7 +1,7 @@
 tipo:: [[Seguridad Red]]
 tags:: #seguridad/red #dns 
 fecha:: 2025-09-06
-links:: [[01_Web/02_Fuentes de conocimiento/Blog desarrolladores/Cloudflare]] [[Alibaba DNS]] 
+links:: [[Cloudflare]] [[Alibaba DNS]] 
 links_externos::
 
 Nuestro proveedor de servicio de internet tiene un servidor de nombres configurado en el router. El servidor de nombres es una agenda telefónica en donde hace la relación entre el nombre de la página a la que queremos visitar y su número de identificación en la red (IP del servidor donde esta alojada la página, un número de esta forma 192.168.1.1). Es decir, el proveedor de internet tiene todas las paginas que visitamos en su servidor de nombres. Esto se usa para relacionar gustos, temas de interés y demás información que se puede obtener a través del comportamiento de navegación por la web. Solo sabiendo que páginas y con que frecuencia las visita.
