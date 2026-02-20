@@ -4,7 +4,13 @@ fecha:: 2025-09-19
 links::
 links_externos::
 
+# CapCut de ByteDance lanza el modelo de imagen de vista previa Seedream 5.0 con capacidad de búsqueda web en tiempo real
 
+A medida que continúa el impulso en torno a Seedance 2.0 de ByteDance, la compañía ha implementado otra importante actualización de inteligencia artificial.
+
+El 10 de febrero, CapCut —la plataforma de edición de video de ByteDance— anunció el lanzamiento de su modelo de generación de imágenes de próxima generación, Seedream 5.0-Preview, poco más de dos meses después del lanzamiento de Seedream 4.5.
+
+Al igual que Seedance 2.0, Seedream 5.0 está disponible a través de la plataforma de creación de IA Dreamina de ByteDance. También se ha integrado en CapCut, su versión internacional CapCut Global y la plataforma creativa de inteligencia artificial Xiaoyunque de ByteDance. El modelo se encuentra actualmente en pruebas beta limitadas en Dreamina, con generación de imágenes disponible de forma gratuita durante un período promocional. Todos los usuarios pueden acceder al modelo hasta 20 veces al día sin coste alguno.
 # TikTok quiere abrir en Brasil su mayor centro de datos del mundo. El único problema son los pueblos indígenas
 12/2025
 

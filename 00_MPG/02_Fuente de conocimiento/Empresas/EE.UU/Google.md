@@ -5,6 +5,12 @@ fecha:: 2025-09-01
 links:: [[Salesforce]]
 links_externos::
 
+
+# Google es la gran tecnológica a la que mejor le está yendo gracias a la IA: así que va a gastarse otra millonada
+
+Alphabet planea gastar entre 175 y 185.000 millones de dólares, duplicando el capex de 2025, que fue de 91.400 millones, y que casi cuadruplica el gasto de 2024 (52.500 millones). Por ponerlo en contexto, es más que el PIB de Marruecos, Kuwait, Bulgaria y hasta 158 países. 
+
+Al mismo tiempo, la compañía anunció resultados récord, superando por primera vez los 400.000 millones en ingresos. Cuentan en Fortune que Pichai aseguró que el gasto capital de este año es "una mirada al futuro" y justificó su estrategia resaltando que la demanda de sus servicios de cloud y DeepMind (Gemini) es extraordinaria, por lo que la inversión también debe serlo. También anunció que las búsquedas con IA ya superan a las búsquedas tradicionales y que el negocio de Google Search ha crecido un 17% con respecto al año pasado. Además, la cartera de pedidos para su nube ha aumentado un 55% durante el último trimestre.
 # Google Discover
 https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment
 
