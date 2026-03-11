@@ -12,6 +12,14 @@ Los medios occidentales los sigo por NewsBlur desde el cliente feed RSS incluido
 Nota: https://rss.feedspot.com // tiene una gran base de datos de feed RSS de diversos temas
 ```
 
+
+
+# Nuevas fuente a ver
+
+anandtech
+test powerup
+tier list hay una lista hecha por linus tech tips
+
 ## Argentina
 
  - [ ] Inteligencia Argentina
