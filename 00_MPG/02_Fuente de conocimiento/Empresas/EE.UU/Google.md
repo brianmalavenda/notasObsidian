@@ -6,7 +6,7 @@ links:: [[Salesforce]]
 links_externos::
 
 
-# Google es la gran tecnológica a la que mejor le está yendo gracias a la IA: así que va a gastarse otra millonada
+#  Google es la gran tecnológica a la que mejor le está yendo gracias a la IA: así que va a gastarse otra millonada
 
 Alphabet planea gastar entre 175 y 185.000 millones de dólares, duplicando el capex de 2025, que fue de 91.400 millones, y que casi cuadruplica el gasto de 2024 (52.500 millones). Por ponerlo en contexto, es más que el PIB de Marruecos, Kuwait, Bulgaria y hasta 158 países. 
 
