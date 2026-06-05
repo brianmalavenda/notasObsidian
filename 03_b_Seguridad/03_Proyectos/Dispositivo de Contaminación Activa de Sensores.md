@@ -30,9 +30,9 @@ Para engañar al acelerómetro y el giróscopio lo que haremos es "meter ruido" 
 
 **PRESUPUESTO TOTAL = $ 42.800**
 
-![[Pasted image 20260109133300.png]]
+![[disp_contaminador_de_señales.png]]
 
-![[Pasted image 20260109144545.png]]
+![[disp_contaminador_de_señales_1.png]]
 
 Construir una funda de faraday con aluminio.  Con aluminio comprobamos que con tres capas, sin cinta (si queremos usar cinta debe ser cinta conductiva) verificamos que corta la señal del dispositivo. Para probarlo pusimos un video youtube, reproducimos hasta que en un momento no pudo descargar más datos y perdió la señal (se muteo). Esto nos asegura de que esta andando. Esta prueba se hace siempre antes de usarla. Una vez verificado esto se pone la configuración de software en modo avión o apagado y se lo pone en la funda.
 

@@ -1,7 +1,7 @@
 tipo:: 
 tags::
 fecha:: 2025-12-23
-links:: [[Nextcloud]]
+links:: [[06_Infraestructura/03_Proyectos/Servidor/Nextcloud/Nextcloud]]
 links_externos::
 
 

@@ -6,6 +6,15 @@ links:: [[Salesforce]]
 links_externos::
 
 
+# Las respuestas de Google generadas con IA fallan 1 de cada 10 veces
+10/04/2026
+Evaluar nuevos modelos de IA a veces se asemeja más a un arte que a una ciencia, lo cual forma parte del problema. Cada empresa tiene su propia manera de demostrar las capacidades de un modelo, y la naturaleza no determinista de la IA generativa dificulta la verificación. Estos robots pueden responder correctamente a una pregunta objetiva y luego fallar por completo si se repite la consulta inmediatamente. 
+El Times realizó este análisis con la ayuda de una startup llamada Oumi, que se dedica al desarrollo de modelos de IA. Publicada por OpenAI en 2024, SimpleQA es esencialmente una lista de más de 4000 preguntas con respuestas verificables que se pueden introducir en una IA.
+
+La respuesta de Google a este informe es reveladora. En el ámbito de la veracidad de la IA, un 9 sobre 10 no es tan malo. Google ha publicado recientemente pruebas de referencia para los nuevos modelos, con mediciones de veracidad que oscilan entre el 60 y el 80%; estas pruebas se realizan sin herramientas como la búsqueda web. 
+ Oumi comenzó a realizar sus pruebas el año pasado, cuando Gemini 2.5 aún era el mejor modelo de la compañía. En ese momento, la prueba de rendimiento arrojó una tasa de precisión del 85%. Tras la actualización de Gemini 3, al repetirse la prueba, AI Overviews respondió correctamente al 91% de las preguntas. Si extrapolamos esta tasa de errores a todas las búsquedas de Google, AI Overviews genera decenas de millones de respuestas incorrectas al día. Pero en las búsqueda no siempre utiliza el modelo más avanzado sino otros modelos más ágiles pero a la vez más propenso a fallos. 
+
+
 #  Google es la gran tecnológica a la que mejor le está yendo gracias a la IA: así que va a gastarse otra millonada
 
 Alphabet planea gastar entre 175 y 185.000 millones de dólares, duplicando el capex de 2025, que fue de 91.400 millones, y que casi cuadruplica el gasto de 2024 (52.500 millones). Por ponerlo en contexto, es más que el PIB de Marruecos, Kuwait, Bulgaria y hasta 158 países. 

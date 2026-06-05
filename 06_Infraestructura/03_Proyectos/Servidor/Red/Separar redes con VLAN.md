@@ -26,9 +26,20 @@ https://www.youtube.com/watch?v=eisRlH114w8
 
 ## 🔧 **Configuración del Switch TP-Link SG2210MP**
 
-### **Paso 1: Crear VLANs para Aislamiento**
+### **Paso 1: ¿Como crear una VLAN?**
 
-bash
+#### Opción A: A nivel de Switch (Access Port)
+
+Configuras el puerto físico del **Switch Keeplink** donde está enchufado el `SERV700` como un **Puerto de Acceso en la VLAN 10**.
+
+- **Resultado:** Todo lo que salga de ese cable, el switch le pone un "sticker" que dice "VLAN 10" y lo manda al router. Es sencillo, pero te limita a una sola VLAN por cable.
+
+#### Opción B: Proxmox VLAN Aware (Trunk Port)
+
+Esta es la que usamos en servidores profesionales.
+1. En Proxmox, marcas la casilla **"VLAN Aware"** en el bridge `vmbr0`.
+2. En el **Switch Keeplink**, configuras ese puerto como **TRUNK**.
+3. En la configuración de red de Proxmox, creas una interfaz específica para el host (el hipervisor) que use el tag 10.
 
 # En el switch (via Web UI):
 VLAN 10: RED LOCAL (Tu casa principal)
@@ -116,83 +127,6 @@ bash
 
 ---
 
-## 📊 **Gestión de Ancho de Banda**
-
-### **Quality of Service (QoS) en el Switch:**
-
-bash
-
-# Límites por casa (ejemplo para 100Mbps total):
-Casa 1: 20Mbps down / 5Mbps up
-Casa 2: 20Mbps down / 5Mbps up  
-Casa 3: 20Mbps down / 5Mbps up
-Casa 4: 20Mbps down / 5Mbps up
-Tu casa: 20Mbps down / 5Mbps up (prioridad alta)
-Guest: 10Mbps down / 2Mbps up (prioridad baja)
-
----
-
-## 🔌 **Configuración del Puerto SFP**
-
-### **Para Extensión de Red:**
-
-bash
-
-# Opción 1: Fibra Óptica
-- Conectar a otro switch en ubicación remota
-- Ideal para distancias >100 metros
-
-# Opción 2: Conversor SFP a Ethernet
-- Extender red por cable ethernet largo
-- Hasta 2km con fibra
-
-# Opción 3: Radio Enlace
-- SFP → Conversor → Radio Ubiquiti
-- Para conexión inalámbrica de largo alcance
-
----
-
-## 🏗️ **Ejemplo de Implementación**
-
-### **Topología Física:**
-
-text
-
-[INTERNET FIBRA]
-     |
-[ROUTER SAGEMCOM] 
-     |
-[SWITCH TP-LINK SG2210MP]
-     |      |      |      |      |
-    [AP]   [AP]   [AP]   [AP]   [TU CASA]
-   Casa1  Casa2  Casa3  Casa4   (VLAN 10)
-
-### **Configuración IP:**
-
-bash
-
-# Router Principal (Sagemcom):
-IP: 192.168.1.1
-DHCP: Desactivado (el switch manejará DHCP)
-
-# Switch TP-Link (Router principal ahora):
-IP: 192.168.1.2
-Gateway: 192.168.1.1
-DNS: 8.8.8.8, 1.1.1.1
-
-# Cada VLAN tendrá su propio DHCP
-
----
-
-## ⚠️ **Consideraciones Legales/Técnicas**
-
-1. **Verifica contrato ISP**: Algunos prohíben compartir conexión
-    
-2. **Ancho de banda**: Calcula 5-10Mbps por casa para uso normal
-    
-3. **SLA**: Define expectativas de servicio con tus vecinos
-    
-4. **Backup**: Considera internet de respaldo si es crítico
 
 ---
 #### Referencias

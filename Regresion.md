@@ -88,7 +88,7 @@ plt.ylabel('Residuos')
 
 Comenzando con el modelo sobre el dataset de pacientes diabéticos, verificamos si cumple las condiciones para el posterior tratamiento.
 
-![[Pasted image 20260205091511.png]]
+![[LLM_2.png]]
 
 #### ¿Qué es `model.score()`? ¿Es "accuracy"?
 
@@ -119,7 +119,7 @@ print(f"Intervalo de confianza (95%): [{cv_scores.mean() - 2*cv_scores.std():.3f
 
 ```
 
-![[Pasted image 20260205081024.png]]
+![[LLM_1.png]]
 
 **¿Por qué ±2×std = 95% de confianza?**
 Esto viene de la **regla empírica** (o regla del 68-95-99.7) de la distribución normal:
@@ -139,7 +139,7 @@ El factor z es mi cv_scores.std() => *cv_scores.std() x 2,576 == 99% de confianz
 
 Subajuste y sobreajuste Son problemas comunes que degradan la calidad del modelo, ya que éste no encaja lo suficientemente bien o encaja demasiado bien. Esto hace que el modelo haga predicciones demasiado alineadas o demasiado vagamente alineadas con sus datos de entrenamiento. Un modelo de sobreajuste predice demasiado bien los datos de entrenamiento porque ha aprendido demasiado bien los detalles y el ruido de los datos. 
 
-![[Pasted image 20260204054306.png]]
+![[LLM_0.png]]
 
 ## Predicción
 

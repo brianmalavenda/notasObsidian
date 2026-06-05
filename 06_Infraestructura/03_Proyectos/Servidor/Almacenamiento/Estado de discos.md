@@ -7,19 +7,19 @@ Victoria
 
 Descargamos y abrimos esta herramienta que de un primer pantallazo te da la información de salud de la unidad de almacenamiento. En este caso analisamos un disco HDD de Western Data NAS rojo.
 
-![[Pasted image 20260317141512.png]]
+![[Analisis_disco_crystaldiskinfo_0.png]]
 
 Como se ve en la imagen podemos comprobar que el disco es nuevo, tiene 1 vez de encendido. El estado es Bueno que quiere decir lo más optimo en términos de salud que categoriza esta herramienta, por lo tanto con esta primera impresión pasamos a la segunda revisión.
 ### Victoria
 
 Con esta herramienta vamos a probar primer con un Full Scan en modo Lectura, si tenemos unidades lógicas LBA dañadas. Cuando se hace un escaneo de la unidad, verificar los recuadros de colores segun el tipo de unidad
 
-![[Pasted image 20260317133235.png]]
+![[Analisis_disco_victoria_0.png]]
 
 
 ### Análisis
 
-![[Pasted image 20260319105928.png]]
+![[Analisis_disco_victoria_1.png]]
 
 **Grafica**
 
@@ -38,7 +38,8 @@ La caída gradual que empieza cerca de **213 MB/s** y termina alrededor de **91 
 
 ### CristalDiskInfo
 
-![[Pasted image 20260319111952.png]]
+![[Analisis_disco_crystaldiskinfo_1.png]]
 
 ### Victoria
 
+![[Analisis_disco_victoria_2.png]]

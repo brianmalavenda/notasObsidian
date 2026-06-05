@@ -4,6 +4,32 @@ fecha:: 2025-10-09
 links:: [[OpenAI]], [[SoftBank]], [[Oracle]], [[MGX]], [[AMD]], [[Nvidia]], [[Microsoft]]
 links_externos::
 
+
+## Centros de datos
+21/4/2026
+Muchas empresas tecnológicas incluso están instalando sus propias centrales eléctricas en el lugar, con una gran dependencia de turbinas de gas natural. Un análisis de la Plataforma de inteligencia de mercado Cleanview Destacó a los desarrolladores de centros de datos que utilizan generadores de gas móviles en semirremolques y motores de turbina diseñados originalmente para aeronaves y buques de guerra.
+
+También hay creciente resistencia desde comunidades de todo Estados Unidos hasta centros de datos. Por ejemplo, Virginia, conocida como “la capital mundial de los centros de datos”, ha visto opinión pública volverse bruscamente contra el desarrollo de nuevos centros de datos. En una encuesta reciente, la mayoría de los virginianos describieron preocupaciones sobre el uso del suelo del centro de datos y los impactos ambientales, junto con preocupaciones sobre el impacto negativo en facturas de electricidad del hogar. Ahora lo ha sido bien documentado que el desarrollo de centros de datos puede presionar a las empresas de servicios públicos para que aumentar las facturas de electricidad para todos los clientes locales y regionales.
+
+# Si hay una burbuja IA, también la hay de centros de datos: la mitad de los proyectados para 2026 en EEUU ya están en riesgo
+10/04/2026
+Estados Unidos (como Europa, China y los gigantes de Oriente Medio) están en plena carrera inmobiliaria: la de los centros de datos. Nadie quiere quedarse atrás en la carrera de la IA y, para eso, necesitan gigantescos recintos en los que entrenarla. El gran problema es que esas instalaciones consumen una burrada de energía, y ahí China parece llevar la voz cantante frente a una Estados Unidos que no tiene la mejor cara. De hecho, se estima que la mitad de sus centros de datos previstos para 2026 se retrasarán no cancelarán.
+Meta, Amazon, Microsoft y Google se van a fundir más de 650.000 millones de dólares este año para construir infraestructura de inteligencia artificial. Para ponerlo en contexto, es más de lo que costó el programa Apolo que nos llevó a la Luna por primera vez o a la gran expansión ferroviaria del siglo XIX.
+Se pretende que la IA nos ayude a optimizar nuestro consumo eléctrico para la década del 2030, pero ahora mismo sólo está consiguiendo algo: colapsar la red tradicional. Esta tecnología necesita mucha energía y, además, constante, lo que está provocando que haya colapsos en la red.
+
+La estimación es que el consumo de energía de estos centros de datos aumentará un 175% de aquí a 2030. Y no sólo el consumo: las emisiones de Google han subido un 48% en el último lustro y las de Microsoft otro 31%. Eran dos de las compañías más comprometidas con el ‘net zero’ para 2050.
+
+Como apuntan en Bloomberg, hay análisis que ya apuntan a que la mitad de los centros de datos que hay previstos para Estados Unidos a lo largo de 2026 se retrasarán o cancelarán. Supondrá un golpe para una industria que no puede detenerse porque hay muchísimo dinero en juego (y más el año que Anthropic y OpenAI quiere convertirse en empresas públicas) y donde compiten contra una China que no parece levantar el pie del acelerador.
+
+La solución pasa por la electrificación de la red mediante las renovables, pero el problema es que estas soluciones pueden dar energía constante, pero no son las mejores para dar mucha energía en los picos de entrenamientos. Se necesitarían grandes baterías y, con el auge paralelo de los coches eléctricos, no hay. Desde el grupo de analistas Wood Mackenzie apuntan que Estados Unidos “no tiene suficiente capacidad para andar por sí misma, por lo que sus empresas se ven obligadas a ir al mercado de exportación”.
+
+. Y ahí está el problema. Estados Unidos y China están inmersos en una guerra tecnológica, pero también comercial. Esto dificulta que las empresas estadounidenses compren lo necesario a la industria china, que es la que lleva la batuta en materia de baterías y paneles solares. Jensen Huang -CEO de NVIDIA- ya comentó hace unos meses que estaba bien eso del conflicto internacional, pero que no había que ser corto de miras y debían aprovechar lo que China tiene para ofrecer.
+
+La realidad es que se estima que los centros de datos consumirán hasta 12 GW de energía en 2026 sólo en Estados Unidos, más de lo que necesitan diez millones de hogares estadounidenses. Y, aunque la infraestructura eléctrica supone menos el 10% del coste total de un centro de datos, es imposible que la instalación empiece a funcionar sin ella. Ahora bien, EEUU tiene margen de maniobra, otra cosa es que activen las palancas.
+
+
+# Stargate
+2025
 Además de SoftBank, OpenAI, Oracle y MGX son los otros patrocinadores financieros iniciales. También estarán involucrados en el proyecto como socios tecnológicos tan importantes como **AMD, Microsoft y NVIDIA**. OpenAI asumirá el rol de encargado operativo, mientras que SoftBank será el responsable financiero.
 
 Se trata de una iniciativa liderada por el CEO de SoftBank, Masayoshi Son, que tiene como finalidad invertir 500.000 millones de dólares en los próximos cuatro años para construir nueva infraestructura de IA para OpenAI dentro del país norteamericano.

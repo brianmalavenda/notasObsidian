@@ -2,7 +2,7 @@
 tipo:: #mpg
 tags:: #mpg/starlink #mpg/t-mobile #5g
 fecha:: 2025-09-04
-links:: [[Starlink]] [[T-Mobile]]
+links:: [[Tesla]] [[T-Mobile]]
 links_externos::
 
 La filial estadounidense de la empresa alemana de telecomunicaciones T-Mobile lanzó T-Satellite con Starlink, en alianza con la red satelital SpaceX para eliminar las zonas sin cobertura en los Estados Unidos, incluyendo las islas de Hawái, Puerto Rico y partes del sur de Alaska.
