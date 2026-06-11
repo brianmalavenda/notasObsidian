@@ -1,11 +1,11 @@
 tipo::
-tags:: #wordpress #seguridad
+tags:: #wordpress #seguridad #web/seguridad 
 fecha:: 2025-09-04
 links:: [[Seguridad Web]] [[01_Wordpress]]
 links_externos::
 
 1- Version de Wordpress actualizada
-2- Ocultar path de login /wp-admin
+2- Ocultar path de login /wp-admin -> loginsession
 3- Certificado SSL
 4- Bloqueo de países
 5- Contraseñas: Mientras más caracteres mejor

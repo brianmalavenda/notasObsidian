@@ -1,5 +1,5 @@
 tipo:: [[Seguridad Web]] 
-tags:: #seguridad/web/cache 
+tags:: #seguridad/web/cache #web/seguridad 
 fecha:: 2025-08-29
 links::
 links_externos::

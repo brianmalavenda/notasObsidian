@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #web/seguridad
 fecha:: 2025-08-29
 links:: [[Comandos entre sitios (XSS)]] [[Envenenamiento de caché]] 
 links_externos:: [bleepingcomputer](https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/) 

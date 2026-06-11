@@ -1,16 +1,16 @@
 tipo::
-tags::
+tags:: #backups 
 fecha:: 2026-06-04
-links::
+links:: [[Proxmox_PVE]]
 links_externos::
 
-Pasamos de una configuración de red rígida e ineficiente a un modelo unificado, performante y, sobre todo, blindado ante catástrofes utilizando **Proxmox VE (PVE)**, **TrueNAS (NFS)** y **Proxmox Backup Server (PBS)**.
+Pasamos de una configuración de red rígida e ineficiente a un modelo unificado, performante y, sobre todo, blindado ante catástrofes utilizando [[Proxmox_PVE]] (PVE), **TrueNAS (NFS)** y **Proxmox Backup Server (PBS)**.
 
 A continuación, les detallo el proceso paso a paso, los dolores de cabeza (errores) con los que nos topamos, cómo los solucionamos y el resultado final.
 
 ## 1. El Escenario Inicial y el Objetivo
 
-Teníamos una máquina virtual de producción (`vm-apps`) corriendo **Nextcloud mediante un stack de Docker**. El problema era que el volumen de datos apuntaba de manera rígida a un montaje de red antiguo.
+Teníamos una máquina virtual de producción (`vm-apps`) corriendo [[Nextcloud]] mediante un stack de Docker. El problema era que el volumen de datos apuntaba de manera rígida a un montaje de red antiguo.
 
 **El objetivo:** Mudar ese almacenamiento a un pool de discos mecánicos en **RAID (Mirror)** gestionado por **TrueNAS** a través del protocolo **NFS**, pero haciéndolo de la "forma correcta": asignando un disco virtual controlado por el hipervisor (PVE) para que **Proxmox Backup Server (PBS)** pueda realizar copias de seguridad incrementales a nivel de bloques y deduplicadas de manera nativa.
 

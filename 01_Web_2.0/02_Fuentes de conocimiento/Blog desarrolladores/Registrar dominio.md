@@ -1,5 +1,5 @@
 tipo:: #web
-tags:: #blog_desarrolladores #dominio/registrar 
+tags:: #blog_desarrolladores #dominio/registrar #desarrollo/arquitectura 
 links:: [[Delegar dominio]]
 links_externos:: [nic.ar/](https://nic.ar/)
 

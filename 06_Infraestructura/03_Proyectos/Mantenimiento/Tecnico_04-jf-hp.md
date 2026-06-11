@@ -7,9 +7,9 @@ links_externos::
 ---
 
 nombre::julieta
-dispositivo::hp laptop 15-gw0xxx laptop-jinqsek8
+dispositivo:: [[HP]] laptop 15-gw0xxx laptop-jinqsek8
 fecha:: 2025-12-12
-sistema::windows
+sistema:: [[Windows_11]]
 procesador:: AMD Athlon Silver 3050U with Radeon Graphics (2.30GHz)
 ram:: 4 GB, 3,44 utilizable
 rom:: 1 TB -> 250 SSD

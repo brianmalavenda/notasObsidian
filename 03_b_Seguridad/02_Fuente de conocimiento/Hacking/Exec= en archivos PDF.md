@@ -1,5 +1,5 @@
 tipo:: [[Seguridad Ordenador]] [[APT36]] 
-tags:: #seguridad/ordenador/archivos_impostores 
+tags:: #seguridad/ordenador/archivos_impostores #web/seguridad 
 fecha:: 2025-08-29
 links::
 links_externos:: [bleepingcomputer](https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/) 

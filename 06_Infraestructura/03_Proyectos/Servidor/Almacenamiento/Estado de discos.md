@@ -1,3 +1,8 @@
+tipo::
+tags:: #almacenamiento
+fecha:: 2026-06-05
+links::
+links_externos::
 
 Cristaldisk info
 Victoria

@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #backups 
 fecha:: 2026-04-14
 links::
 links_externos::
@@ -32,7 +32,7 @@ Para asegurarte de que el PBS (DISCO C1) realmente salve los datos de tus usuari
 - **¿Por qué?** De esta forma, los datos de los usuarios se escriben físicamente en el Mirror de 4 TB de TrueNAS (protegidos contra fallas de hardware), pero al ser un "disco virtual" controlado por Proxmox, cuando el PBS corre el backup diario, **sí va a poder respaldar esos 4 GB de datos de usuario** hacia el DISCO C1 de la netbook.
 
 
-![[Pasted image 20260414044426.png]]
+![[esquema_config_backups.png]]
 ### Paso 1: El Secreto para un Backup Seguro
 
 Antes de nada, un consejo de experto para tu homelab: **no compartas el dataset principal de backups**. Si un ransomware infecta tu PC y ves la unidad de backups, la encriptará también[](https://www.truenas.com/docs/core/13.0/coretutorials/sharing/smb/managingsmbshares/#acl-presets).
@@ -88,9 +88,7 @@ Ahora sí, vamos a crear el share propiamente dicho.
 2. En la barra de direcciones, escribe la ruta de tu servidor TrueNAS. Puede ser su nombre o su IP: `\\nombre-o-ip-de-tu-truenas` (Ejemplo: `\\192.168.1.10`)[](https://www.truenas.com/docs/core/13.3/gettingstarted/sharingstorage/#accessing-the-dataset).
     
 3. Te pedirá usuario y contraseña. Usa las credenciales de un usuario que hayas creado en TrueNAS (en `Accounts` > `Users`). Asegúrate de que ese usuario tenga permisos sobre el dataset que compartiste.
-    
 
-### Resumen Visual de tu Flujo de Trabajo
 
 
 ---

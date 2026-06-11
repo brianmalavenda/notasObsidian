@@ -1,6 +1,6 @@
 
 tipo::
-tags::
+tags:: #ia 
 fecha:: 2025-09-03
 links::
 links_externos:: https://36kr.com/p/3450777552901512

@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #rendimiento #cache #desarrollo/arquitectura 
 fecha:: 2025-10-06
 links::
 links_externos::

@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #ia 
 fecha:: 2026-02-12
 links::
 links_externos::

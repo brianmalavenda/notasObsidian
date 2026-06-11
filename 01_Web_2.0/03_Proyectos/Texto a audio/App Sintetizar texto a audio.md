@@ -1,5 +1,6 @@
 ---
 tags:
+  - "#web/proyectos"
 excalidraw-plugin: parsed
 excalidraw-open-md: true
 Creado: 2025-09-12

@@ -1,4 +1,4 @@
-<<<<<<< HEAD:03_Seguridad/02_Fuente de conocimiento/Seguridad Web.md
+
 tipo::
 tags:: #internet #red/servidor_dhcp #ip/estática #red/chaddr #red/dhcpoffer #red/servidor_wins #red/mascara_de_subred #red/gateway #red/lease_time
 fecha:: 2025-09-04

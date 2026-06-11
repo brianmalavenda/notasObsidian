@@ -1,3 +1,9 @@
+tipo::
+tags::
+fecha:: 2026-06-05
+links::
+links_externos::
+#desarrollo/python 
 
 > error: externally-managed-environment × This environment is externally managed ╰─> To install Python packages system-wide, try apt install python3-xyz, where xyz is the package you are trying to install.
 
@@ -35,3 +41,7 @@ python3 test-library.py  # Asegúrate de que el entorno esté activado
 **6. Eliminar el entorno virtual** (opcional):  
     Si ya no lo necesitas, borra la carpeta del entorno:    
     rm -rf ~/venv_geo 
+
+
+---
+#### Referencias

@@ -3,6 +3,7 @@ tags::
 fecha:: 2025-09-19
 links::
 links_externos::
+#web/desarrollo 
 
 Desde este humilde lugar, Pearce opera [Searcha Page](https://searcha.page/) y su variante centrada en la privacidad, Seek Ninja. De esta manera, cuando se realiza una búsqueda en estas páginas, la consulta viaja directamente a un servidor que funciona entre ciclos de lavado. Y lo más increíble es que, salvo por una ligera latencia que Pearce ha ido mejorando, los resultados son de una calidad asombrosa.
 

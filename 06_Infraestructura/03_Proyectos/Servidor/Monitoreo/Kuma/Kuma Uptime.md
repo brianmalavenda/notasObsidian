@@ -5,7 +5,7 @@ links::
 links_externos::
 
 
-![[Pasted image 20260515141348.png]]
+![[kuma_uptime_dashboard.png]]
 
 ---
 #### Referencias

@@ -1,6 +1,6 @@
 
 tipo:: #web/proyectos
-tags::
+tags:: #desarrollo/arquitectura 
 fecha:: 2025-09-02
 links::
 links_externos::

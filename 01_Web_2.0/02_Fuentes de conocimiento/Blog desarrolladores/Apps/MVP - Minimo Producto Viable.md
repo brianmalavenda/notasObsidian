@@ -1,13 +1,13 @@
-
-Tags: 
-Links: https://www.youtube.com/watch?v=WxUmv1Mk1Nw
-
-## REQUERIMIENTOS
+tipo::
+tags::
+fecha:: 2026-06-05
+links::
+links_externos::https://www.youtube.com/watch?v=WxUmv1Mk1Nw
+#web/proyectos  
+## Requerimientos
 
 Si se trata de una aplicación web destinada al uso de los usuarios a través de internet navegando por browsers desde una PC o dispositivo móvil requerirá:
-
 ### Etapa de desarrollo
-
 [fecha: 01/07/25]
 
 Para el desarrollo, debemos disponer de servicio a internet con banda ancha. Cualquier servicio de proveduría de internet hogareños sirve, no es necesario un plan destacado. La conexión por cable es mas segura y suele ser mas rápida que por wifi. Por lo tanto, depende de donde es el lugar de trabajo y la ubación del modem se necesitará más cable o repetidores de señal si buscamos conexión por wifi.
@@ -106,3 +106,7 @@ Detección de problemas, sacar lo que no se use (3 meses)
 ### FASE 4: Lanzamiento
 
 Testeo principalmente de escalabilidad
+
+
+---
+#### Referencias

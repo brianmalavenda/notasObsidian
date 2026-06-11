@@ -1,3 +1,9 @@
+tipo::
+tags::
+fecha:: 2026-06-05
+links::
+links_externos::
+#desarrollo/python
 
 * Interpretado
 * Alto nivel
@@ -12,3 +18,7 @@ https://www.youtube.com/watch?v=2yvbLC9Fxkk
 
 
 https://ellibrodepython.com/estructuras-control-python
+
+
+---
+#### Referencias

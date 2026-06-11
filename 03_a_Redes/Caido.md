@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #redes
 fecha:: 2025-11-25
 links::
 links_externos::https://caido.io/

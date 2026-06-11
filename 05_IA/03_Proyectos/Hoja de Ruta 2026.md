@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #ia 
 fecha:: 2026-02-02
 links::
 links_externos::
@@ -14,47 +14,34 @@ links_externos::
 | **4** | Agentes de IA y Orquestación     | 8-10 semanas | **Agente MVP** (beta testers) |
 | **5** | Producción + Go-to-Market        | 8-12 semanas | **Primer cliente pagando**    |
 
-
 ## 🧱 FASE 0: Fundamentos (Semanas 1-6)
 
 **Objetivo:** Dominar Python científico y álgebra lineal suficiente para no ser un "copia-pega".
-
 ### Recursos Open Source (100% gratis)
 
 1. **[ML for Beginners](https://github.com/microsoft/ML-For-Beginners)** - Microsoft (12 semanas, pero haz las primeras 4)
-    
 2. **[Python for Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)** - Jake VanderPlas
-    
-
 ### Proyecto Clave
-
 - **"Predicción de precios inmobiliarios"** desde cero con NumPy (sin scikit-learn todavía). Debes entender qué hace `.fit()` por dentro.
-    
 
 ### Checkpoint de Salida
 
 - Resuelves ecuaciones lineales con matrices
-    
 - Entiendes qué es el gradiente descendiente sin ver un video de YouTube
-    
 
 ---
 
 ## 🌱 FASE 1: Machine Learning Tradicional (Semanas 7-14)
 
 **Objetivo:** Entender el flujo completo de datos antes de meter redes neuronales.
-
 ### Recursos Clave
 
 1. **[AI for Beginners](https://github.com/microsoft/AI-For-Beginners)** - Microsoft (curso completo)
-    
 2. **[Made With ML](https://github.com/GokuMohandas/Made-With-ML)** - MLOps desde el día 1 (crítico para comercializar después)
-    
 
 ### Proyecto Clave
 
 - **Clasificador de emails** con Random Forest + pipeline completo de deployment con Docker (aprende Docker aquí, no después).
-    
 
 ### Checkpoint
 

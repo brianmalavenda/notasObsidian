@@ -1,4 +1,4 @@
-tags:: #antivirus #seguridad/ordenador #blog_seguridad
+tags:: #antivirus #seguridad/ordenador #blog_seguridad #privacidad 
 links:: 
 links_externos::
 

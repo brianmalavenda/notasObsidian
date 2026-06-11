@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #web/seguridad
 fecha:: 2025-09-22
 links::
 links_externos::

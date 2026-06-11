@@ -1,6 +1,6 @@
 
 tipo:: [[Seguridad Web]] 
-tags:: #seguridad/web/phising 
+tags:: #seguridad/web/phising  #web/seguridad
 fecha:: 2025-08-29
 links::
 links_externos:: [bleepingcomputer](http://bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/), [iplogger](https://iplogger.org/es/ )

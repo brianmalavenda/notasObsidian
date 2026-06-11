@@ -1,5 +1,5 @@
 tipo:: [[Seguridad Web]] 
-tags:: #seguridad/web/script_injecting 
+tags:: #seguridad/web/script_injecting #web/seguridad 
 fecha:: 2025-08-29
 links::
 links_externos::

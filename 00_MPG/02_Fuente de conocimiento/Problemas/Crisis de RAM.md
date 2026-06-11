@@ -9,7 +9,7 @@ links_externos:: [Crisis-RAM-Xataka](https://www.xataka.com/componentes/mundo-se
 
 El gran cuello de botella de la industria de la inteligencia artificial no tiene que ver con los modelos de IA, las GPUs o los centros de datos. Tiene que ver con la memoria, y desde hace meses [estamos inmersos en una crisis](https://www.xataka.com/componentes/precio-memoria-se-dispara-300-industria-ha-dejado-fabricar-para-personas-fabrica-para-maquinas) de la que ahora los fabricantes nos dan más datos. Tres empresas —Samsung, SK Hynix y Micron— controlan el 90% de la producción mundial, pero las estimaciones actuales indican que entre las tres [solo podrán cubrir](https://www.trendforce.com/presscenter/news/20260331-12995.html?ref=implicator.ai) cerca del 60% de la demanda prevista hasta 2027.
 
-![[Pasted image 20260421070318.png]]
+![[empresas_productoras_RAM.png]]
 
 La fiebre por la IA ha provocado que los fabricantes de chips como Samsung y SK Hynix prioricen la producción de memorias HBM para servidores y GPUs de IA, dejando de lado el mercado de consumo que se usan en PCs y móviles, y desde octubre de 2025 hemos visto cómo este mercado se ha disparado en precio.
 

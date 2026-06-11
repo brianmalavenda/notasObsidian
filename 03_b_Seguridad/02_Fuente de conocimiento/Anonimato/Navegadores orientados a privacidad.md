@@ -1,6 +1,6 @@
 
 tipo:: [[Seguridad Web]]
-tags:: #seguridad/web/navegadores 
+tags:: #seguridad/web/navegadores #privacidad 
 fecha:: 2025-09-06
 links:: [[Brave]] [[Wolf]]
 links_externos::

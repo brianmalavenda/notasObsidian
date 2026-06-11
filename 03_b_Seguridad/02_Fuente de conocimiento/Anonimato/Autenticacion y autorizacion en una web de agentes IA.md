@@ -1,5 +1,5 @@
 tipo:: [[Seguridad Web]]
-tags:: #cloudflare #autenticacion #autorizacion 
+tags:: #cloudflare #autenticacion #autorizacion #privacidad 
 fecha:: 2025-08-29
 links:: 
 links_externos:: [positiveblue](https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers)

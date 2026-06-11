@@ -7,8 +7,8 @@ links_externos::
 ---
 
 nombre::jmd
-dispositivo::notebook enova
-sistema:: windows 11 configurado para instalar
+dispositivo:: [[Enova]]
+sistema:: [[Windows_11]]
 ram:: 4gb
 rom:: 117gb
 - [x] nueva

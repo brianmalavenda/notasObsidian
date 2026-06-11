@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #privacidad 
 fecha:: 2025-09-08
 links:: [[OpenSSL]], [[Que es una VPN]], [[Protocolo TLS]]
 links_externos::

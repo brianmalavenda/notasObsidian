@@ -15,7 +15,7 @@ openssl req -x509 -nodes -days 3650 -newkey rsa:2048 -keyout bkp.local.key -out 
 
 - **Resultado:** Obtendrás inmediatamente dos archivos en el directorio donde estás parado: `bkp.local.key` (clave privada) y `bkp.local.crt` (certificado).
 
-![[Pasted image 20260604134957.png]]
+![[credenciales_nginx.png]]
 ### Paso 2: Configurar Nginx como Reverse Proxy (Servidor Linux)
 
 1. Sube los dos archivos generados al servidor de Nginx, idealmente en la ruta `/etc/nginx/ssl/`.

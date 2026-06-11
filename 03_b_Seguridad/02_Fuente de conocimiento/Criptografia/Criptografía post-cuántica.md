@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #privacidad 
 fecha:: 2025-11-10
 links::
 links_externos::

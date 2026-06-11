@@ -1,7 +1,7 @@
 tipo::
-tags::
+tags:: #redes 
 fecha:: 2026-05-14
-links::
+links:: [[DNS]]
 links_externos::
 
 ### Fase 1: Generar el Hash de la nueva contraseña
@@ -24,7 +24,6 @@ python3 -c 'import bcrypt; print(bcrypt.hashpw(b"tu_nueva_clave", bcrypt.gensalt
 #### Opción B: Usando el binario de AdGuard
 
 Si prefieres usar el propio contenedor para asegurar que el algoritmo sea el exacto de su versión:
-
 
 ```bash
 docker run --rm adguard/adguardhome /opt/adguardhome/AdGuardHome --hash-password "tu_nueva_clave"

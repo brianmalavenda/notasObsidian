@@ -5,10 +5,10 @@ links::
 links_externos::
 
 
-![[Pasted image 20260417102251.png]]
+![[config_switch_vlans_port.png]]
 
 
-![[Pasted image 20260417103016.png]]
+![[wireshark_2.png]]
 
 ### 1. El "Grito" en el vacío (Líneas 1, 4, 7, 8...)
 

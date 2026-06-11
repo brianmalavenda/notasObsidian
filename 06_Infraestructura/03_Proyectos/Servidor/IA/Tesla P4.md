@@ -5,7 +5,7 @@ links::
 links_externos::
 
 
-![[Pasted image 20260326123136.png]]
+![[controlador_grafico_NVIDIA.png]]
 
 ---
 #### Referencias

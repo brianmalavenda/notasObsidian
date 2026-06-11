@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #ia 
 fecha:: 2025-09-19
 links::
 links_externos::

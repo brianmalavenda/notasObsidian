@@ -1,5 +1,7 @@
 ---
 tags:
+  - "#datos"
+  - "#desarrollo/arquitectura"
 excalidraw-plugin: parsed
 excalidraw-open-md: true
 Creado:

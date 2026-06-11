@@ -1,5 +1,5 @@
 
-tags:: #celular #seguridad/web/anonimato #blog_seguridad
+tags:: #celular #seguridad/web/anonimato #blog_seguridad #privacidad/dispositivo  
 links:: 
 links_externos::
 #### SIM Anonima

@@ -1,5 +1,5 @@
 tipo:: #web/proyectos 
-tags::
+tags:: #mpg
 fecha:: 2025-08-29
 links::
 links_externos::

@@ -1,3 +1,11 @@
+tipo::
+tags::
+fecha:: 2026-06-05
+links::
+links_externos::
+#desarrollo/arquitectura 
+#desarrollo/autenticacion
+
 🔐⚙️ JWT vs OAuth2: ¿Cuál método de autenticación deberías usar?
 
 La elección del sistema de autenticación en tu arquitectura no es solo una cuestión técnica, ¡es una decisión estratégica que impacta directamente en la seguridad, escalabilidad y experiencia del usuario! 🚀
@@ -39,4 +47,5 @@ No se trata de cuál es mejor "en general", sino de cuál se adapta mejor a TU c
 💬 COMENTA qué método estás usando hoy y por qué
 🔔 SÍGUEME para más comparativas técnicas, claras y con impacto
 
-👨‍💻 Ignacio Camiletti
+---
+#### Referencias

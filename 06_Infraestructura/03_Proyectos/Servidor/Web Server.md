@@ -9,7 +9,6 @@ links_externos::
 Podemos conectarnos a servidores, esto es un tipo de comunicación en un canal que no es el "oido" sino por otro puerto. El protocolo más seguro y comúnmente usado es el SSH que se establece por el puerto :22. Lo que hace el servidor es abrir un socket, es decir, un archivo, para poder hacer la comunicación. 
 
 Podemos probar con NGINX
-
 ---
 #### Referencias
 

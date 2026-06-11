@@ -1,4 +1,4 @@
-tags:: #seguridad/web/anonimato #ip #blog_seguridad
+tags:: #seguridad/web/anonimato #ip #blog_seguridad #privacidad 
 links:: [whois](https://www.whois.com)
 links_externos::
 

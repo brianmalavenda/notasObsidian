@@ -1,5 +1,5 @@
 
-Tags: #seguridad/web/ataques/ransomware #seguridad/web/ataques/phishing 
+Tags: #seguridad/web/ataques/ransomware #seguridad/web/ataques/phishing #web/seguridad 
 Link: [[Seguridad Red]] [[Navegacion Web]]
 
 ### Phishing y ataques de ingeniería social

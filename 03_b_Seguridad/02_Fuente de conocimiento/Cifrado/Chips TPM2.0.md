@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #privacidad/dispositivo 
 fecha:: 2025-11-06
 links::
 links_externos::

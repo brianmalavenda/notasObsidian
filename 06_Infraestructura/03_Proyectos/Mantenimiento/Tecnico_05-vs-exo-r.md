@@ -7,8 +7,8 @@ links_externos::
 ---
 
 nombre:: vs
-dispositivo:: notebook exo
-sistema:: windows 10
+dispositivo:: [[Exo]]
+sistema:: [[Windows_10]]
 ram:: 4gb
 rom:: 250 gb
 - [ ] nueva

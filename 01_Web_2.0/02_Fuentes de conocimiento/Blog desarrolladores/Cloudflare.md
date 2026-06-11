@@ -1,5 +1,5 @@
 tipo:: #web
-tags:: #cdn #cloudflare #dns #seguridad #blog_desarrolladores
+tags:: #cdn #cloudflare #dns #seguridad #blog_desarrolladores #desarrollo/arquitectura 
 links:: [[01_Web_2.0/02_Fuentes de conocimiento/Blog desarrolladores/Registrar dominio]] -[[Delegar dominio]] - [[02_Configuracion]] 
 links Externos: [Contenido de como configurar cloudflare](https://www.youtube.com/watch?v=I2mv4456l74) , [Reglas de cloudflare](https://github.com/search?q=cloudflare%20rules&type=repositories) , [Cloudflare](https://www.youtube.com/watch?v=G0P-fL39N-0)
 

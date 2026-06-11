@@ -1,9 +1,8 @@
 tipo::
-tags::
+tags:: #ia 
 fecha:: 2025-11-10
 links::
 links_externos::
-
 
 La IA solo puede trabajar con los datos que recibe y puede modelar. La evolución en la captura de datos que experimentamos en la actualidad es exponencial. Según el Foro Económico Mundial, para 2025 se espera que esta cifra supere los 180 ZB -un zettabyte equivale a mil millones de terabytes-, y otras estimaciones pronostican un crecimiento anual de más del 25%. Aproximadamente entre el 10% y el 15% de ese volumen fueron etiquetados o estructurados de manera útil para IA y, con la mejora de las técnicas de autoaprendizaje y generación de datos sintéticos, este porcentaje está aumentando rápidamente.
 

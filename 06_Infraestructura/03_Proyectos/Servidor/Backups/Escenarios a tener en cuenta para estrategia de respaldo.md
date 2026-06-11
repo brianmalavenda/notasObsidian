@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #backups 
 fecha:: 2026-06-02
 links:: 
 links_externos::

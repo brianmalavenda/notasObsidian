@@ -52,7 +52,7 @@ Esta contraseña puede cambiarse con la que se quiera
 ![[andes_enlace_publico_nueva_pass.png]]
 
 una vez hecho esto, se guardan los cambios y se envía el link a la persona que tiene que acceder al archivo. Allí, desde cualquier dispositivo, como su celular, puede tocar en el link, poner la pass y abrir el archivo.
-![[Pasted image 20260528105812.png]]
+![[andes_compartir_archivo_andes_pass.png]]
 
 
 ---

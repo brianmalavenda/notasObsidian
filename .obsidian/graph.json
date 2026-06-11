@@ -111,9 +111,79 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "#desarrollo/arquitectura",
+      "color": {
+        "a": 1,
+        "rgb": 3684408
+      }
+    },
+    {
+      "query": "#desarrollo/autenticacion",
+      "color": {
+        "a": 1,
+        "rgb": 7056383
+      }
+    },
+    {
+      "query": "#desarrollo/python",
+      "color": {
+        "a": 1,
+        "rgb": 7486659
+      }
+    },
+    {
+      "query": "#nube",
+      "color": {
+        "a": 1,
+        "rgb": 35010
+      }
+    },
+    {
+      "query": "#privacidad",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "#privacidad/dispositivo",
+      "color": {
+        "a": 1,
+        "rgb": 14606046
+      }
+    },
+    {
+      "query": "#web/seguridad",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "#datos",
+      "color": {
+        "a": 1,
+        "rgb": 4192365
+      }
+    },
+    {
+      "query": "#ia",
+      "color": {
+        "a": 1,
+        "rgb": 3764280
+      }
+    },
+    {
+      "query": "#backups",
+      "color": {
+        "a": 1,
+        "rgb": 23638
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -123,6 +193,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.0921397910892074,
+  "scale": 0.09213979108920743,
   "close": false
 }

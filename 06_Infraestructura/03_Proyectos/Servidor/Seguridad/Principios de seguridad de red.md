@@ -34,7 +34,7 @@ Con las VLANs creadas, debes definir quién habla con quién:
         
 
 
-![[Pasted image 20260327145132.png]]
+![[config_switch_vlans.png]]
 
 ---
 

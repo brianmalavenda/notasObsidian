@@ -1,5 +1,5 @@
 tipo:: #web
-tags:: #blog_desarrolladores #rendimiento
+tags:: #blog_desarrolladores #rendimiento #desarrollo/arquitectura 
 links:: 
 links_externos::
 

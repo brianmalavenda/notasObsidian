@@ -1,4 +1,4 @@
-Tags: #seguridad/web 
+Tags: #seguridad/web #web/seguridad 
 Links: [[Seguridad Red]] 
 
 Compartimentacion de navegación por la web

@@ -1,19 +1,25 @@
-
 tipo::
-tags:: 
-fecha:: 2025-09-04
+tags:: #privacidad/dispositivo a
+fecha:: 2025-09-08
 links:: [[Huawei]]
 links_externos::
 
+## Posicionamiento
 
- Huawei Mate X6, que menciona la comunicación dual por satélite, pero especifica que solo la edición de coleccionista es compatible con el satélite Tiantong y la mensajería Beidou, mientras que otras variantes solo son compatibles con la mensajería Beidou.  las especificaciones del Mate X6, indicando explícitamente que su funcionalidad de comunicación por satélite se basa en el BDS y su uso está restringido a China
-Los usuarios pueden preguntarse cómo mejora el BDS la seguridad y la conectividad de los dispositivos móviles, en particular frente al espionaje y las escuchas ilegales. Se requieren explicaciones técnicas sobre las características de seguridad del BDS, como la comunicación cifrada de mensajes cortos, la autonomía y la controlabilidad del sistema y la menor dependencia del GPS. En cuanto a la conectividad, se deben abordar las áreas de cobertura (especialmente la ventaja del BDS en Asia-Pacífico) y cómo los dispositivos de Huawei aprovechan estas capacidades.
-Tenga en cuenta que los usuarios pueden estar interesados en los detalles técnicos, pero también preocupados por factores geopolíticos, como el impacto de la competencia tecnológica entre China y Estados Unidos en la seguridad. Mantenga la objetividad citando información oficial de los resultados de búsqueda, como las certificaciones de seguridad de Huawei y los casos de aplicación del sistema BeiDou.
+Admite GPS (banda dual L1 + L5)/AGPS/GLONASS/Beidou (banda cuádruple B1I + B1C + B2a + B2b)/GALILEO (banda triple E1 + E5a + E5b)/QZSS (banda dual L1 + L5)/NavIC
 
-seguridad contra la suplantación de identidad en los sistemas de navegación global, mencionando el mecanismo de autenticación OsnMA del sistema Galileo
-Los cuatro principales sistemas GNSS, destacando el diseño híbrido de la constelación de Beidou y la tecnología de enlace entre satélites, que reducen la dependencia de las estaciones terrestres. 
+## Sistema operativo HarmonyOS 4.3
 
-Huawei, mostrando que HarmonyOS ha obtenido la certificación CC EAL6+, lo que indica un alto nivel de seguridad.
+HarmonyOS 5.0 (comprar Hongmeng NEXT Pioneer Edition, el sistema operativo del dispositivo es HarmonyOS 5.0)
+
+
+## Conexion de datos
+#### WLAN
+2,4 GHz y 5 GHz
+802.11 a/b/g/n/ac/ax, 2 × 2 MIMO, HE160,1024 QAM, 8 Sondeo de flujo espacial MU-MIMO
+
+
+HUAWEI Mate X6 y HUAWEI Mate X6 Collector's Edition proporcionan hardware de terminal móvil para mensajes satelitales Beidou y deben usarse en lugares abiertos y sin obstáculos. Antes del primer uso, los servicios relacionados con SMS satelitales Beidou del operador deben activarse o activarse a través de la aplicación Changlian en un entorno con una red terrestre. Solo admite el envío de mensajes con imágenes satelitales de Beidou a través de la aplicación Changlian. Las imágenes se comprimen con pérdida y el efecto de compresión está limitado por el ancho de banda de la red satelital; la longitud del texto de los mensajes editados libremente también está limitada por el ancho de banda de la red satelital; consulte la experiencia real. Esta función sólo está disponible en China continental (excluidos Hong Kong, Macao y Taiwán). Huawei cooperará con las pruebas y verificaciones públicas; consulte la información oficial para obtener detalles sobre las funciones y las reglas de actividad.
 
 ---
 #### Referencias

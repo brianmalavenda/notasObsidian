@@ -52,7 +52,7 @@ bash -c "$(wget -qLO - https://raw.githubusercontent.com/MacRimi/ProxMenux/main/
 
 Esto instala la opcion de tener los helpers scripts dentro de proxmox pero además crea una instancia de monitoreo accesible en la misma subred del proxmox en el puerto 8008.
 
-![[Pasted image 20260327123437.png]]
+![[PVE_Monitor.png]]
 
 
 ### ¿Cómo defino la IP en Proxmox?

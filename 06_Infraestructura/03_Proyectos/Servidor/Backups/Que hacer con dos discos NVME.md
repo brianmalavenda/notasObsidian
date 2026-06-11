@@ -8,7 +8,7 @@ links_externos::
 
 Significa configurar un Pool ZFS independiente en Proxmox (llamado por ejemplo `local-nvme2`) exclusivamente para que actúe como un **espejo de corto plazo en caliente** de tus máquinas virtuales.
 
-- **Cómo funciona:** Proxmox VE tiene una función nativa llamada **Replication**. Podés programar que cada 15 o 30 minutos, el sistema operativo haga un snapshot invisible de tus VMs productivas (que corren en el NVMe 1) y mande una réplica exacta al NVMe 2.
+- **Cómo funciona:** [[Proxmox_VE]] tiene una función nativa llamada **Replication**. Podés programar que cada 15 o 30 minutos, el sistema operativo haga un snapshot invisible de tus VMs productivas (que corren en el NVMe 1) y mande una réplica exacta al NVMe 2.
     
 - **Por qué es un golazo en tu contexto:** Si tu NVMe principal (`nvme0n1`) llega a fallar físicamente a las 4:00 PM, no necesitás ir a buscar el backup de la netbook PBS de la noche anterior (perdiendo todo el trabajo del día). Directamente le das "Play" a la réplica del NVMe 2 y en **30 segundos** tenés tu Nextcloud y tus WordPress levantados con los datos casi al minuto.
     

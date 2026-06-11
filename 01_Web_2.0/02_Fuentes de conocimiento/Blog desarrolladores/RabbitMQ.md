@@ -1,14 +1,11 @@
 tipo::
-tags::
+tags:: #desarrollo/arquitectura #rendimiento 
 fecha:: 2025-10-06
 links::
 links_externos::
 
 ## Definición
-
-^5256c4
-
-RabbitMQ es un **"intermediario de mensajes"** que gestiona la comunicación entre servicios. ^definicion-rabbit
+RabbitMQ es un **"intermediario de mensajes"** que gestiona la comunicación entre servicios. 
 ## Analogía práctica:
 Imagina que RabbitMQ es el **SISTEMA POSTAL** de tu aplicación:
 - Tú depositas una carta (mensaje) en la oficina postal (RabbitMQ)

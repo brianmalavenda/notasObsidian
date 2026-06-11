@@ -13,7 +13,7 @@ Para el caso de la segmentación de redes, esta característica es un error, ya 
 
 ## Configuración de mi switch
 
-![[Pasted image 20260416145724.png]]
+![[config_swtich_valns_2.png]]
 
 **El problema:** Según tu tabla, en la **VLAN 1** (la de arriba de todo), los puertos **1 a 6 están todos como Untagged**.
 
@@ -55,7 +55,7 @@ Para ver si la segmentación está fallando, hacé esto en Wireshark:
     - Eso significa que el "aire" de la VLAN 1 se está mezclando con el de tu red YACANTO. El switch le está entregando a tu PC paquetes que no le pertenecen.
 
 
-![[Pasted image 20260416153144.png]]
+![[wireshark_1.png]]
 
 
 ---

@@ -1,9 +1,8 @@
 tipo::
-tags::
+tags:: #ia 
 fecha:: 2026-02-02
 links::
 links_externos::
-
 
 ## Benchmarks Models
 
