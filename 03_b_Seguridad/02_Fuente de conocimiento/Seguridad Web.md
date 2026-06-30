@@ -6,7 +6,7 @@ links::
 links_externos::
 =======
 Tags: #internet #red/servidor_dhcp #ip/estática #red/chaddr #red/dhcpoffer #red/servidor_wins #red/mascara_de_subred #red/gateway #red/lease_time
-links: [[VPN]] [[Navegacion Web]] [[Cambiar DNS de la PC]] 
+links: [[03_b_Seguridad/02_Fuente de conocimiento/VPN]] [[Navegacion Web]] [[Cambiar DNS de la PC]] 
 links_externos: 
 
 >>>>>>> cbef0a2542750bf1b3db34b7f269a33abdb21384:03_Seguridad/Blog seguridad/Seguridad red.md

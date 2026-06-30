@@ -1,5 +1,5 @@
 tags: #seguridad/ordenador
-links: [Telemetria](Telemetria.md), [Whonix](Whonix.md), [Databroker](Databroker.md), [[VPN]]
+links: [Telemetria](Telemetria.md), [Whonix](Whonix.md), [Databroker](Databroker.md), [[03_b_Seguridad/02_Fuente de conocimiento/VPN]]
 
 Conceptos: #bridge, #proxy
 1.  Configurar OneDrive para desvincularlo de los equipos y borrar los archivos que quedaron en la nube asegurando de descargarlos primero en el PC local

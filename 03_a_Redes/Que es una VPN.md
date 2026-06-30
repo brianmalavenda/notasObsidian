@@ -1,7 +1,7 @@
 tipo:: [[Seguridad Red]]
 tags:: #seguridad/web/vpn #seguridad/red/vpn #vpn  
 fecha:: 2025-09-06
-links:: [[Proton VPN]] [[Crear cuenta proton]] [[VPN]]
+links:: [[Proton VPN]] [[Crear cuenta proton]] [[03_b_Seguridad/02_Fuente de conocimiento/VPN]]
 links_externos::
 
 ### ¿Qué es una VPN?

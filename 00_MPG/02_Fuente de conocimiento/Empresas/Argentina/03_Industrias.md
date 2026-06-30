@@ -21,7 +21,7 @@ links_externos::
 
 ## 2- Conectividad soberana
 
-1. [[ARSAT]]
+1. [[00_MPG/02_Fuente de conocimiento/Empresas/Argentina/ISP/ARSAT]]
 2. [[Telecom]]
 3. [[Koc Latinoamerica]]
 4. [[Mindtec]]
@@ -32,7 +32,7 @@ links_externos::
 
 ## 3- Datacenter
 
-1. [[ARSAT]]
+1. [[00_MPG/02_Fuente de conocimiento/Empresas/Argentina/ISP/ARSAT]]
 2. [[Datecenter TDF]]
 3. [[Nubecenter]]
 4. [[OneCloud]]
@@ -68,7 +68,7 @@ _Estas áreas son las que transforman los datos y la infraestructura en producto
 3. [[Yubico]]
 ## 8- Observatorio de Nuevas Tecnologías e Investigación
 
-1. [[INVAP]]
+1. [[00_MPG/02_Fuente de conocimiento/Empresas/Argentina/I+D/INVAP]]
 2. [[CONICET]]
 
 ---

@@ -12,6 +12,16 @@ tipo:: #web/proyectos
 >[!quote]+ Esquema 
 >![[App Sintetizar texto a audio]]
 
+## Prompt de app
+
+tengo una app a mitad de desarrollo y quisiera acelerar el paso utilizando modelos de IA que me permitan escalar la velocidad de productividad y tener un producto testeado para lanzar a producción.
+
+mi app: la arquitectura de mi app esta basada en microservicios. Tengo una api que se encarga de comunicarse con un servicio de traducción de texto a voz a través de text-to-spech de google. Para eso me autentico en el servicio de google y subo allí un texto que quiero que traduzca a voz.
+
+el procesamiento del texto lo hago en el backend donde interacturo a través de una api para subir el archivo que quiero traducir, guardarlo en una base de datos de archivos procesados y generar los endpoints que me permitan consultar el estado de los archivos y revisar cuales fueron procesados y convertidos en audio
+
+un frontend que me permite cargar el archivo docx que tiene subrayado en amarillo con resaltado el texto que quiero que se convierta en audio. Se verifica el formato adecuado en el backend y luego habilita la posibilidad de convertirlo a audio. Una vez la api que se comunica con google convierte el audio, se descarga y se guarda en el servidor y a través del front lo comparto en pantalla para que el usuario lo pueda chequear y compartir por whatsapp o telegram.
+
 ## Detalle
 
 Es una aplicación web donde subimos archivos de audio y/o videos para poder pasar eso a texto. La aplicación debería aceptar en una segunda iteración que los videos sean envíados por el link donde se encuentra subido en youtube. El texto devuelto por la aplicación debería poder descargarse en un archivo .txt o visualizarlo ne una ventana de texto directamente en la aplicación. (Hay que ver si esto se actualiza en vivo o directamente cuando se termina de procesar el archivo) Acomodar texto con mayúsculas, signos de puntuación, nombres propios.  

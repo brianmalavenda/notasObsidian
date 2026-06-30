@@ -1,7 +1,7 @@
 tipo:: [[Seguridad Red]]
 tags:: #seguridad/red/vpn #seguridad/web/vpn 
 fecha:: 2025-09-06
-links:: [[Que es una VPN]] [[VPN]] [[Cambiar DNS]] 
+links:: [[Que es una VPN]] [[03_b_Seguridad/02_Fuente de conocimiento/VPN]] [[Cambiar DNS]] 
 links_externos::
 
 ![[Que es una VPN]]

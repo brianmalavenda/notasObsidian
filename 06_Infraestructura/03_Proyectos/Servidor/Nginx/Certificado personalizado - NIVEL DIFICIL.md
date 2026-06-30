@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #redes 
 fecha:: 2026-06-04
 links::
 links_externos::

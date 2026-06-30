@@ -1,5 +1,5 @@
 tipo:: #mpg/proyectos 
-tags::
+tags:: #ia
 fecha:: 2025-10-23
 links::
 links_externos::

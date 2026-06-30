@@ -1,5 +1,5 @@
 tipo::
-tags:: #ia 
+tags:: #ia #promt
 fecha:: 2026-06-05
 links::
 links_externos::
