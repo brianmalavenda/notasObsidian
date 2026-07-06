@@ -4,6 +4,7 @@ fecha:: 2026-06-30
 links::
 links_externos::
 
+La investigadora menciona el caso de Peter Thiel, que está comprando propiedades en América con un esquema similar. En Honduras, por ejemplo, invirtió en un proyecto masivo de ciudad privada "libre" que pretende tener autonomía fiscal, policía propia y legislación de Estados Unidos
 
 La llegada de Peter Thiel, CEO de la empresa Palantir, este año es una señal del aceleramiento de la transformación del estado nacional argentino en una sede corporativa controlada por los monopolios yanqui-sionistas. Este 
 Barrio Parque
