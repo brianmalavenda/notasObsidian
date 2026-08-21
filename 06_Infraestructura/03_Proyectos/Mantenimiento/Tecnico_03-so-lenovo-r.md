@@ -6,8 +6,8 @@ links_externos::
 
 ---
 nombre::seba
-dispositivo:: [[Lenovo]]
-sistema:: [[Windows_11]]
+dispositivo::lenovo
+sistema::windows
 ram::2gb
 rom::256gb
 - [ ] nueva
