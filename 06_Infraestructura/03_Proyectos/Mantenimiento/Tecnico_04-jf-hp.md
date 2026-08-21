@@ -8,15 +8,22 @@ links_externos::
 
 nombre::julieta
 dispositivo:: [[HP]] laptop 15-gw0xxx laptop-jinqsek8
-fecha:: 2025-12-12
+fecha:: 2026-07-30
 sistema:: [[Windows_11]]
 procesador:: AMD Athlon Silver 3050U with Radeon Graphics (2.30GHz)
 ram:: 4 GB, 3,44 utilizable
-rom:: 1 TB -> 250 SSD
-- [ ] nueva
-diagnostico:: el sistema operativo tarda mucho en iniciar
+rom:: 240 SSD -> 240 SSD
+diagnostico:: error al cargar el sistema operativo
 que_hacer:: formatear
 
+La computadora no cargaba el sistema operativo. Se formateo creyendo que había sido un error en la instalación de alguna actualización del sistema operativo. Dos veces luego de la instalación se colgó abruptamente con un mensaje de error de disco.  
+Cambiamos el disco PATRIOT BURST reciclado de una notebook vieja por otro de 240GB KINGSTON también reutilizado de una notebook vieja.
+
+---
+fecha:: 2025-12-12
+diagnostico:: el sistema operativo tarda mucho en iniciar
+que_hacer:: formatear
+rom:: 1 TB -> 240 SSD
 
 la CPU y la ram se mantienen estables despues del inicio de sesion, pero el DISCO HDD tiene mesetas de un periodo considerable que esta al 100% con valles del 20% o un poco menos. La exigencia de escritura/lectura para el disco mecánico no lo soporta y tiene este overloop
 

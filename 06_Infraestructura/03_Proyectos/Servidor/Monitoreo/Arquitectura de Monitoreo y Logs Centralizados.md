@@ -75,6 +75,15 @@ La arquitectura está diseñada para escalar hacia un entorno multi-nodo de la s
 - Dichos agentes remotos apuntarán sus directivas de salida hacia las IPs de los contenedores centralizados de esta máquina, atravesando las distintas subredes/VLANs correspondientes.
 
 
+## cAdvisor
+
+es un agente que recaba informacion de los contenedores
+
+# Promtail
+
+toma los archivos de logs de las aplicaciones que exporten sus logs y podamos acceder a la ruta de logs. 
+
+
 ---
 #### Referencias
 
