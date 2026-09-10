@@ -5,6 +5,12 @@ links::
 links_externos::
 
 
+# Mistral nació para construir modelos europeos. Tres años después ha descubierto que la verdadera batalla está debajo de ellos
+8/9/26
+
+Ambición no le falta. La propia compañía describe ahora su propuesta como un catálogo en el que incluye modelos de pesos abiertos, infraestructura y capacidad de cómputo. Esa transición lleva meses en marcha: ha desplegado algunos nodos regionales para ejecutar modelos de IA en Europa, está construyendo infraestructura propia y creó los llamados European Compute Units (ECU) con contratos de varios años que permiten a las empresas gestionar la demanda para financiar la capacidad de cómputo europea. El objetivo: 1 GW de capacidad de cómputo en 2030.
+
+El problema de la "soberanía". La ronda que acaba de levantar Mistral y que teóricamente la ayudará a crear esa independencia europea es de todo menos europea. Está liderada por Samsung y entre los inversores está Nvidia, cuyos chips siguen siendo esenciales para esa infraestructura con la que la startup francesa quiere contar. El año pasado fue ASML la que lideró la ronda de 1.700 millones, y aunque estos datos no invalidan la estrategia, sí que ponen comillas a ese término cada vez más sobado de "soberanía". Está muy bien que Europa pueda tener un model propio que se entrena y se infiere en centros de datos europeos, pero el viejo continente sigue tenienddo una dependencia enorme de países extranjeros que por ejemplo proporcionan chips y memorias para esos centros de datos.
 # Muy en silencio y con infraestructura propia, una empresa de IA europea ya come en la mesa de las grandes: Mistral
 12/2/2026
 

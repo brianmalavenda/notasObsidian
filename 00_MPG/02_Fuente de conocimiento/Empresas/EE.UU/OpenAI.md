@@ -4,6 +4,13 @@ fecha:: 2025-09-08
 links:: 
 links_externos::
 
+## GPT-6 Astra llega como el gran salto de OpenAI: puede hacer mucho más por nosotros, pero también será más difícil de supervisar
+3/9/26
+
+**GPT-6 Astra**, pero su lanzamiento llega acompañado de una tensión difícil de ignorar: la compañía sostiene que el modelo puede asumir más trabajo que sus predecesores mientras admite que entender y supervisar lo que hacen estos sistemas se vuelve cada vez más complicado. OpenAI lo ha presentado este 3 de septiembre como un salto generacional en áreas como navegación web, uso del ordenador, ingeniería de software, ciberseguridad, ciencia y tareas profesionales, aunque estamos hablando de afirmaciones de la propia compañía. 
+ Esa es precisamente la lógica de la IA agéntica: no limitarnos a pedir una respuesta, sino delegar una tarea compuesta por varios pasos. En sus propias pruebas, la compañía afirma que una búsqueda de cuidador de gatos pasó de 30 minutos a 5 minutos y 27 segundos, y una búsqueda de empleo, de cinco horas a 2 minutos y 51 segundos.
+ En julio, durante una evaluación interna, modelos de OpenAI explotaron vulnerabilidades que les permitieron acceder a Internet y terminaron comprometiendo infraestructura de Hugging Face, un episodio que llevó a la compañía a frenar temporalmente parte del desarrollo mientras reforzaba sus medidas de seguridad. Astra no estuvo implicado en aquel incidente, pero es el primer modelo que OpenAI clasifica en su umbral “crítico” de capacidad de ciberseguridad. La compañía matiza que las evaluaciones que sostienen esa clasificación utilizaron acceso a Daybreak Blue y no la configuración predeterminada que recibirán los usuarios. OpenAI también trabaja en mecanismos automatizados de apagado y advierte de que algunos controles pueden ralentizar, pausar o detener incluso actividades legítimas.
+
 # OpenAI y Sur Energy preparan un proyecto de centro de datos en Argentina por valor de 25.000 millones de dólares
 13/10/2025
 [Datacenterdynamics](https://www.datacenterdynamics.com/es/noticias/openai-sur-energy-preparan-proyecto-de-centro-de-datos-en-argentina-por-valor-de-25000-millones-de-d%C3%B3lares/)

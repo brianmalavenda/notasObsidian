@@ -4,6 +4,11 @@ fecha:: 2025-09-19
 links::
 links_externos::
 
+# Reunión Ministerial de Innovación del G20
+4/9/26
+
+Reunión Ministerial de Innovación del G20 que se celebra en Carolina del Norte  el mandamás de Nvidia se ha [dirigido](https://www.bloomberg.com/news/articles/2026-09-02/nvidia-s-huang-urges-g20-to-speed-ai-adoption-as-key-to-growth) a las mayores economías del mundo con una petición: que empiecen a ponerse las pilas para expandir la infraestructura de IA.  mandamases de otras grandes tecnológicas como Elon Musk y Mark Zuckerberg [mandaron](https://www.straitstimes.com/world/united-states/zuckerberg-musk-make-plea-at-g-20-for-more-ai-data-centres) un mensaje similar. No compararon la IA con el agua, pero sí instaron a los países del G20 a acelerar en la construcción de centros de datos y que garanticen el acceso a toda la infraestructura energética necesaria para que esos tragones centros de datos puedan operar. Y algo en lo que los tres CEOs coinciden es en que esos países deberían dejar que las empresas se regulen a sí mismas.
+
 # Para el CEO de Nvidia, China podría superar a EEUU en "la carrera de la IA"
 6/11/2025
 En una entrevista con el _Financial Times_, afirmó que el país asiático **"va a ganar la carrera de la IA"**, impulsado por la **fuerte inversión estatal** y **menores costos energéticos**, mientras que Estados Unidos se frena, en su visión, por las **regulaciones internas**.
