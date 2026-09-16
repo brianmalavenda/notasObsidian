@@ -1,0 +1,50 @@
+tipo::
+tags::
+fecha:: 2026-09-11
+links::
+links_externos::
+
+
+# Propiedad de datos (palantir)
+
+La llegada de Peter Thiel, CEO de la empresa Palantir, este año es una señal del aceleramiento de la transformación del estado nacional argentino en una sede corporativa controlada por los monopolios yanqui-sionistas. Este
+
+Barrio Parque
+
+Antes de las elecciones de medio mandato de 2022, Thiel donó 15 millones de dólares para apoyar la campaña de Vance al Senado. Sacks donó 1 millón de dólares a un comité de acción política que respaldaba la candidatura de Vance. En una publicación en Truth Social el lunes, Trump citó la "muy exitosa carrera empresarial en Tecnología y Finanzas" de Vance como una de las razones por las que fue elegido como su compañero de fórmula.
+
+El gobierno de Javier Milei presentó una legislación que crea la "corporación no humana", una empresa que puede ser propiedad de y operada directamente por inteligencia artificial, con protección de responsabilidad legal y beneficios fiscales para atraer inversión global.
+
+Milei publicó un artículo de opinión en el Financial Times promoviendo a Argentina como un hub global de IA desregulada. Yuval Noah Harari respondió con su propio artículo advirtiendo sobre los riesgos de un "Estado IA" sin fiscalización. No existe un equivalente de esta categoría legal en ningún otro país actualmente, y el movimiento coincide con la tendencia de economías emergentes que usan la IA para posicionarse geopolíticamente.
+
+Si prospera, Argentina marca un marco legal inédito que puede atraer startups y capitales que buscan operar con menos fricción regulatoria. El riesgo: sin mecanismos de rendición de cuentas, una empresa de IA podría evadir responsabilidades que las empresas humanas no pueden evitar. Para Latinoamérica, esto abre un debate sobre la competencia regulatoria regional que países como Panamá tendrán que responder pronto.
+
+A diferencia de las corporaciones tradicionales, estas organizaciones no humanas gozarían de los beneficios de la personalidad jurídica, pero operarían sin la intervención ni la responsabilidad final de ningún ser humano.
+
+Esto implica que los agentes de IA estarían facultados para poseer activos, contratar empleados, participar en el comercio internacional, iniciar demandas judiciales ante los tribunales e incluso realizar donaciones a campañas políticas de manera directa.
+
+Ariel Garbarz, ingeniero en Electrónica y especialista en Inteligencia Artificia, reflexiona sobre la presencia de Peter Thiel en Argentina. Alertó este viernes que el dueño de la plataforma de macrodatos Palantir, Peter Thiel, le ofreció a Javier Milei sus servicios para "gobernar con datos cruzados" para controlar a la ciudadanía. El modelo de Thiel es el que funciona con Donald Trump en Estados Unidos, que entregó las bases de 26 reparticiones públicas, incluida la CIA y las agencias de seguridad, para deportar inmigrantes o capturarlos con el ICE pero también en Gran Bretaña, el Estado de Israel y tres estados federales de Alemania, tal como informó LPO.⁠
+
+Ariel Garbarz en diálogo con #DataClave sostuvo que el sistema de Palantir estaría orientado a intervenir en la percepción pública, generando desconfianza hacia la dirigencia política e incluso influyendo en la conducta electoral: "promueve el voto en blanco".
+
+La principal preocupación de este docente universitario es que Palantir puede servir de soporte para la unificación de todas las bases de datos del Estado nacional, algo que ya está contemplado en el artículo 15 del decreto de la SIDE 941/25. En ese texto, se habla de la creación de la Comunidad de Inteligencia Nacional (CIN), que núclea desde la información de ARBA hasta el Renaper.
+
+En la órbita de las Fuerzas de Seguridad, están preparando todo un entramado de vigilancia física y virtual, en línea con la política represiva contra los trabajadores. A principios de mayo se modificó el organigrama del Ministerio de Seguridad Nacional, creando nuevas subsecretarías orientadas a ciberseguridad e inteligencia criminal. Esta medida tiene como antecedente la reforma del estatuto de la Policía Federal, apuntando a un modelo de "FBI argentino" enfocado en delitos complejos y nuevas facultades, como el ciberpatrullaje y la facultad de realizar requisas sin orden judicial.
+
+Esta semana se llevó a cabo la séptima edición del encuentro internacional sobre ciberseguridad White Hat Conference 2026 en el Hotel Sheraton de Ciudad de Mendoza. El evento fue organizado de manera conjunta el Boston University Metropolitan College, el laboratorio de lucha contra el cibercrimen en Latinoamérica CLICLEX y el Gobierno de la Provincia de Mendoza.
+
+Tanto la ministra Mercedes Rus como Patricia Bullrich enfatizaron que el ciberdelito dejó de ser un problema meramente técnico o policial para convertirse en un desafío prioritario para la seguridad nacional. La ministra mendocina advirtió que las vulnerabilidades no son solo tecnológicas, afirmando que "son hackeables los sistemas, pero, sobre todo, son hackeables las sociedades, los sistemas electorales y los sistemas tributarios". Patricia Bullrich, por su parte, reforzó su doctrina de seguridad al señalar la importancia de anticiparse a los hechos delictivos en lugar de reaccionar cuando ya ocurrieron. "No es esperar a que las cosas sucedan, sino anticiparse", expresó durante su panel.
+
+La “doctrina de la anticipación” no es un asunto meramente del área de defensa. En sintonía con estos planteos, el Ministerio de Capital Humano anunció una plataforma de alcance nacional llamada “Gemelo Digital Social” para la simulación de políticas sociales. Aspira a construir una réplica virtual de la sociedad, un "mapa vivo", construido con análisis de datos de ANSES, RENAPER, salud, educación y otras áreas para simular el impacto de políticas sociales, algo que, según el gobierno, convertiría al Estado en "predictivo" en lugar de "reactivo".
+
+La Agencia Federal de Ciberseguridad (AFC) de la SIDE remitió informes internos de carácter "preventivo" al Ministerio de Seguridad y a los directorios de empresas privatizadas de energía y transporte. Estos reportes fueron el resultado del ciberpatrullaje informal mediante minería de datos (Big Data) en redes sociales, detectando núcleos de organización sindical que planificaban medidas de fuerza en nodos logísticos estratégicos. La inteligencia de Estado se desvía de sus funciones de soberanía exterior para actuar como un servicio de consultoría de seguridad privada para los monopolios.
+
+Lo que están armando es un gran centro de inteligencia de datos, con todos los datos que permanentemente generamos al realizar trámites, pagar con medios digitales, interactuar en redes sociales, circular en vehículos a través de los sistemas de monitoreo de patentes, etc. Los datos que procesaría el Gemelo Digital bien podrían alimentar los algoritmos predictivos de la Unidad de Inteligencia Artificial Aplicada a la Seguridad (UIAAS) creada en 2024 para identificar patrones de comportamiento social que luego sean monitoreados en tiempo real por el ciberpatrullaje.
+
+Propón en tu informe que toda organización social, sindicato o movimiento debe tener su propio "Internet Archive" descentralizado basado en redes P2P como IPFS. Si el dato no está en múltiples nodos controlados por la comunidad, el dato no existe. Cuestiona la nube. Los datos soberanos requieren un retorno crítico al almacenamiento físico y al software autoalojado (self-hosted). La veracidad se garantiza con hashes criptográficos y firmas, pero la existencia se garantiza con copias en territorio propio, no en AWS.
+
+
+
+---
+#### Referencias
+

@@ -6,10 +6,8 @@ links_externos::
 
 La tokenización, algunos click para el saqueo del país 
 
-
 Trampa global o proxima revolución financiera
 La manipulación de bitcoin desde su caida abrupta de valer 126.000 por dólar a 89.000 y la relación con el interes los grandes grupos concentrados de utilizarlo dentro del sistema de pagos mundial a ravés de las CBDC'S (monedas digitales de bancos centrales)
-
 3 de las 7 empresas con más bitcoins en latinoamerica son argentinas (Mercadolibre, Globant y Bitfarms)
 
 ## Activos digitales
