@@ -4,8 +4,76 @@ fecha:: 2025-10-06
 links::
 links_externos::
 
-Vamos a tratar de entender cómo funcionan los algoritmos de inteligencia artificial de LLM basados en la generación de texto coherente, donde si coloco como prompt de entrada "El perro", el algoritmo selecciona "ladra" como la palabra más coherente para continuar la oración.
+Son algoritmos PREDICTIVOS. Vamos a tratar de entender cómo funcionan los algoritmos de inteligencia artificial de LLM basados en la generación de texto coherente, donde si coloco como prompt de entrada "El perro", el algoritmo selecciona "ladra" como la palabra más coherente para continuar la oración.
 
+## Contexto Window
+
+El contexto largo a veces es mencionado como una forma de que el modelo responda mejor pero es todo lo contrario. El espacio de almacenamiento de este contexto de usuario es el sobrante de: 1-System propmt, 2-Historial, 3-Archivos leidos y por último 4-Instruccion actual del usuario. 
+
+>[!NOTA] NOTA
+>Hay un texto que se menciona mucho para este tema que se llama "Attemption is all you need" respecto a la "atención" del modelo referido al contexto enfocado para determinar un resultado.
+
+Por lo tanto, una vez que el **historial** esta lleno los modelos hacen una **Compactación**. Esta compactación tiene reglas y métodos dependiendo quienes son los dueños del modelo se plantea un camino a seguir para resolver este tema:
+1. Long Context: límite de 1M de tokens
+2. RAG: busqueda vectorizada de resultados. Depende de un buen embeding
+3. Fine-Tuning: reentrenar el modelo continuamente
+4. Memory Layer: capas de memoria
+
+## Agentes
+
+A diferencia de un Chatbot, los agentes ACTUAN sobre el entorno dado por el usuario. Lee código, Edita archivos, Ejecuta test, Guarda en memoria.
+
+Para poder trabajar sobre la máquina, un agente tiene herramientas, TOOLS. Estas herramientas son agregadas por el usuario como su "navaja suiza" para expandir o acotar las capacidades del agente.
+
+La primera idea para esto era crear un archivo markdown gigante con TODAS las reglas del proyecto. Estilo, patrones, anti-patrones, convenciones, workflows. El agente lo leía al inicio y "sabía" como trabajar. De ahí vienen las **Skills**. En vez de un archivo gigante, un router (AGENTS.md liviano) que apunta a SKILL.md especificos. Solo se carga el contexto que necesitas para la tarea actual. Contexto dinamico bajo demanda.
+
+### Subagentes
+
+Skills resuelve QUE contexto cargar. Pero un solo agente sigue acumulando ruido. La solucion: delegar cada fase a un sub-agente efimero con contexto fresco. Nace, ejecuta con la propmt que le envía el ORQUESTADOR, le reporta a este y muere. 
+
+Esto luego se integra a una arquitectura como esta como solución a lo anterior: Orquestador (coordina) + Skills (contexto preciso) + Sub-agentes (ejecucion limpia) + Memoria persistente (continuidad). La arquitectura que resuelve las limitaciones del LLM con ingenieria.
+
+Esto se llama SDD: Spec Driven Development que viene del Test Driven Development, que esto es una buena práctica para el desarrollo con IA.
+
+Creamos los test para todos los casos de uso, creamos los corner cases digamos y pedimos que nos haga la triangulación. Partimos entonces de los requerimientos que se convierten en lo principal. 
+
+### Espacializaciones
+
+1. Explorador
+2. Proposer
+3. Spec Writer
+4. Designer
+5. Task Planner
+6. Implementer
+7. Verifier
+
+## DAG
+
+Proposal → [Specs || Design] → Tasks → Apply → Verify → Archive. Las fases se ejecutan en orden con checkpoints. Specs y Design pueden ir en paralelo
+
+**Por que escala**
+Aislamiento de contexto, checkpoints de calidad, memoria institucional. El Implementer no se distrae con dudas del Explorer. Si el Verifier rechaza, no llega al PR.
+- **Aislamiento de contexto:** Cada agente solo ve lo que necesita. Sin ruido acumulado.
+- **Checkpoints de calidad:** Verifier chequea contra specs antes de ir al PR.
+- **Memoria institucional:** Engram guarda decisiones. La próxima sesión arranca donde esta terminó.
+
+### Aquitectura Go + SQL Lite + F35
+
+No guardamos todo (eso es ruido). Guardamos senales: decisiones, errores resueltos, patrones. Observaciones estructuradas con What/Why/Where/Learned. 
+- **Decisiones:** Qué se eligió y por qué
+- **Errores resueltos:** Bug + causa + solución
+- **Patrones:** Convenciones del proyecto
+- **What/Why/Where/Learned:** Formato estructurado siempre
+
+**El Engram Loop: dos sesiones**
+Sesion 1: disenar → mem_save.
+Sesion 2: implementar → mem_search recupera decision → codigo consistente. Sin Engram la sesion 2 ignora la 1. Con Engram hay continuidad real.
+**El Engram Loop: dos sesiones**
+
+- **SESSION 1:** diseñar → `mem_save` (guarda decisión) → **WRITE** → **ENGRAM (persistent storage)**
+- **SESSION 2:** implementar → `mem_search` (recupera decisión) ← **READ** ← **ENGRAM (persistent storage)**
+
+### Resto de notas
 
 data: todo el conocimiento de la humanidad - corpus - 
 multimodales incorporan imagenes y video al corpus

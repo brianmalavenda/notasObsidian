@@ -20,6 +20,7 @@ Desde la perspectiva forense, la gran mayoría del malware (99%) vive en el sist
 	Muy relevante para vos porque estás evaluando servidores con gestión remota (IPMI mencionado en las placas que buscaste): el BMC es esencialmente una computadora aparte dentro del servidor, con su propio firmware, su propia memoria, a veces su propio almacenamiento — corre incluso con el servidor apagado. Un BMC comprometido sobrevive a cualquier acción sobre el sistema operativo principal.
 
 6. **Implantes de Hardware (Hardware Implants):** Algo físicamente instalado en el bus PCIe o en los puertos SATA (ej. un keylogger de hardware o un chip espía). Esto requiere extracción física.
+7. **Conexión por Bluetooth para el rastreo:** Algunas notebooks modernas (como las que integran tecnologías de rastreo nativas estilo _Tile_ o la red _Buscar_ de Apple) pueden ser localizadas de forma pasiva **si tienen el Bluetooth encendido**, incluso sin internet. La notebook emite una señal Bluetooth cifrada. Si un teléfono celular de otra persona (que sí tiene internet y GPS) pasa cerca, detecta esa señal de forma anónima y reporta la ubicación de la notebook a la nube.
 
 
 ---

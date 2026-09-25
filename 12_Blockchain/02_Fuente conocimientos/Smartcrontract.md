@@ -63,8 +63,45 @@ ahora si yo consulto mi variable "message" con la funcion getMessage, la transac
 }
 ```
 
-como es una consulta, esta operación no se cobra
+como es una consulta, esta operación no se cobra.
 
+Account 1 es la billetera digital que crea el contrato
+![[Pasted image 20260917151228.png]]
+
+RemixVM es la blockchain donde el serivcio es de terceros en este caso.
+
+
+Conectar a la billetera virtual, wallet.
+
+Una vez que tengo configurada mi billetera de Metamask para poder visualizar las redes de prueba, selecciono Sepolia. Luego voy a este link https://cloud.google.com/application/web3/faucet/ethereum/sepolia donde me deja conectar la billetera virtual e imprimirle dinero de prueba. En este caso 0.05 ETH en Sepolia ETH.
+
+Una vez confirmada la transacción se visualiza un mensaje
+
+![[Pasted image 20260917161208.png]]
+
+Luego, verificamos en la billetera que en Sepolia se hayan agregador los ethers. Para eso vamos a la billetera de metamask
+
+![[Pasted image 20260917161455.png]]
+
+Acá mismo en donde dice "Red: Ethereum", seleccionamos Sepolia ETH y verificamos tener los 0.05 ETH. Una vez hecho eso, en REMIX conectamos desde Environment a nuestra wallet. Para eso elegimos la opción WalletConnect. Nos conectará y luego tenemos que indicarle que queremos usar la red de prueba
+
+![[Pasted image 20260917161716.png]]
+
+![[Pasted image 20260917161035.png]]
+
+Al conectar la wallet cuando deployamos el smart contract nos va a abrir una ventana donde nos va a indicar si queremos confirmar la transaccion
+
+![[Pasted image 20260917161233.png]]
+
+Una vez que confirmamos, veremos la transaccion en curso
+
+![[Pasted image 20260917161245.png]]
+
+Con etherscan podemos ver de cualquier red de blockchain, que transacciones se hicieron.
+https://sepolia.etherscan.io/tx/0xdb728f9ceb4cb0d0c3dbcaed83c74d7f2ccf15c29a7d19f19d00e258b09b4646
+En esta direccion permite ver el smart contract de la transaccion hecha
+https://repo.sourcify.dev/11155111/0x1f34CA81eCeC304d854a1228a8c89b413C575b30
+https://eth-sepolia.blockscout.com/address/0x1f34CA81eCeC304d854a1228a8c89b413C575b30?tab=contract
 
 ---
 #### Referencias
