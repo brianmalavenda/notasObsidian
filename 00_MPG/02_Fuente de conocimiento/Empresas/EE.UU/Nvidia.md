@@ -4,6 +4,16 @@ fecha:: 2025-09-19
 links::
 links_externos::
 
+
+
+“Somos los amos de la tecnología, no sus víctimas – dice Jensen Huang, fundador de Nvidia –. La mentalidad de víctimas es una maldición en todos los dominios de la vida. No somos víctimas, somos conquistadores”. Frenar la IA es una tarea inútil y reaccionariaEl CEO de NVIDIA Jensen Huang con su esposa Lori durante la cena de honor del presidente de Estados Unidos, Donald Trump, a su par chino Xi Jinping en la Casa Blanca, este jueves. 
+
+Huang afirma que la opción entre celeridad en la transformación y seguridad en las condiciones de vida es profundamente “falsa”. Trump agrega que los que se proponen frenar a la IA oponiéndose a la construcción de data centers sólo conseguirán “el retraso y la pobreza de Estados Unidos” y que “China logre ocupar el primer puesto en la competencia mundial”.
+
+Los “tecno-optimistas” afirman que en Estados Unidos ha surgido una “máquina tecnológica capitalista” resultado de la combinación de los cambios económicos establecidos por el gobierno de Trump – reducción de impuestos/desregulación generalizada/impulso incesante a los animal spirits (pasión por innovar e invertir de los norteamericanos) – con la revolución tecnológica de la inteligencia artificial; y así ha surgido el más formidable instrumento de acumulación capitalista desde la 1º Revolución Industrial (1780/1840); y que tiene dos rasgos característicos:
+
+==Tiene una necesidad natural de acelerar consciente y deliberadamente las innovaciones tecnológicas, de modo que la tasa de retorno de sus inversiones es cada vez mayor.==
+
 # Reunión Ministerial de Innovación del G20
 4/9/26
 
