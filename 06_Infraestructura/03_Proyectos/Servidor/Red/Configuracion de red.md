@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #servidor/guia_instalacion 
 fecha:: 2026-04-14
 links::
 links_externos::
@@ -76,9 +76,6 @@ Configura los dos Sagemcom conectándolos directamente a tu PC, uno por uno:
     
 4. Déjalos listos pero desconectados.
     
-
-
-
 ### PASO 4: El Momento del Cambio (Downtime mínimo)
 
 Ahora que tu red interna es una "maquinaria" lista para girar, hacemos el puente:
@@ -95,8 +92,6 @@ Ahora que tu red interna es una "maquinaria" lista para girar, hacemos el puente
 ### PASO 5: Verificación
 
 Si todo sale bien, en menos de 2 minutos el ER605 debería marcar la conexión PPPoE y verás el estado "Connected" en su panel. A partir de ahí, todos tus dispositivos conectados al switch deberían empezar a recibir sus IPs segmentadas y tener salida a internet.
-
-
 
 ### Análisis de tu configuración actual:
 

@@ -1,5 +1,5 @@
 tipo:: #servidor/red 
-tags::
+tags:: #servidor/guia_instalacion 
 fecha:: 2025-11-18
 links::
 links_externos::

@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #servidor/guia_instalacion 
 fecha:: 2026-03-26
 links::
 links_externos:: [GUIA](https://pve.proxmox.com/pve-docs/pve-admin-guide.html)

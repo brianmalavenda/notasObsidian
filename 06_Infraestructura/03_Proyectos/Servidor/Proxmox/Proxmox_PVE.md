@@ -1,5 +1,5 @@
 tipo::
-tags::
+tags:: #servidor/guia_instalacion 
 fecha:: 2026-06-05
 links::
 links_externos::

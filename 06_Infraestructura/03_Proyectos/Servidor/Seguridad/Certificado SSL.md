@@ -1,7 +1,7 @@
 tipo:: #servidor 
 tags::
 fecha:: 2025-10-20
-links::
+links:: #servidor/guia_instalacion 
 links_externos::
 # ¿Qué es?
 
